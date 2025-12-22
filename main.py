@@ -9,7 +9,7 @@ FRONTEND_TOKEN = requests.get("https://bbradar.io/api/frontend-token").json()["f
 CSRF_TOKEN = requests.post("https://bbradar.io/api/csrf-token", json={"frontend_token": FRONTEND_TOKEN}).json()["csrf_token"]
 
 API_BASE = "https://bbradar.io/api"
-OUTPUT_FILE = "feed.atom"
+OUTPUT_FILE = "docs/feed.atom"
 
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0',
