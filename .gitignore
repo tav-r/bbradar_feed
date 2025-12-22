@@ -2,4 +2,6 @@
 !main.py
 !feed.atom
 !.github/
+!.github/workflows/
+!.github/workflows/update.yml
 !.gitignore

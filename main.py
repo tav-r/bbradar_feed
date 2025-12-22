@@ -65,7 +65,6 @@ def main():
 
     programs = list(reversed(sorted(programs, key=lambda x: x["date_launched"])))[:100]
 
-    # Filter future dates and sort
     now = datetime.datetime.now(datetime.timezone.utc)
     valid_programs = []
     
@@ -75,26 +74,21 @@ def main():
             p['_date'] = p_date
             valid_programs.append(p)
             
-    # Sort newest first
     valid_programs.sort(key=lambda x: x['_date'].timestamp(), reverse=True)
 
-    # Setup Atom Feed
     feed = Element('feed', xmlns="http://www.w3.org/2005/Atom")
     SubElement(feed, 'title').text = "BBRadar Feed"
     SubElement(feed, 'updated').text = now.isoformat()
 
     print(f"[-] Processing {len(valid_programs)} programs serially...")
 
-    # Serial Processing
     for i, prog in enumerate(valid_programs):
         print(f"[{i+1}/{len(valid_programs)}] {prog.get('name')}")
         
-        # Fetch scope
         pid = f"{prog['platform']}:{prog['handle']}"
         data = fetch_json(f"{API_BASE}/targets", params={'program_id': pid})
         targets = data.get('targets', []) if data else []
 
-        # Create Entry
         entry = SubElement(feed, 'entry')
         SubElement(entry, 'title').text = f"[{prog.get('platform')}] {prog.get('name')}"
         
@@ -106,7 +100,6 @@ def main():
         content = SubElement(entry, 'content', type="html")
         content.text = build_content_html(prog, targets)
 
-    # Write file
     xml_str = minidom.parseString(tostring(feed)).toprettyxml(indent="  ")
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write(xml_str)
