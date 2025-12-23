@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2025-12-23T00:34:51.405400+00:00</updated>
+  <updated>2025-12-23T06:13:00.440648+00:00</updated>
   <entry>
     <title>[YesWeHack] Digital Flanders Vulnerability Disclosure Program</title>
     <link href="https://yeswehack.com/programs/digital-flanders-vulnerability-disclosure-program"/>
@@ -85,13 +85,6 @@
     <id>https://hackenproof.com/programs/adi-foundation-smart-contracts</id>
     <updated>2025-12-09T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/68e3bafb40041c000c91953c/logo.png?timestamp=1766429329' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $200 - $10000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[source code] https://github.com/ADI-Foundation-Labs/ADI-Stack-Contracts/tree/04346d566e7625ae42ec74861da409329f9f4a3d/da-contracts&lt;/li&gt;&lt;li&gt;[source code] https://github.com/ADI-Foundation-Labs/ADI-Stack-Contracts/tree/04346d566e7625ae42ec74861da409329f9f4a3d/l1-contracts&lt;/li&gt;&lt;li&gt;[source code] https://github.com/ADI-Foundation-Labs/ADI-Stack-Contracts/tree/04346d566e7625ae42ec74861da409329f9f4a3d/l2-contracts&lt;/li&gt;&lt;li&gt;[source code] https://github.com/ADI-Foundation-Labs/ADI-Stack-Contracts/tree/04346d566e7625ae42ec74861da409329f9f4a3d/system-contracts&lt;/li&gt;&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <title>[Intigriti] Challenge 1225</title>
-    <link href="https://app.intigriti.com/programs/intigriti/challenge1225/detail"/>
-    <id>https://app.intigriti.com/programs/intigriti/challenge1225/detail</id>
-    <updated>2025-12-08T10:31:03+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://app.intigriti.com/api/file/api/file/public_bucket_4a9183d2-6b19-42a2-bdba-ca189c2c8cf3-7524e932-f18b-463c-92d2-28c8e9c12ed9' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Intigriti&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] https://*.challenge-1225.intigriti.io&lt;/li&gt;&lt;li&gt;[domain] https://challenge-1225.intigriti.io&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title>[Intigriti] Trusted Firmware</title>
@@ -666,5 +659,12 @@
     <id>https://app.intigriti.com/programs/exoscale/excoscalebugbounty/detail</id>
     <updated>2025-09-10T14:07:03+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://app.intigriti.com/api/file/api/file/public_bucket_a7c33151-eda4-4fe5-a1f6-3600324aa4df-dd797c3a-53e9-4426-a74a-193eb4d8b79d' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Intigriti&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $5000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] *.internal.exoscale.ch&lt;/li&gt;&lt;li&gt;[other] CDN service&lt;/li&gt;&lt;li&gt;[other] Marketplace products&lt;/li&gt;&lt;li&gt;[domain] https://academy.exoscale.com/&lt;/li&gt;&lt;li&gt;[domain] https://api-*exoscale.com/v2&lt;/li&gt;&lt;li&gt;[domain] https://changelog.exoscale.com/&lt;/li&gt;&lt;li&gt;[domain] https://community.exoscale.com/&lt;/li&gt;&lt;li&gt;[domain] https://exoscalestatus.com/&lt;/li&gt;&lt;li&gt;[domain] https://jobs.exoscale.com/&lt;/li&gt;&lt;li&gt;[domain] https://portal.exoscale.com/&lt;/li&gt;&lt;li&gt;[domain] https://sks-*.exo.io&lt;/li&gt;&lt;li&gt;[domain] https://sos-*.exo.io&lt;/li&gt;&lt;li&gt;[domain] https://www.exoscale.com/&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title>[Immunefi] monero-oxide</title>
+    <link href="https://immunefi.com/bounty/monero-oxide"/>
+    <id>https://immunefi.com/bounty/monero-oxide</id>
+    <updated>2025-09-09T14:58:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://images.ctfassets.net/t3wqy70tc3bv/OBgJTywLzana1ALxCFcc3/85ca6f5463dc82a51c99ffa0cde96553/MoneroOxide.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $1,000 - $100000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[source code] https://github.com/monero-oxide/monero-oxide/tree/main&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
 </feed>
