@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2025-12-24T12:14:26.527183+00:00</updated>
+  <updated>2025-12-24T18:11:43.803729+00:00</updated>
   <entry>
     <title>[YesWeHack] Digital Flanders Vulnerability Disclosure Program</title>
     <link href="https://yeswehack.com/programs/digital-flanders-vulnerability-disclosure-program"/>
@@ -29,13 +29,6 @@
     <id>https://code4rena.com/audits/2025-12-rujira</id>
     <updated>2025-12-16T20:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://code4-api-v0-public-storage.s3.us-east-1.amazonaws.com/upload-2QNMNPd3u53' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Code4rena&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $40000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[source code] https://github.com/code-423n4/2025-12-rujira&lt;/li&gt;&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <title>[HackenProof] Reliq Smart Contract Audit Contest</title>
-    <link href="https://hackenproof.com/programs/reliq-smart-contract-audit-contest"/>
-    <id>https://hackenproof.com/programs/reliq-smart-contract-audit-contest</id>
-    <updated>2025-12-16T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/693fd1fa40041c00106bf83e/logo.png?timestamp=1766483019' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $5000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[source code] https://github.com/hackenproof-public/reliq-protocol&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title>[HackenProof] BitKan Web &amp; Mobile</title>
@@ -666,5 +659,12 @@
     <id>https://bugcrowd.com/engagements/bitgo-mobileapps-mbb-og</id>
     <updated>2025-09-10T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://logos.bugcrowdusercontent.com/logos/3247/aa28/654fcb53/1652b0cca1522011e5bd40ae0023656c_Shield_Logo_Blue-Dark.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; BugCrowd&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $175 - $4500&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] *.bitgo.com&lt;/li&gt;&lt;li&gt;[mobile] https://apps.apple.com/us/app/bitgo-verify/id1608937235&lt;/li&gt;&lt;li&gt;[mobile] https://play.google.com/store/apps/details?id=com.bitgo.verify&amp;hl=en_US&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title>[Immunefi] monero-oxide</title>
+    <link href="https://immunefi.com/bounty/monero-oxide"/>
+    <id>https://immunefi.com/bounty/monero-oxide</id>
+    <updated>2025-09-09T14:58:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://images.ctfassets.net/t3wqy70tc3bv/OBgJTywLzana1ALxCFcc3/85ca6f5463dc82a51c99ffa0cde96553/MoneroOxide.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $1,000 - $100000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[source code] https://github.com/monero-oxide/monero-oxide/tree/main&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
 </feed>
