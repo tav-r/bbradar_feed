@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2025-12-25T18:11:26.655855+00:00</updated>
+  <updated>2025-12-26T00:35:12.628110+00:00</updated>
   <entry>
     <title>[YesWeHack] Digital Flanders Vulnerability Disclosure Program</title>
     <link href="https://yeswehack.com/programs/digital-flanders-vulnerability-disclosure-program"/>
@@ -111,7 +111,7 @@
     <title>[BugCrowd] TheFork Managed Bug Bounty Engagement</title>
     <link href="https://bugcrowd.com/engagements/thefork-mbb-og"/>
     <id>https://bugcrowd.com/engagements/thefork-mbb-og</id>
-    <updated>2025-12-04T00:00:00+00:00</updated>
+    <updated>2025-12-05T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://logos.bugcrowdusercontent.com/logos/bd73/78c9/794397c7/40b0bb00ca1caa91bae8db93a6fce4ac_TheFork_Symbol_Mint_RGB3.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; BugCrowd&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $3500&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] https://*.eltenedor.*&lt;/li&gt;&lt;li&gt;[domain] *.lafourchette.rest&lt;/li&gt;&lt;li&gt;[domain] *.myfourchette.com&lt;/li&gt;&lt;li&gt;[domain] https://*.tools.thefork.tech&lt;/li&gt;&lt;li&gt;[domain] https://api.thefork.com&lt;/li&gt;&lt;li&gt;[domain] https://api.thefork.io&lt;/li&gt;&lt;li&gt;[domain] https://blog.thefork.com/&lt;/li&gt;&lt;li&gt;[domain] Customer semi-login / PartialLogin feature&lt;/li&gt;&lt;li&gt;[domain] login.theforkmanager.com&lt;/li&gt;&lt;li&gt;[domain] https://m.thefork.com&lt;/li&gt;&lt;li&gt;[domain] https://manager.thefork.com&lt;/li&gt;&lt;li&gt;[domain] module.thefork.com&lt;/li&gt;&lt;li&gt;[domain] https://payment.lafourchette.com&lt;/li&gt;&lt;li&gt;[domain] https://secure.thefork.com&lt;/li&gt;&lt;li&gt;[domain] website.theforkmanager.com&lt;/li&gt;&lt;li&gt;[domain] https://widget.thefork.com&lt;/li&gt;&lt;li&gt;[domain] https://www.lafourchette.com&lt;/li&gt;&lt;li&gt;[domain] www.myfourchette.com&lt;/li&gt;&lt;li&gt;[domain] https://www.restaurant-information.com&lt;/li&gt;&lt;li&gt;[domain] https://www.thefork.*&lt;/li&gt;&lt;li&gt;[domain] https://www.thefork.com&lt;/li&gt;&lt;li&gt;[domain] https://www.theforkmanager.com&lt;/li&gt;&lt;li&gt;[mobile] https://apps.apple.com/app/thefork-manager-neo/id1295795281&lt;/li&gt;&lt;li&gt;[mobile] https://apps.apple.com/app/thefork-restaurants-bookings/id424850908&lt;/li&gt;&lt;li&gt;[mobile] https://play.google.com/store/apps/details?id=com.lafourchette.lafourchette&lt;/li&gt;&lt;li&gt;[mobile] https://play.google.com/store/apps/details?id=com.lafourchette.tfm3&lt;/li&gt;&lt;li&gt;[other] developer.thefork.io&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
@@ -153,7 +153,7 @@
     <title>[BugCrowd] Centers for Medicare &amp; Medicaid Services - Public Bug Bounty Program 2025</title>
     <link href="https://bugcrowd.com/engagements/cms-bbpublic"/>
     <id>https://bugcrowd.com/engagements/cms-bbpublic</id>
-    <updated>2025-11-27T00:00:00+00:00</updated>
+    <updated>2025-11-28T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://logos.bugcrowdusercontent.com/logos/675f/2da4/a0421e08/e75e6665002e007e4f12004eae1d0914_centers_for_medicare__medicaid_services_logo__2_.jpeg' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; BugCrowd&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $250 - $7000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] *https://developer.cms.gov/marketplace-api/&lt;/li&gt;&lt;li&gt;[domain] https://*eua.cms.gov&lt;/li&gt;&lt;li&gt;[domain] https://*nsa-idr.cms.gov&lt;/li&gt;&lt;li&gt;[domain] https://*qpp.cms.gov/&lt;/li&gt;&lt;li&gt;[domain] *https://www.cuidadodesalud.gov/es&lt;/li&gt;&lt;li&gt;[domain] *https://www.eqrs.cms.gov and all related subdomains, APIs, and supporting services.&lt;/li&gt;&lt;li&gt;[domain] *https://www.healthcare.gov&lt;/li&gt;&lt;li&gt;[domain] *https://www.portal.cms.gov (T-MSIS, MacFin, FFM)&lt;/li&gt;&lt;li&gt;[domain] https://csscoperations.com&lt;/li&gt;&lt;li&gt;[domain] https://idm.cms.gov/&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
@@ -654,17 +654,17 @@
     <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/68ade77540041c57405b6183/logo.png?timestamp=1762514548' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $200 - $75000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[source code] https://github.com/paritytech/polkadot-sdk/tree/master/bridges/snowbridge&lt;/li&gt;&lt;li&gt;[source code] https://github.com/Snowfork/snowbridge/tree/main/contracts&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
-    <title>[BugCrowd] BitGo Mobile Apps Bug Bounty Engagement </title>
-    <link href="https://bugcrowd.com/engagements/bitgo-mobileapps-mbb-og"/>
-    <id>https://bugcrowd.com/engagements/bitgo-mobileapps-mbb-og</id>
-    <updated>2025-09-11T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://logos.bugcrowdusercontent.com/logos/3247/aa28/654fcb53/1652b0cca1522011e5bd40ae0023656c_Shield_Logo_Blue-Dark.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; BugCrowd&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $175 - $4500&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] *.bitgo.com&lt;/li&gt;&lt;li&gt;[mobile] https://apps.apple.com/us/app/bitgo-verify/id1608937235&lt;/li&gt;&lt;li&gt;[mobile] https://play.google.com/store/apps/details?id=com.bitgo.verify&amp;hl=en_US&lt;/li&gt;&lt;/ul&gt;</content>
-  </entry>
-  <entry>
     <title>[Intigriti] Exoscale Bug Bounty</title>
     <link href="https://app.intigriti.com/programs/exoscale/excoscalebugbounty/detail"/>
     <id>https://app.intigriti.com/programs/exoscale/excoscalebugbounty/detail</id>
     <updated>2025-09-10T14:07:03+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://app.intigriti.com/api/file/api/file/public_bucket_a7c33151-eda4-4fe5-a1f6-3600324aa4df-dd797c3a-53e9-4426-a74a-193eb4d8b79d' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Intigriti&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $5000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] *.internal.exoscale.ch&lt;/li&gt;&lt;li&gt;[other] CDN service&lt;/li&gt;&lt;li&gt;[other] Marketplace products&lt;/li&gt;&lt;li&gt;[domain] https://academy.exoscale.com/&lt;/li&gt;&lt;li&gt;[domain] https://api-*exoscale.com/v2&lt;/li&gt;&lt;li&gt;[domain] https://changelog.exoscale.com/&lt;/li&gt;&lt;li&gt;[domain] https://community.exoscale.com/&lt;/li&gt;&lt;li&gt;[domain] https://exoscalestatus.com/&lt;/li&gt;&lt;li&gt;[domain] https://jobs.exoscale.com/&lt;/li&gt;&lt;li&gt;[domain] https://portal.exoscale.com/&lt;/li&gt;&lt;li&gt;[domain] https://sks-*.exo.io&lt;/li&gt;&lt;li&gt;[domain] https://sos-*.exo.io&lt;/li&gt;&lt;li&gt;[domain] https://www.exoscale.com/&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title>[Immunefi] monero-oxide</title>
+    <link href="https://immunefi.com/bounty/monero-oxide"/>
+    <id>https://immunefi.com/bounty/monero-oxide</id>
+    <updated>2025-09-09T14:58:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://images.ctfassets.net/t3wqy70tc3bv/OBgJTywLzana1ALxCFcc3/85ca6f5463dc82a51c99ffa0cde96553/MoneroOxide.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $1,000 - $100000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[source code] https://github.com/monero-oxide/monero-oxide/tree/main&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
 </feed>
