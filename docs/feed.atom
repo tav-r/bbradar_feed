@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2025-12-26T12:14:16.614211+00:00</updated>
+  <updated>2025-12-26T18:11:30.289372+00:00</updated>
   <entry>
     <title>[Standoff365] PT Data Security</title>
     <link href="https://bugbounty.standoff365.com/en-US/programs/pt_ds"/>
@@ -175,7 +175,7 @@
     <link href="https://hackenproof.com/programs/adi-foundation-zkvm-verification"/>
     <id>https://hackenproof.com/programs/adi-foundation-zkvm-verification</id>
     <updated>2025-12-09T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/68f89c1040041c000ff576dd/logo.png?timestamp=1765447293' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $200 - $10000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[source code] https://github.com/ADI-Foundation-Labs/ADI-Stack-Airbender-Prover/tree/4f0cf4cd1a0d7cf48d366135e53da7960b936932&lt;/li&gt;&lt;li&gt;[source code] https://github.com/ADI-Foundation-Labs/ADI-Stack-Airbender-System/tree/357b836552d72550b20a341e1b45b730bef87806&lt;/li&gt;&lt;li&gt;[source code] https://github.com/ADI-Foundation-Labs/ADI-Stack-Contracts/tree/04346d566e7625ae42ec74861da409329f9f4a3d/l1-contracts/contracts/state-transition&lt;/li&gt;&lt;li&gt;[source code] https://github.com/ADI-Foundation-Labs/ADI-Stack-Protocol/tree/767759541cd018e4271f9774f0d760ce727c905d&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/68f89c1040041c000ff576dd/logo.png?timestamp=1766769232' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $200 - $10000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[source code] https://github.com/ADI-Foundation-Labs/ADI-Stack-Airbender-Prover/tree/4f0cf4cd1a0d7cf48d366135e53da7960b936932&lt;/li&gt;&lt;li&gt;[source code] https://github.com/ADI-Foundation-Labs/ADI-Stack-Airbender-System/tree/357b836552d72550b20a341e1b45b730bef87806&lt;/li&gt;&lt;li&gt;[source code] https://github.com/ADI-Foundation-Labs/ADI-Stack-Contracts/tree/04346d566e7625ae42ec74861da409329f9f4a3d/l1-contracts/contracts/state-transition&lt;/li&gt;&lt;li&gt;[source code] https://github.com/ADI-Foundation-Labs/ADI-Stack-Protocol/tree/767759541cd018e4271f9774f0d760ce727c905d&lt;/li&gt;&lt;li&gt;[source code] https://github.com/ADI-Foundation-Labs/ADI-Stack-zkOS-Wrapper/tree/eb75ad8ee972c63a30ef1121a1b9dc79a2942569&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title>[HackenProof] ADI Foundation Smart Contracts</title>
@@ -203,14 +203,14 @@
     <link href="https://hackenproof.com/programs/zo-finance-web"/>
     <id>https://hackenproof.com/programs/zo-finance-web</id>
     <updated>2025-12-08T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/690a0d2740041c000d3c77c2/logo.png?timestamp=1765190948' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $200 - $10000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] *.zofai.io&lt;/li&gt;&lt;li&gt;[domain] https://app.zofai.io&lt;/li&gt;&lt;li&gt;[domain] https://zofai.io&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/690a0d2740041c000d3c77c2/logo.png?timestamp=1766754283' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $200 - $10000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] *.zofai.io&lt;/li&gt;&lt;li&gt;[domain] https://app.zofai.io&lt;/li&gt;&lt;li&gt;[domain] https://zofai.io&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title>[HackenProof] ZO Finance Smart Contracts</title>
     <link href="https://hackenproof.com/programs/zo-finance-smart-contracts"/>
     <id>https://hackenproof.com/programs/zo-finance-smart-contracts</id>
     <updated>2025-12-08T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/690a0e3a40041c000f3c794a/logo.png?timestamp=1765190919' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $200 - $10000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[source code] https://github.com/zofinance/zo-contracts-public&lt;/li&gt;&lt;li&gt;[source code] https://github.com/zofinance/zo-contracts-usdz-public&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/690a0e3a40041c000f3c794a/logo.png?timestamp=1766754331' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $200 - $10000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[source code] https://github.com/zofinance/zo-contracts-public&lt;/li&gt;&lt;li&gt;[source code] https://github.com/zofinance/zo-contracts-usdz-public&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title>[BugCrowd] TheFork Managed Bug Bounty Engagement</title>
@@ -402,20 +402,6 @@
     <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/wrv3l67qn7qbcft89152lvujcw85/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $2000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] calendar.notion.so&lt;/li&gt;&lt;li&gt;[domain] mail.notion.so&lt;/li&gt;&lt;li&gt;[executable] Notion Desktop App&lt;/li&gt;&lt;li&gt;[mobile] notion.id&lt;/li&gt;&lt;li&gt;[other] Github Repositories or other public artifacts owned by makenotion&lt;/li&gt;&lt;li&gt;[other] Notion AI&lt;/li&gt;&lt;li&gt;[other] Notion Authentication&lt;/li&gt;&lt;li&gt;[other] Notion Frontend&lt;/li&gt;&lt;li&gt;[other] Notion Integrations&lt;/li&gt;&lt;li&gt;[other] Privilege Escalation&lt;/li&gt;&lt;li&gt;[other] Product API&lt;/li&gt;&lt;li&gt;[other] Public API&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
-    <title>[HackenProof] DoubleUp Web</title>
-    <link href="https://hackenproof.com/programs/doubleup-web"/>
-    <id>https://hackenproof.com/programs/doubleup-web</id>
-    <updated>2025-11-11T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/69121c8b40041c000dbd4ba1/logo.png?timestamp=1763062730' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $100 - $10000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] *.doubleup.fun&lt;/li&gt;&lt;li&gt;[domain] https://www.doubleup.fun/&lt;/li&gt;&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <title>[HackenProof] DoubleUp Smart Contracts</title>
-    <link href="https://hackenproof.com/programs/doubleup-smart-contracts"/>
-    <id>https://hackenproof.com/programs/doubleup-smart-contracts</id>
-    <updated>2025-11-11T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/6912208d40041c000dbd4bc8/logo.png?timestamp=1763391391' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $100 - $50000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[smart contract] https://suivision.xyz/project/Unihouse%20Protocol?tab=Package&lt;/li&gt;&lt;/ul&gt;</content>
-  </entry>
-  <entry>
     <title>[HackerOne] Mueller Water Products (VDP)</title>
     <link href="https://hackerone.com/mueller_water_products_vdp"/>
     <id>https://hackerone.com/mueller_water_products_vdp</id>
@@ -511,7 +497,7 @@
     <link href="https://hackenproof.com/programs/volo-web"/>
     <id>https://hackenproof.com/programs/volo-web</id>
     <updated>2025-10-16T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/68e80cc140041c000ff53dd6/logo.png?timestamp=1760609315' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $5000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] https://www.volosui.com&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/68e80cc140041c000ff53dd6/logo.png?timestamp=1766754507' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $5000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] https://www.volosui.com&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title>[HackenProof] Volo Smart Contracts</title>
@@ -539,21 +525,21 @@
     <link href="https://hackenproof.com/programs/navi-protocol-web"/>
     <id>https://hackenproof.com/programs/navi-protocol-web</id>
     <updated>2025-10-16T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/667fe2fefd1804154fdbfeb9/logo.png?timestamp=1760609237' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $100 - $10000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] https://naviprotocol.io&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/667fe2fefd1804154fdbfeb9/logo.png?timestamp=1766754389' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $100 - $10000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] https://naviprotocol.io&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title>[HackenProof] NAVI Protocol</title>
     <link href="https://hackenproof.com/programs/navi-protocol"/>
     <id>https://hackenproof.com/programs/navi-protocol</id>
     <updated>2025-10-16T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/667fe215fd1804153cdc0534/logo.png?timestamp=1762265361' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $300 - $300000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[source code] https://github.com/naviprotocol/navi-smart-contracts/blob/main/lending_core/sources/incentive_v2.move&lt;/li&gt;&lt;li&gt;[source code] https://github.com/naviprotocol/navi-smart-contracts/blob/main/lending_core/sources/incentive.move&lt;/li&gt;&lt;li&gt;[source code] https://github.com/naviprotocol/navi-smart-contracts/tree/main/lending_core&lt;/li&gt;&lt;li&gt;[source code] https://github.com/naviprotocol/navi-smart-contracts/tree/main/oracle&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/667fe215fd1804153cdc0534/logo.png?timestamp=1766754377' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $300 - $300000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[source code] https://github.com/naviprotocol/navi-smart-contracts/blob/main/lending_core/sources/incentive_v2.move&lt;/li&gt;&lt;li&gt;[source code] https://github.com/naviprotocol/navi-smart-contracts/blob/main/lending_core/sources/incentive.move&lt;/li&gt;&lt;li&gt;[source code] https://github.com/naviprotocol/navi-smart-contracts/tree/main/lending_core&lt;/li&gt;&lt;li&gt;[source code] https://github.com/naviprotocol/navi-smart-contracts/tree/main/oracle&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title>[HackenProof] Astros Smart Contracts</title>
     <link href="https://hackenproof.com/programs/astros-smart-contracts"/>
     <id>https://hackenproof.com/programs/astros-smart-contracts</id>
     <updated>2025-10-16T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/68e80c1d40041c000ff53dc3/logo.png?timestamp=1761088007' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $150 - $150000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[source code] https://github.com/naviprotocol/astros-contracts/tree/main/perp_vault&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/68e80c1d40041c000ff53dc3/logo.png?timestamp=1766754489' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $150 - $150000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[source code] https://github.com/naviprotocol/astros-contracts/tree/main/perp_vault&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title>[HackerOne] Vueling</title>
@@ -588,7 +574,7 @@
     <link href="https://hackenproof.com/programs/momentum-smart-contracts"/>
     <id>https://hackenproof.com/programs/momentum-smart-contracts</id>
     <updated>2025-10-08T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/68ccde1f40041c2c8ed02ef7/logo.png?timestamp=1762265312' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $200000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[source code] https://github.com/hackenproof-public/mmt-v3-core&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/68ccde1f40041c2c8ed02ef7/logo.png?timestamp=1766754198' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $200000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[source code] https://github.com/hackenproof-public/mmt-v3-core&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title>[Immunefi] Kamino</title>
@@ -602,14 +588,14 @@
     <link href="https://hackenproof.com/programs/flowx-clmm-smart-contracts"/>
     <id>https://hackenproof.com/programs/flowx-clmm-smart-contracts</id>
     <updated>2025-10-06T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/68a855c040041c016cb9ee75/logo.png?timestamp=1762265240' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $200 - $5000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[source code] https://github.com/hackenproof-public/flowx-clmm&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/68a855c040041c016cb9ee75/logo.png?timestamp=1766754108' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $200 - $5000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[source code] https://github.com/hackenproof-public/flowx-clmm&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title>[HackenProof] Ember Vaults Smart Contracts</title>
     <link href="https://hackenproof.com/programs/ember-vaults-smart-contracts"/>
     <id>https://hackenproof.com/programs/ember-vaults-smart-contracts</id>
     <updated>2025-10-06T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/68dbff5a40041c000d70a2da/logo.png?timestamp=1759845276' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $5,000 - $15000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[source code] https://github.com/hackenproof-public/ember-vaults&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/68dbff5a40041c000d70a2da/logo.png?timestamp=1766754133' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $5,000 - $15000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[source code] https://github.com/hackenproof-public/ember-vaults&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title>[HackerOne] Lovable VDP</title>
