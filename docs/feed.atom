@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2025-12-27T06:11:25.236914+00:00</updated>
+  <updated>2025-12-27T12:13:01.925251+00:00</updated>
   <entry>
     <title>[Standoff365] PT Data Security</title>
     <link href="https://bugbounty.standoff365.com/en-US/programs/pt_ds"/>
@@ -301,7 +301,7 @@
     <link href="https://immunefi.com/bounty/aleo"/>
     <id>https://immunefi.com/bounty/aleo</id>
     <updated>2025-11-24T10:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://images.ctfassets.net/t3wqy70tc3bv/3fyZzC5R5CYmGB1rEUFd9S/6ad350030b7a5a30bb964ba0d73d8ef6/Aleo.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://images.ctfassets.net/t3wqy70tc3bv/3fyZzC5R5CYmGB1rEUFd9S/6ad350030b7a5a30bb964ba0d73d8ef6/Aleo.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $5,000 - $65000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[source code] https://github.com/ProvableHQ/snarkOS&lt;/li&gt;&lt;li&gt;[source code] https://github.com/ProvableHQ/snarkVM&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title>[YesWeHack] BIND 9 Bug Bounty Program</title>
