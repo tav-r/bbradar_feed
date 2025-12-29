@@ -1,7 +1,21 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2025-12-29T12:15:06.722092+00:00</updated>
+  <updated>2025-12-29T18:12:17.658427+00:00</updated>
+  <entry>
+    <title>[HackenProof] Whitechain Bridge</title>
+    <link href="https://hackenproof.com/programs/whitechain-bridge"/>
+    <id>https://hackenproof.com/programs/whitechain-bridge</id>
+    <updated>2025-12-29T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/695248ea40041c000f7815a2/logo.png?timestamp=1767016702' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $10000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[source code] https://github.com/whitechain-labs/bridge-contracts&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title>[HackenProof] Solv Web &amp; Infrastructure </title>
+    <link href="https://hackenproof.com/programs/solv-web-and-infrastructure"/>
+    <id>https://hackenproof.com/programs/solv-web-and-infrastructure</id>
+    <updated>2025-12-29T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/6949167440041c4ba46bd5f5/logo.png?timestamp=1767016611' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $100 - $20000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[api] *.sft-api.com&lt;/li&gt;&lt;li&gt;[domain] *.solv.finance&lt;/li&gt;&lt;li&gt;[domain] https://app.solv.finance&lt;/li&gt;&lt;li&gt;[domain] https://solv.finance&lt;/li&gt;&lt;li&gt;[other] Rest related to Solv&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
   <entry>
     <title>[Standoff365] PT Data Security</title>
     <link href="https://bugbounty.standoff365.com/en-US/programs/pt_ds"/>
@@ -638,19 +652,5 @@
     <id>https://immunefi.com/bounty/fassets</id>
     <updated>2025-10-01T02:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://images.ctfassets.net/t3wqy70tc3bv/6RvAn0eXVoZdyCg9bNkFXK/f86c8ae6a66353298cff60617734a793/Flare.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $1,000 - $250000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[source code] https://github.com/flare-foundation/fasset-bots&lt;/li&gt;&lt;li&gt;[source code] https://github.com/flare-foundation/fassets/blob/main/audit/BugBountyScope.md&lt;/li&gt;&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <title>[Immunefi] Thala Protocol</title>
-    <link href="https://immunefi.com/bounty/thala-protocol"/>
-    <id>https://immunefi.com/bounty/thala-protocol</id>
-    <updated>2025-09-30T04:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://images.ctfassets.net/t3wqy70tc3bv/7DeWYseMobv9RvO5GesJdx/382022e42f3fa2d4223c946d597cda50/irrbOSBA_400x400.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $1,000 - $250000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[smart contract] https://explorer.aptoslabs.com/account/0x07fd500c11216f0fe3095d0c4b8aa4d64a4e2e04f83758462f2b127255643615&lt;/li&gt;&lt;li&gt;[smart contract] https://explorer.aptoslabs.com/account/0x092e95ed77b5ac815d3fbc2227e76db238339e9ca43ace45031ec2589bea5b8c&lt;/li&gt;&lt;li&gt;[smart contract] https://explorer.aptoslabs.com/account/0x1bf23f0881f8fa149500ff6b7a047f608967c028a8ad7a2100caa84833ce851d&lt;/li&gt;&lt;li&gt;[smart contract] https://explorer.aptoslabs.com/account/0x48271d39d0b05bd6efca2278f22277d6fcc375504f9839fd73f74ace240861af&lt;/li&gt;&lt;li&gt;[smart contract] https://explorer.aptoslabs.com/account/0x4a3cfa9444f84a45ffa70200ec902a37101ee842e8f94b99da18f851d50dec88&lt;/li&gt;&lt;li&gt;[smart contract] https://explorer.aptoslabs.com/account/0x4dcae85fc5559071906cd5c76b7420fcbb4b0a92f00ab40ffc394aadbbff5ee9&lt;/li&gt;&lt;li&gt;[smart contract] https://explorer.aptoslabs.com/account/0x6970b4878c3aea96732be3f31c2dded12d94d9455ff0c76c67d84859dce35136&lt;/li&gt;&lt;li&gt;[smart contract] https://explorer.aptoslabs.com/account/0x6a48c1554aa54128ea7acdea6d627cda9914f4a7ffd4c7aee3432b6043291938&lt;/li&gt;&lt;li&gt;[smart contract] https://explorer.aptoslabs.com/account/0x6b3720cd988adeaf721ed9d4730da4324d52364871a68eac62b46d21e4d2fa99&lt;/li&gt;&lt;li&gt;[smart contract] https://explorer.aptoslabs.com/account/0x6f986d146e4a90b828d8c12c14b6f4e003fdff11a8eecceceb63744363eaac01&lt;/li&gt;&lt;li&gt;[smart contract] https://explorer.aptoslabs.com/account/0x7730cd28ee1cdc9e999336cbc430f99e7c44397c0aa77516f6f23a78559bb5&lt;/li&gt;&lt;li&gt;[smart contract] https://explorer.aptoslabs.com/account/0x93aa044a65a27bd89b163f8b3be3777b160b09a25c336643dcc2878dfd8f2a8d&lt;/li&gt;&lt;li&gt;[smart contract] https://explorer.aptoslabs.com/account/0x9c6d58fa009e08dfb2f5928ded14b3a790a94131da89891466b41ba1e61d83e1&lt;/li&gt;&lt;li&gt;[smart contract] https://explorer.aptoslabs.com/account/0xfb6e709add23c710c40e4844d889938f703719f72d2d4439ee682d67f07a15c5&lt;/li&gt;&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <title>[HackenProof] Flow Wallet </title>
-    <link href="https://hackenproof.com/programs/flow-wallet"/>
-    <id>https://hackenproof.com/programs/flow-wallet</id>
-    <updated>2025-09-26T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/68d1284140041c7a7ad02ea8/logo.png?timestamp=1759262372' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $200 - $25000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] https://chrome.google.com/webstore/detail/flow-core/hpclkefagolihohboafpheddmmgdffjm&lt;/li&gt;&lt;li&gt;[mobile] https://apps.apple.com/ca/app/flow-wallet-nfts-and-crypto/id6478996750&lt;/li&gt;&lt;li&gt;[mobile] https://play.google.com/store/apps/details?id=com.flowfoundation.wallet&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
 </feed>
