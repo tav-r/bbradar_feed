@@ -1,13 +1,13 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2025-12-30T12:14:49.207566+00:00</updated>
+  <updated>2025-12-30T18:12:01.031887+00:00</updated>
   <entry>
     <title>[HackenProof] Whitechain Bridge</title>
     <link href="https://hackenproof.com/programs/whitechain-bridge"/>
     <id>https://hackenproof.com/programs/whitechain-bridge</id>
     <updated>2025-12-29T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/695248ea40041c000f7815a2/logo.png?timestamp=1767095323' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $10000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[source code] https://github.com/whitechain-labs/bridge-contracts&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/695248ea40041c000f7815a2/logo.png?timestamp=1767102525' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $10000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[source code] https://github.com/whitechain-labs/bridge-contracts&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title>[HackenProof] Solv Web &amp; Infrastructure </title>
@@ -645,12 +645,5 @@
     <id>https://hackerone.com/baird_vdp</id>
     <updated>2025-10-01T14:06:24.126000+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/rsnz8wa702e085r0z1sfdkq6rmke/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] https://*.rwbaird.com&lt;/li&gt;&lt;li&gt;[domain] bairdwealth.com&lt;/li&gt;&lt;li&gt;[mobile] 777691707&lt;/li&gt;&lt;li&gt;[mobile] com.rwbaird.investorandroid&lt;/li&gt;&lt;li&gt;[domain] http://bol.rwbaird.com&lt;/li&gt;&lt;li&gt;[domain] http://clientdocs.rwbaird.com&lt;/li&gt;&lt;li&gt;[domain] http://content.rwbaird.com&lt;/li&gt;&lt;li&gt;[domain] http://uatclientdocs.rwbaird.com&lt;/li&gt;&lt;li&gt;[domain] http://www.rwbaird.com/docs&lt;/li&gt;&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <title>[Immunefi] Flare FAssets</title>
-    <link href="https://immunefi.com/bounty/fassets"/>
-    <id>https://immunefi.com/bounty/fassets</id>
-    <updated>2025-10-01T02:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://images.ctfassets.net/t3wqy70tc3bv/6RvAn0eXVoZdyCg9bNkFXK/f86c8ae6a66353298cff60617734a793/Flare.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $1,000 - $250000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[source code] https://github.com/flare-foundation/fasset-bots&lt;/li&gt;&lt;li&gt;[source code] https://github.com/flare-foundation/fassets/blob/main/audit/BugBountyScope.md&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
 </feed>
