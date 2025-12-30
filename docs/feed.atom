@@ -1,13 +1,13 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2025-12-30T06:12:53.460529+00:00</updated>
+  <updated>2025-12-30T12:14:49.207566+00:00</updated>
   <entry>
     <title>[HackenProof] Whitechain Bridge</title>
     <link href="https://hackenproof.com/programs/whitechain-bridge"/>
     <id>https://hackenproof.com/programs/whitechain-bridge</id>
     <updated>2025-12-29T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/695248ea40041c000f7815a2/logo.png?timestamp=1767016702' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $10000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[source code] https://github.com/whitechain-labs/bridge-contracts&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/695248ea40041c000f7815a2/logo.png?timestamp=1767095323' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $10000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[source code] https://github.com/whitechain-labs/bridge-contracts&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title>[HackenProof] Solv Web &amp; Infrastructure </title>
