@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2025-12-30T18:12:01.031887+00:00</updated>
+  <updated>2025-12-31T00:36:19.234293+00:00</updated>
   <entry>
     <title>[HackenProof] Whitechain Bridge</title>
     <link href="https://hackenproof.com/programs/whitechain-bridge"/>
@@ -178,13 +178,6 @@
     <content type="html">&lt;div&gt;&lt;img src='https://app.intigriti.com/api/file/api/file/public_bucket_91ed23c2-4048-44ff-a44a-ee5688c8dd14-37ce1bf4-c921-427f-ba7c-f6909a11fb9c' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Intigriti&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[other] All Voi assets&lt;/li&gt;&lt;li&gt;[other] Third-party systems or domains referencing Voi&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
-    <title>[BugCrowd] TheFork Managed Bug Bounty Engagement</title>
-    <link href="https://bugcrowd.com/engagements/thefork-mbb-og"/>
-    <id>https://bugcrowd.com/engagements/thefork-mbb-og</id>
-    <updated>2025-12-09T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://logos.bugcrowdusercontent.com/logos/bd73/78c9/794397c7/40b0bb00ca1caa91bae8db93a6fce4ac_TheFork_Symbol_Mint_RGB3.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; BugCrowd&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $3500&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] https://*.eltenedor.*&lt;/li&gt;&lt;li&gt;[domain] *.lafourchette.rest&lt;/li&gt;&lt;li&gt;[domain] *.myfourchette.com&lt;/li&gt;&lt;li&gt;[domain] https://*.tools.thefork.tech&lt;/li&gt;&lt;li&gt;[domain] https://api.thefork.com&lt;/li&gt;&lt;li&gt;[domain] https://api.thefork.io&lt;/li&gt;&lt;li&gt;[domain] https://blog.thefork.com/&lt;/li&gt;&lt;li&gt;[domain] Customer semi-login / PartialLogin feature&lt;/li&gt;&lt;li&gt;[domain] login.theforkmanager.com&lt;/li&gt;&lt;li&gt;[domain] https://m.thefork.com&lt;/li&gt;&lt;li&gt;[domain] https://manager.thefork.com&lt;/li&gt;&lt;li&gt;[domain] module.thefork.com&lt;/li&gt;&lt;li&gt;[domain] https://payment.lafourchette.com&lt;/li&gt;&lt;li&gt;[domain] https://secure.thefork.com&lt;/li&gt;&lt;li&gt;[domain] website.theforkmanager.com&lt;/li&gt;&lt;li&gt;[domain] https://widget.thefork.com&lt;/li&gt;&lt;li&gt;[domain] https://www.lafourchette.com&lt;/li&gt;&lt;li&gt;[domain] www.myfourchette.com&lt;/li&gt;&lt;li&gt;[domain] https://www.restaurant-information.com&lt;/li&gt;&lt;li&gt;[domain] https://www.thefork.*&lt;/li&gt;&lt;li&gt;[domain] https://www.thefork.com&lt;/li&gt;&lt;li&gt;[domain] https://www.theforkmanager.com&lt;/li&gt;&lt;li&gt;[mobile] https://apps.apple.com/app/thefork-manager-neo/id1295795281&lt;/li&gt;&lt;li&gt;[mobile] https://apps.apple.com/app/thefork-restaurants-bookings/id424850908&lt;/li&gt;&lt;li&gt;[mobile] https://play.google.com/store/apps/details?id=com.lafourchette.lafourchette&lt;/li&gt;&lt;li&gt;[mobile] https://play.google.com/store/apps/details?id=com.lafourchette.tfm3&lt;/li&gt;&lt;li&gt;[other] developer.thefork.io&lt;/li&gt;&lt;/ul&gt;</content>
-  </entry>
-  <entry>
     <title>[HackenProof] AMLBot Web</title>
     <link href="https://hackenproof.com/programs/amlbot-web"/>
     <id>https://hackenproof.com/programs/amlbot-web</id>
@@ -234,6 +227,13 @@
     <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/690a0e3a40041c000f3c794a/logo.png?timestamp=1766754331' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $200 - $10000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[source code] https://github.com/zofinance/zo-contracts-public&lt;/li&gt;&lt;li&gt;[source code] https://github.com/zofinance/zo-contracts-usdz-public&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
+    <title>[BugCrowd] TheFork Managed Bug Bounty Engagement</title>
+    <link href="https://bugcrowd.com/engagements/thefork-mbb-og"/>
+    <id>https://bugcrowd.com/engagements/thefork-mbb-og</id>
+    <updated>2025-12-03T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://logos.bugcrowdusercontent.com/logos/bd73/78c9/794397c7/40b0bb00ca1caa91bae8db93a6fce4ac_TheFork_Symbol_Mint_RGB3.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; BugCrowd&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $3500&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] https://*.eltenedor.*&lt;/li&gt;&lt;li&gt;[domain] *.lafourchette.rest&lt;/li&gt;&lt;li&gt;[domain] *.myfourchette.com&lt;/li&gt;&lt;li&gt;[domain] https://*.tools.thefork.tech&lt;/li&gt;&lt;li&gt;[domain] https://api.thefork.com&lt;/li&gt;&lt;li&gt;[domain] https://api.thefork.io&lt;/li&gt;&lt;li&gt;[domain] https://blog.thefork.com/&lt;/li&gt;&lt;li&gt;[domain] Customer semi-login / PartialLogin feature&lt;/li&gt;&lt;li&gt;[domain] login.theforkmanager.com&lt;/li&gt;&lt;li&gt;[domain] https://m.thefork.com&lt;/li&gt;&lt;li&gt;[domain] https://manager.thefork.com&lt;/li&gt;&lt;li&gt;[domain] module.thefork.com&lt;/li&gt;&lt;li&gt;[domain] https://payment.lafourchette.com&lt;/li&gt;&lt;li&gt;[domain] https://secure.thefork.com&lt;/li&gt;&lt;li&gt;[domain] website.theforkmanager.com&lt;/li&gt;&lt;li&gt;[domain] https://widget.thefork.com&lt;/li&gt;&lt;li&gt;[domain] https://www.lafourchette.com&lt;/li&gt;&lt;li&gt;[domain] www.myfourchette.com&lt;/li&gt;&lt;li&gt;[domain] https://www.restaurant-information.com&lt;/li&gt;&lt;li&gt;[domain] https://www.thefork.*&lt;/li&gt;&lt;li&gt;[domain] https://www.thefork.com&lt;/li&gt;&lt;li&gt;[domain] https://www.theforkmanager.com&lt;/li&gt;&lt;li&gt;[mobile] https://apps.apple.com/app/thefork-manager-neo/id1295795281&lt;/li&gt;&lt;li&gt;[mobile] https://apps.apple.com/app/thefork-restaurants-bookings/id424850908&lt;/li&gt;&lt;li&gt;[mobile] https://play.google.com/store/apps/details?id=com.lafourchette.lafourchette&lt;/li&gt;&lt;li&gt;[mobile] https://play.google.com/store/apps/details?id=com.lafourchette.tfm3&lt;/li&gt;&lt;li&gt;[other] developer.thefork.io&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+  <entry>
     <title>[HackerOne] Henkel</title>
     <link href="https://hackerone.com/henkel_vdp"/>
     <id>https://hackerone.com/henkel_vdp</id>
@@ -253,13 +253,6 @@
     <id>https://hackerone.com/hotmartvdp</id>
     <updated>2025-12-02T09:44:32.141000+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/sp2oe91y8akqbya0e6lg91x19kaa/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] *.buildstaging.com&lt;/li&gt;&lt;li&gt;[domain] *.hotmart.com&lt;/li&gt;&lt;li&gt;[domain] *.teachable.com&lt;/li&gt;&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <title>[BugCrowd] Centers for Medicare &amp; Medicaid Services - Public Bug Bounty Program 2025</title>
-    <link href="https://bugcrowd.com/engagements/cms-bbpublic"/>
-    <id>https://bugcrowd.com/engagements/cms-bbpublic</id>
-    <updated>2025-12-02T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://logos.bugcrowdusercontent.com/logos/675f/2da4/a0421e08/e75e6665002e007e4f12004eae1d0914_centers_for_medicare__medicaid_services_logo__2_.jpeg' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; BugCrowd&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $250 - $7000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] *https://developer.cms.gov/marketplace-api/&lt;/li&gt;&lt;li&gt;[domain] https://*eua.cms.gov&lt;/li&gt;&lt;li&gt;[domain] https://*nsa-idr.cms.gov&lt;/li&gt;&lt;li&gt;[domain] https://*qpp.cms.gov/&lt;/li&gt;&lt;li&gt;[domain] *https://www.cuidadodesalud.gov/es&lt;/li&gt;&lt;li&gt;[domain] *https://www.eqrs.cms.gov and all related subdomains, APIs, and supporting services.&lt;/li&gt;&lt;li&gt;[domain] *https://www.healthcare.gov&lt;/li&gt;&lt;li&gt;[domain] *https://www.portal.cms.gov (T-MSIS, MacFin, FFM)&lt;/li&gt;&lt;li&gt;[domain] https://csscoperations.com&lt;/li&gt;&lt;li&gt;[domain] https://idm.cms.gov/&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title>[YesWeHack] OpenProject Bug Bounty Program</title>
@@ -288,6 +281,13 @@
     <id>https://immunefi.com/bounty/bitflow</id>
     <updated>2025-11-26T04:27:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://images.ctfassets.net/t3wqy70tc3bv/1wBdOtq6xoBJTdPjGbJmiq/8165a74640386a368784458f72749f7f/tq71coRV_400x400.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $1,000 - $100000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[smart contract] https://explorer.hiro.so/txid/SM1793C4R5PZ4NS4VQ4WMP7SKKYVH8JZEWSZ9HCCR.token-stx-v-1-2?chain=mainnet&lt;/li&gt;&lt;li&gt;[smart contract] https://explorer.hiro.so/txid/SP3ESW1QCNQPVXJDGQWT7E45RDCH38QBK9HEJSX4X.dlmm-core-v-0-1?chain=mainnet&lt;/li&gt;&lt;li&gt;[smart contract] https://explorer.hiro.so/txid/SP3ESW1QCNQPVXJDGQWT7E45RDCH38QBK9HEJSX4X.dlmm-liquidity-router-v-0-1?chain=mainnet&lt;/li&gt;&lt;li&gt;[smart contract] https://explorer.hiro.so/txid/SP3ESW1QCNQPVXJDGQWT7E45RDCH38QBK9HEJSX4X.dlmm-pool-b-v-0-1?chain=mainnet&lt;/li&gt;&lt;li&gt;[smart contract] https://explorer.hiro.so/txid/SP3ESW1QCNQPVXJDGQWT7E45RDCH38QBK9HEJSX4X.dlmm-pool-c-v-0-1?chain=mainnet&lt;/li&gt;&lt;li&gt;[smart contract] https://explorer.hiro.so/txid/SP3ESW1QCNQPVXJDGQWT7E45RDCH38QBK9HEJSX4X.dlmm-pool-d-v-0-1?chain=mainnet&lt;/li&gt;&lt;li&gt;[smart contract] https://explorer.hiro.so/txid/SP3ESW1QCNQPVXJDGQWT7E45RDCH38QBK9HEJSX4X.dlmm-pool-g-v-0-1?chain=mainnet&lt;/li&gt;&lt;li&gt;[smart contract] https://explorer.hiro.so/txid/SP3ESW1QCNQPVXJDGQWT7E45RDCH38QBK9HEJSX4X.dlmm-pool-h-v-0-1?chain=mainnet&lt;/li&gt;&lt;li&gt;[smart contract] https://explorer.hiro.so/txid/SP3ESW1QCNQPVXJDGQWT7E45RDCH38QBK9HEJSX4X.dlmm-pool-trait-v-0-1?chain=mainnet&lt;/li&gt;&lt;li&gt;[smart contract] https://explorer.hiro.so/txid/SP3ESW1QCNQPVXJDGQWT7E45RDCH38QBK9HEJSX4X.dlmm-swap-router-v-0-1?chain=mainnet&lt;/li&gt;&lt;li&gt;[domain] https://hodlmm.bitflow.finance/&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title>[BugCrowd] Centers for Medicare &amp; Medicaid Services - Public Bug Bounty Program 2025</title>
+    <link href="https://bugcrowd.com/engagements/cms-bbpublic"/>
+    <id>https://bugcrowd.com/engagements/cms-bbpublic</id>
+    <updated>2025-11-26T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://logos.bugcrowdusercontent.com/logos/675f/2da4/a0421e08/e75e6665002e007e4f12004eae1d0914_centers_for_medicare__medicaid_services_logo__2_.jpeg' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; BugCrowd&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $250 - $7000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] *https://developer.cms.gov/marketplace-api/&lt;/li&gt;&lt;li&gt;[domain] https://*eua.cms.gov&lt;/li&gt;&lt;li&gt;[domain] https://*nsa-idr.cms.gov&lt;/li&gt;&lt;li&gt;[domain] https://*qpp.cms.gov/&lt;/li&gt;&lt;li&gt;[domain] *https://www.cuidadodesalud.gov/es&lt;/li&gt;&lt;li&gt;[domain] *https://www.eqrs.cms.gov and all related subdomains, APIs, and supporting services.&lt;/li&gt;&lt;li&gt;[domain] *https://www.healthcare.gov&lt;/li&gt;&lt;li&gt;[domain] *https://www.portal.cms.gov (T-MSIS, MacFin, FFM)&lt;/li&gt;&lt;li&gt;[domain] https://csscoperations.com&lt;/li&gt;&lt;li&gt;[domain] https://idm.cms.gov/&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title>[HackenProof] Kaia Web </title>
