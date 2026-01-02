@@ -1,28 +1,7 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-01-01T18:11:42.797161+00:00</updated>
-  <entry>
-    <title>[BugCrowd] Sky DACH Vulnerability Disclosure Program</title>
-    <link href="https://bugcrowd.com/engagements/sky-plc-mbb-og2"/>
-    <id>https://bugcrowd.com/engagements/sky-plc-mbb-og2</id>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://logos.bugcrowdusercontent.com/logos/b253/5718/657f80d9/165106f96a9871c5b193a2db838a4462_sky.jpeg' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; BugCrowd&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $1000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] All internet facing Sky DACH assets&lt;/li&gt;&lt;li&gt;[domain] All internet facing Sky Italy assets&lt;/li&gt;&lt;li&gt;[domain] All internet facing Sky UK/ROI assets&lt;/li&gt;&lt;li&gt;[other] *skybet.com&lt;/li&gt;&lt;li&gt;[other] *skybroadband.com&lt;/li&gt;&lt;li&gt;[other] *skynews.com.au&lt;/li&gt;&lt;li&gt;[other] *skynewsarabia.com&lt;/li&gt;&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <title>[BugCrowd] Sky Italy Vulnerability Disclosure Program</title>
-    <link href="https://bugcrowd.com/engagements/sky-plc-mbb-og1"/>
-    <id>https://bugcrowd.com/engagements/sky-plc-mbb-og1</id>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://logos.bugcrowdusercontent.com/logos/b253/5718/657f80d9/165106f96a9871c5b193a2db838a4462_sky.jpeg' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; BugCrowd&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $1000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] All internet facing Sky DACH assets&lt;/li&gt;&lt;li&gt;[domain] All internet facing Sky Italy assets&lt;/li&gt;&lt;li&gt;[domain] All internet facing Sky UK/ROI assets&lt;/li&gt;&lt;li&gt;[other] *skybet.com&lt;/li&gt;&lt;li&gt;[other] *skybroadband.com&lt;/li&gt;&lt;li&gt;[other] *skynews.com.au&lt;/li&gt;&lt;li&gt;[other] *skynewsarabia.com&lt;/li&gt;&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <title>[BugCrowd] Sky UK/ROI Vulnerability Disclosure Program</title>
-    <link href="https://bugcrowd.com/engagements/sky-plc-mbb-og"/>
-    <id>https://bugcrowd.com/engagements/sky-plc-mbb-og</id>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://logos.bugcrowdusercontent.com/logos/b253/5718/657f80d9/165106f96a9871c5b193a2db838a4462_sky.jpeg' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; BugCrowd&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $1000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] All internet facing Sky DACH assets&lt;/li&gt;&lt;li&gt;[domain] All internet facing Sky Italy assets&lt;/li&gt;&lt;li&gt;[domain] All internet facing Sky UK/ROI assets&lt;/li&gt;&lt;li&gt;[other] *skybet.com&lt;/li&gt;&lt;li&gt;[other] *skybroadband.com&lt;/li&gt;&lt;li&gt;[other] *skynews.com.au&lt;/li&gt;&lt;li&gt;[other] *skynewsarabia.com&lt;/li&gt;&lt;/ul&gt;</content>
-  </entry>
+  <updated>2026-01-02T00:35:43.506880+00:00</updated>
   <entry>
     <title>[HackenProof] Whitechain Bridge</title>
     <link href="https://hackenproof.com/programs/whitechain-bridge"/>
@@ -36,6 +15,27 @@
     <id>https://hackenproof.com/programs/solv-web-and-infrastructure</id>
     <updated>2025-12-29T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/6949167440041c4ba46bd5f5/logo.png?timestamp=1767016611' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $100 - $20000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[api] *.sft-api.com&lt;/li&gt;&lt;li&gt;[domain] *.solv.finance&lt;/li&gt;&lt;li&gt;[domain] https://app.solv.finance&lt;/li&gt;&lt;li&gt;[domain] https://solv.finance&lt;/li&gt;&lt;li&gt;[other] Rest related to Solv&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title>[BugCrowd] Sky DACH Vulnerability Disclosure Program</title>
+    <link href="https://bugcrowd.com/engagements/sky-plc-mbb-og2"/>
+    <id>https://bugcrowd.com/engagements/sky-plc-mbb-og2</id>
+    <updated>2025-12-26T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://logos.bugcrowdusercontent.com/logos/b253/5718/657f80d9/165106f96a9871c5b193a2db838a4462_sky.jpeg' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; BugCrowd&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $1000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] All internet facing Sky DACH assets&lt;/li&gt;&lt;li&gt;[domain] All internet facing Sky Italy assets&lt;/li&gt;&lt;li&gt;[domain] All internet facing Sky UK/ROI assets&lt;/li&gt;&lt;li&gt;[other] *skybet.com&lt;/li&gt;&lt;li&gt;[other] *skybroadband.com&lt;/li&gt;&lt;li&gt;[other] *skynews.com.au&lt;/li&gt;&lt;li&gt;[other] *skynewsarabia.com&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title>[BugCrowd] Sky Italy Vulnerability Disclosure Program</title>
+    <link href="https://bugcrowd.com/engagements/sky-plc-mbb-og1"/>
+    <id>https://bugcrowd.com/engagements/sky-plc-mbb-og1</id>
+    <updated>2025-12-26T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://logos.bugcrowdusercontent.com/logos/b253/5718/657f80d9/165106f96a9871c5b193a2db838a4462_sky.jpeg' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; BugCrowd&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $1000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] All internet facing Sky DACH assets&lt;/li&gt;&lt;li&gt;[domain] All internet facing Sky Italy assets&lt;/li&gt;&lt;li&gt;[domain] All internet facing Sky UK/ROI assets&lt;/li&gt;&lt;li&gt;[other] *skybet.com&lt;/li&gt;&lt;li&gt;[other] *skybroadband.com&lt;/li&gt;&lt;li&gt;[other] *skynews.com.au&lt;/li&gt;&lt;li&gt;[other] *skynewsarabia.com&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title>[BugCrowd] Sky UK/ROI Vulnerability Disclosure Program</title>
+    <link href="https://bugcrowd.com/engagements/sky-plc-mbb-og"/>
+    <id>https://bugcrowd.com/engagements/sky-plc-mbb-og</id>
+    <updated>2025-12-26T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://logos.bugcrowdusercontent.com/logos/b253/5718/657f80d9/165106f96a9871c5b193a2db838a4462_sky.jpeg' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; BugCrowd&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $1000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] All internet facing Sky DACH assets&lt;/li&gt;&lt;li&gt;[domain] All internet facing Sky Italy assets&lt;/li&gt;&lt;li&gt;[domain] All internet facing Sky UK/ROI assets&lt;/li&gt;&lt;li&gt;[other] *skybet.com&lt;/li&gt;&lt;li&gt;[other] *skybroadband.com&lt;/li&gt;&lt;li&gt;[other] *skynews.com.au&lt;/li&gt;&lt;li&gt;[other] *skynewsarabia.com&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title>[Standoff365] PT Data Security</title>
@@ -244,7 +244,7 @@
     <title>[BugCrowd] TheFork Managed Bug Bounty Engagement</title>
     <link href="https://bugcrowd.com/engagements/thefork-mbb-og"/>
     <id>https://bugcrowd.com/engagements/thefork-mbb-og</id>
-    <updated>2025-12-04T00:00:00+00:00</updated>
+    <updated>2025-12-05T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://logos.bugcrowdusercontent.com/logos/bd73/78c9/794397c7/40b0bb00ca1caa91bae8db93a6fce4ac_TheFork_Symbol_Mint_RGB3.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; BugCrowd&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $3500&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] https://*.eltenedor.*&lt;/li&gt;&lt;li&gt;[domain] *.lafourchette.rest&lt;/li&gt;&lt;li&gt;[domain] *.myfourchette.com&lt;/li&gt;&lt;li&gt;[domain] https://*.tools.thefork.tech&lt;/li&gt;&lt;li&gt;[domain] https://api.thefork.com&lt;/li&gt;&lt;li&gt;[domain] https://api.thefork.io&lt;/li&gt;&lt;li&gt;[domain] https://blog.thefork.com/&lt;/li&gt;&lt;li&gt;[domain] Customer semi-login / PartialLogin feature&lt;/li&gt;&lt;li&gt;[domain] login.theforkmanager.com&lt;/li&gt;&lt;li&gt;[domain] https://m.thefork.com&lt;/li&gt;&lt;li&gt;[domain] https://manager.thefork.com&lt;/li&gt;&lt;li&gt;[domain] module.thefork.com&lt;/li&gt;&lt;li&gt;[domain] https://payment.lafourchette.com&lt;/li&gt;&lt;li&gt;[domain] https://secure.thefork.com&lt;/li&gt;&lt;li&gt;[domain] website.theforkmanager.com&lt;/li&gt;&lt;li&gt;[domain] https://widget.thefork.com&lt;/li&gt;&lt;li&gt;[domain] https://www.lafourchette.com&lt;/li&gt;&lt;li&gt;[domain] www.myfourchette.com&lt;/li&gt;&lt;li&gt;[domain] https://www.restaurant-information.com&lt;/li&gt;&lt;li&gt;[domain] https://www.thefork.*&lt;/li&gt;&lt;li&gt;[domain] https://www.thefork.com&lt;/li&gt;&lt;li&gt;[domain] https://www.theforkmanager.com&lt;/li&gt;&lt;li&gt;[mobile] https://apps.apple.com/app/thefork-manager-neo/id1295795281&lt;/li&gt;&lt;li&gt;[mobile] https://apps.apple.com/app/thefork-restaurants-bookings/id424850908&lt;/li&gt;&lt;li&gt;[mobile] https://play.google.com/store/apps/details?id=com.lafourchette.lafourchette&lt;/li&gt;&lt;li&gt;[mobile] https://play.google.com/store/apps/details?id=com.lafourchette.tfm3&lt;/li&gt;&lt;li&gt;[other] developer.thefork.io&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
@@ -286,7 +286,7 @@
     <title>[BugCrowd] Centers for Medicare &amp; Medicaid Services - Public Bug Bounty Program 2025</title>
     <link href="https://bugcrowd.com/engagements/cms-bbpublic"/>
     <id>https://bugcrowd.com/engagements/cms-bbpublic</id>
-    <updated>2025-11-27T00:00:00+00:00</updated>
+    <updated>2025-11-28T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://logos.bugcrowdusercontent.com/logos/675f/2da4/a0421e08/e75e6665002e007e4f12004eae1d0914_centers_for_medicare__medicaid_services_logo__2_.jpeg' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; BugCrowd&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $250 - $7000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] *https://developer.cms.gov/marketplace-api/&lt;/li&gt;&lt;li&gt;[domain] https://*eua.cms.gov&lt;/li&gt;&lt;li&gt;[domain] https://*nsa-idr.cms.gov&lt;/li&gt;&lt;li&gt;[domain] https://*qpp.cms.gov/&lt;/li&gt;&lt;li&gt;[domain] *https://www.cuidadodesalud.gov/es&lt;/li&gt;&lt;li&gt;[domain] *https://www.eqrs.cms.gov and all related subdomains, APIs, and supporting services.&lt;/li&gt;&lt;li&gt;[domain] *https://www.healthcare.gov&lt;/li&gt;&lt;li&gt;[domain] *https://www.portal.cms.gov (T-MSIS, MacFin, FFM)&lt;/li&gt;&lt;li&gt;[domain] https://csscoperations.com&lt;/li&gt;&lt;li&gt;[domain] https://idm.cms.gov/&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
