@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-01-02T18:11:36.459182+00:00</updated>
+  <updated>2026-01-03T00:34:00.122190+00:00</updated>
   <entry>
     <title>[HackenProof] Whitechain Bridge</title>
     <link href="https://hackenproof.com/programs/whitechain-bridge"/>
@@ -220,27 +220,6 @@
     <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/690a0e3a40041c000f3c794a/logo.png?timestamp=1766754331' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $200 - $10000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[source code] https://github.com/zofinance/zo-contracts-public&lt;/li&gt;&lt;li&gt;[source code] https://github.com/zofinance/zo-contracts-usdz-public&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
-    <title>[HackerOne] Henkel</title>
-    <link href="https://hackerone.com/henkel_vdp"/>
-    <id>https://hackerone.com/henkel_vdp</id>
-    <updated>2025-12-02T18:55:55.157000+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/j0uglefyo9bdtm0x6307nktg6dxw/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] *.loctite-maintenance.be&lt;/li&gt;&lt;li&gt;[domain] *.loctite-maintenance.ch&lt;/li&gt;&lt;li&gt;[domain] *.loctite-maintenance.es&lt;/li&gt;&lt;li&gt;[domain] *.loctite-maintenance.fr&lt;/li&gt;&lt;li&gt;[domain] *.loctite-maintenance.it&lt;/li&gt;&lt;li&gt;[domain] *.loctite-maintenance.nl&lt;/li&gt;&lt;li&gt;[domain] *.loctite-maintenance.pl&lt;/li&gt;&lt;li&gt;[domain] *.loctite-proizvodi-za-odrzavanje.hr&lt;/li&gt;&lt;li&gt;[domain] *.loctite-superbond.com.hr&lt;/li&gt;&lt;li&gt;[domain] *.loctite-superbond.hr&lt;/li&gt;&lt;li&gt;[domain] *.loctite-superglue.ro&lt;/li&gt;&lt;li&gt;[domain] *.loctite-superkleber.at&lt;/li&gt;&lt;li&gt;[domain] *.loctite-superljepilo.ba&lt;/li&gt;&lt;li&gt;[domain] *.loctite.com&lt;/li&gt;&lt;li&gt;[domain] *.loctite55.be&lt;/li&gt;&lt;li&gt;[domain] *.loctite55.ch&lt;/li&gt;&lt;li&gt;[domain] *.loctite55.ee&lt;/li&gt;&lt;li&gt;[domain] *.loctite55.it&lt;/li&gt;&lt;li&gt;[domain] *.loctite55.nl&lt;/li&gt;&lt;li&gt;[domain] *.loctiteam.com&lt;/li&gt;&lt;li&gt;[domain] *.loctiteproducts.com&lt;/li&gt;&lt;li&gt;[domain] *.loctitesolutions.nl&lt;/li&gt;&lt;li&gt;[domain] *.loctitesuperbond.ro&lt;/li&gt;&lt;li&gt;[domain] *.loctitesupercola3.com&lt;/li&gt;&lt;li&gt;[domain] *.loctitesuperglue-3.com&lt;/li&gt;&lt;li&gt;[domain] *.loctitesuperlepak.mk&lt;/li&gt;&lt;li&gt;[domain] *.loctitesuperlepak.rs&lt;/li&gt;&lt;li&gt;[domain] *.m.tobcrm-hcb.cn&lt;/li&gt;&lt;li&gt;[domain] *.mascoat.com&lt;/li&gt;&lt;li&gt;[domain] *.mobile.3090.loctite.es&lt;/li&gt;&lt;li&gt;[domain] *.mobile.3090.loctite.it&lt;/li&gt;&lt;li&gt;[domain] *.pattex.*&lt;/li&gt;&lt;li&gt;[domain] *.pattex.com.cn&lt;/li&gt;&lt;li&gt;[domain] *.persil.de&lt;/li&gt;&lt;li&gt;[domain] *.perwoll.*&lt;/li&gt;&lt;li&gt;[domain] *.powercrete.com&lt;/li&gt;&lt;li&gt;[domain] *.print-your-electronics-with-loctite.com&lt;/li&gt;&lt;li&gt;[domain] *.prittworld.*&lt;/li&gt;&lt;li&gt;[domain] *.proloctite.com&lt;/li&gt;&lt;li&gt;[domain] *.raqn.io&lt;/li&gt;&lt;li&gt;[domain] *.schwarzkopf.*&lt;/li&gt;&lt;li&gt;[domain] *.schwarzkopf.de&lt;/li&gt;&lt;li&gt;[domain] *.schwarzkopfclub.com.cn&lt;/li&gt;&lt;li&gt;[domain] *.schwarzkopfpalette.*&lt;/li&gt;&lt;li&gt;[domain] *.sealforlife.com&lt;/li&gt;&lt;li&gt;[domain] *.sexyhair.com&lt;/li&gt;&lt;li&gt;[domain] *.silan.*&lt;/li&gt;&lt;li&gt;[domain] *.smartshelf.henkel.cn&lt;/li&gt;&lt;li&gt;[domain] *.somat.*&lt;/li&gt;&lt;li&gt;[domain] *.stmntgrooming.*&lt;/li&gt;&lt;li&gt;[domain] *.stopaq.com&lt;/li&gt;&lt;li&gt;[domain] *.syoss.*&lt;/li&gt;&lt;li&gt;[domain] *.syoss.de&lt;/li&gt;&lt;li&gt;[domain] *.taft.*&lt;/li&gt;&lt;li&gt;[domain] *.teroson.*&lt;/li&gt;&lt;li&gt;[domain] *.tryloctite.cn&lt;/li&gt;&lt;li&gt;[domain] *.tryloctite.in&lt;/li&gt;&lt;li&gt;[domain] *.wechat-henkel-adhesives.cn&lt;/li&gt;&lt;li&gt;[domain] aigc.henkel.cn&lt;/li&gt;&lt;li&gt;[domain] aigc.magic-mirror.cn&lt;/li&gt;&lt;li&gt;[domain] aliportal-dev.henkel.cn&lt;/li&gt;&lt;li&gt;[domain] aliportal.henkel.cn&lt;/li&gt;&lt;li&gt;[domain] aliyunportal-dev.henkel.cn&lt;/li&gt;&lt;li&gt;[domain] aliyunportal.henkel.cn&lt;/li&gt;&lt;li&gt;[domain] alternahaircare.cn&lt;/li&gt;&lt;li&gt;[domain] alternahaircare.com.cn&lt;/li&gt;&lt;li&gt;[domain] api.ar.magic-mirror.cn&lt;/li&gt;&lt;li&gt;[domain] api.mini.magic-mirror.cn&lt;/li&gt;&lt;li&gt;[domain] auth.eshop-henkel-adhesives.cn&lt;/li&gt;&lt;li&gt;[domain] base-qa.henkel-consumer-brands.cn&lt;/li&gt;&lt;li&gt;[domain] base.henkel-consumer-brands.cn&lt;/li&gt;&lt;li&gt;[domain] chatbotdatacon.wechat-henkel-adhesives.cn&lt;/li&gt;&lt;li&gt;[domain] console.ar.magic-mirror.cn&lt;/li&gt;&lt;li&gt;[domain] docdownload-webinar.tryloctite.cn&lt;/li&gt;&lt;li&gt;[domain] fc-qa.henkel-consumer-brands.cn&lt;/li&gt;&lt;li&gt;[domain] fc.henkel-consumer-brands.cn&lt;/li&gt;&lt;li&gt;[domain] ipad.shrndconsumer.henkel-consumer-brands.cn&lt;/li&gt;&lt;li&gt;[domain] k2r-products.cn&lt;/li&gt;&lt;li&gt;[domain] md.rebate-henkel-adhesives.cn&lt;/li&gt;&lt;li&gt;[domain] pattex.com.cn&lt;/li&gt;&lt;li&gt;[domain] scrm-csr.schwarzkopfclub.com.cn&lt;/li&gt;&lt;li&gt;[domain] scrm-sreadmin.schwarzkopfclub.com.cn&lt;/li&gt;&lt;li&gt;[domain] scrm-weconnect-api.schwarzkopfclub.com.cn&lt;/li&gt;&lt;li&gt;[domain] shrndconsumer.henkel-consumer-brands.cn&lt;/li&gt;&lt;li&gt;[domain] smartshelf.henkel.cn&lt;/li&gt;&lt;li&gt;[domain] smc-analyzer.henkel-consumer-brands.cn&lt;/li&gt;&lt;li&gt;[domain] test-api.ar.magic-mirror.cn&lt;/li&gt;&lt;li&gt;[domain] test-api.mini.magic-mirror.cn&lt;/li&gt;&lt;li&gt;[domain] test-console.ar.magic-mirror.cn&lt;/li&gt;&lt;li&gt;[domain] tpm-qa.henkel-consumer-brands.cn&lt;/li&gt;&lt;li&gt;[domain] tpm.henkel-consumer-brands.cn&lt;/li&gt;&lt;li&gt;[domain] uat-smc-analyzer.henkel-consumer-brands.cn&lt;/li&gt;&lt;li&gt;[domain] uat.ipad.shrndconsumer.henkel-consumer-brands.cn&lt;/li&gt;&lt;li&gt;[domain] uat.www.shrndconsumer.henkel-consumer-brands.cn&lt;/li&gt;&lt;li&gt;[domain] www.joico.ca/&lt;/li&gt;&lt;li&gt;[domain] www.joico.com/&lt;/li&gt;&lt;li&gt;[domain] www.joico.com.au/&lt;/li&gt;&lt;li&gt;[domain] www.joico.com.br/&lt;/li&gt;&lt;li&gt;[domain] www.joico.eu/&lt;/li&gt;&lt;li&gt;[domain] www.joico.lat/&lt;/li&gt;&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <title>[HackerOne] BankUnited</title>
-    <link href="https://hackerone.com/bankunited"/>
-    <id>https://hackerone.com/bankunited</id>
-    <updated>2025-12-02T13:20:44.160000+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/649vn30omganxsub1657r9zhl269/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] buconnectfl.bankunited.com&lt;/li&gt;&lt;li&gt;[domain] buconnectny.bankunited.com&lt;/li&gt;&lt;li&gt;[domain] ccr.bankunited.com&lt;/li&gt;&lt;li&gt;[domain] customer.bankunited.com&lt;/li&gt;&lt;li&gt;[domain] exadprd.bankunited.com&lt;/li&gt;&lt;li&gt;[domain] exadqa.bankunited.com&lt;/li&gt;&lt;li&gt;[domain] iccweb.bankunited.com&lt;/li&gt;&lt;li&gt;[domain] lockboxir.bankunited.com&lt;/li&gt;&lt;li&gt;[domain] osao.bankunited.com&lt;/li&gt;&lt;li&gt;[domain] pronto.bankunited.com&lt;/li&gt;&lt;li&gt;[domain] roc.bankunited.com&lt;/li&gt;&lt;li&gt;[domain] snowapiprd.bankunited.com&lt;/li&gt;&lt;li&gt;[domain] snowapiqa.bankunited.com&lt;/li&gt;&lt;li&gt;[domain] wls.bankunited.com&lt;/li&gt;&lt;li&gt;[domain] wlsqa.bankunited.com&lt;/li&gt;&lt;li&gt;[domain] www.bankunited.com&lt;/li&gt;&lt;li&gt;[domain] www.bridgefundinggroupinc.com&lt;/li&gt;&lt;li&gt;[domain] www.pinnaclepublicfinance.com&lt;/li&gt;&lt;li&gt;[mobile] com.bankunited.leap&lt;/li&gt;&lt;li&gt;[mobile] com.leap.bankunited&lt;/li&gt;&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <title>[HackerOne] Hotmart (VDP)</title>
-    <link href="https://hackerone.com/hotmartvdp"/>
-    <id>https://hackerone.com/hotmartvdp</id>
-    <updated>2025-12-02T09:44:32.141000+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/sp2oe91y8akqbya0e6lg91x19kaa/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] *.buildstaging.com&lt;/li&gt;&lt;li&gt;[domain] *.hotmart.com&lt;/li&gt;&lt;li&gt;[domain] *.teachable.com&lt;/li&gt;&lt;/ul&gt;</content>
-  </entry>
-  <entry>
     <title>[YesWeHack] OpenProject Bug Bounty Program</title>
     <link href="https://yeswehack.com/programs/openproject"/>
     <id>https://yeswehack.com/programs/openproject</id>
@@ -346,13 +325,6 @@
     <content type="html">&lt;div&gt;&lt;img src='https://api.standoff365.com/images/200_200/a9f184fa-d6fc-4a13-9a9f-ca8dd3f17988.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Standoff365&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $14,400 - $14400&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
-    <title>[HackerOne] FanDuel Response</title>
-    <link href="https://hackerone.com/fanduel-vdp"/>
-    <id>https://hackerone.com/fanduel-vdp</id>
-    <updated>2025-11-18T17:37:56.228000+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/ko2db7bs34pamh5dj1xxmk5mfewo/d9695107bfcd68eeb1c9e0912b109cdae9a6c00c0bda6fd4cbd6d9bdb828840a' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] *.fdbox.net&lt;/li&gt;&lt;li&gt;[domain] affiliates.fanduel.com&lt;/li&gt;&lt;li&gt;[domain] support.fanduel.com&lt;/li&gt;&lt;/ul&gt;</content>
-  </entry>
-  <entry>
     <title>[Immunefi] USX</title>
     <link href="https://immunefi.com/bounty/usx"/>
     <id>https://immunefi.com/bounty/usx</id>
@@ -388,27 +360,6 @@
     <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/68c919c040041c2c8ed01dc2/logo.png?timestamp=1763518940' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $500000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] *.phemex.com&lt;/li&gt;&lt;li&gt;[domain] https://phemex.com&lt;/li&gt;&lt;li&gt;[mobile] https://apps.apple.com/us/app/phemex-buy-bitcoin-crypto/id1499601684&lt;/li&gt;&lt;li&gt;[mobile] https://play.google.com/store/apps/details?id=com.phemex.app&amp;hl=en&amp;pli=1&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
-    <title>[HackerOne] Notion Labs, Inc.</title>
-    <link href="https://hackerone.com/notion"/>
-    <id>https://hackerone.com/notion</id>
-    <updated>2025-11-12T18:05:33.986000+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/wrv3l67qn7qbcft89152lvujcw85/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $2000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] calendar.notion.so&lt;/li&gt;&lt;li&gt;[domain] mail.notion.so&lt;/li&gt;&lt;li&gt;[executable] Notion Desktop App&lt;/li&gt;&lt;li&gt;[mobile] notion.id&lt;/li&gt;&lt;li&gt;[other] Github Repositories or other public artifacts owned by makenotion&lt;/li&gt;&lt;li&gt;[other] Notion AI&lt;/li&gt;&lt;li&gt;[other] Notion Authentication&lt;/li&gt;&lt;li&gt;[other] Notion Frontend&lt;/li&gt;&lt;li&gt;[other] Notion Integrations&lt;/li&gt;&lt;li&gt;[other] Privilege Escalation&lt;/li&gt;&lt;li&gt;[other] Product API&lt;/li&gt;&lt;li&gt;[other] Public API&lt;/li&gt;&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <title>[HackerOne] Mueller Water Products (VDP)</title>
-    <link href="https://hackerone.com/mueller_water_products_vdp"/>
-    <id>https://hackerone.com/mueller_water_products_vdp</id>
-    <updated>2025-11-05T23:41:43.251000+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/38jq3qpm8mfo3vll2xode0ls2y9m/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[HackerOne] Drumgrange VDP</title>
-    <link href="https://hackerone.com/drumgrange-vdp"/>
-    <id>https://hackerone.com/drumgrange-vdp</id>
-    <updated>2025-11-04T11:27:11.151000+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/qw5c6t62964ljq2fhg5f0vnolioy/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] drumgrange.com&lt;/li&gt;&lt;li&gt;[domain] support.drumgrange.co.uk&lt;/li&gt;&lt;li&gt;[domain] vpnchertsey.drumgrange.com&lt;/li&gt;&lt;li&gt;[domain] vpnportland.drumgrange.com&lt;/li&gt;&lt;li&gt;[other] 78.32.246.234&lt;/li&gt;&lt;li&gt;[other] 78.33.231.186&lt;/li&gt;&lt;li&gt;[other] ftp.drumgrange.com&lt;/li&gt;&lt;li&gt;[domain] http://localhost.drumgrange.com/&lt;/li&gt;&lt;li&gt;[domain] http://support.drumgrange.co.uk/&lt;/li&gt;&lt;li&gt;[domain] http://support.drumgrange.com/&lt;/li&gt;&lt;li&gt;[domain] http://webmail.drumgrange.com/&lt;/li&gt;&lt;/ul&gt;</content>
-  </entry>
-  <entry>
     <title>[YesWeHack] Keycloak</title>
     <link href="https://yeswehack.com/programs/keycloak-bug-bounty-program"/>
     <id>https://yeswehack.com/programs/keycloak-bug-bounty-program</id>
@@ -423,20 +374,6 @@
     <content type="html">&lt;div&gt;&lt;img src='https://images.ctfassets.net/t3wqy70tc3bv/7qC5RfXIrWxxlMjY6JlcQR/79d179f842a963925b979faeede67b82/U_4upYP6_400x400_Small.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $1,000 - $100000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] http://api.kiln.fi&lt;/li&gt;&lt;li&gt;[domain] http://dashboard.kiln.fi&lt;/li&gt;&lt;li&gt;[domain] http://gateway.kiln.fi&lt;/li&gt;&lt;li&gt;[domain] http://kiln.fi&lt;/li&gt;&lt;li&gt;[domain] http://ledger-live-app.kiln.fi&lt;/li&gt;&lt;li&gt;[domain] http://ledger-vault-gateway.kiln.fi&lt;/li&gt;&lt;li&gt;[domain] http://sqlpad.kiln.fi&lt;/li&gt;&lt;li&gt;[domain] http://stake.kiln.fi&lt;/li&gt;&lt;li&gt;[domain] http://thegraph.kiln.fi&lt;/li&gt;&lt;li&gt;[domain] http://vault.kiln.fi&lt;/li&gt;&lt;li&gt;[domain] http://widget.kiln.fi&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
-    <title>[HackerOne] Adevinta</title>
-    <link href="https://hackerone.com/adevinta_vdp"/>
-    <id>https://hackerone.com/adevinta_vdp</id>
-    <updated>2025-10-29T10:53:10.675000+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/pfolshe3732wmt99ckvvy4sipqvj/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] 2dehands.be&lt;/li&gt;&lt;li&gt;[domain] 2ememain.be&lt;/li&gt;&lt;li&gt;[domain] adevinta.com&lt;/li&gt;&lt;li&gt;[domain] datavenues.com&lt;/li&gt;&lt;li&gt;[domain] fotocasa.pro&lt;/li&gt;&lt;li&gt;[domain] habitaclia.com&lt;/li&gt;&lt;li&gt;[domain] infojobs.it&lt;/li&gt;&lt;li&gt;[domain] jobisjob.es&lt;/li&gt;&lt;li&gt;[domain] jobmarketinsights.com&lt;/li&gt;&lt;li&gt;[domain] kijiji.ca&lt;/li&gt;&lt;li&gt;[domain] kijijiautos.ca&lt;/li&gt;&lt;li&gt;[domain] marktplaats.nl&lt;/li&gt;&lt;li&gt;[domain] motos.net&lt;/li&gt;&lt;li&gt;[domain] multigestionale.com&lt;/li&gt;&lt;li&gt;[domain] nostromo.epreselec.com&lt;/li&gt;&lt;li&gt;[domain] null-leasing.com&lt;/li&gt;&lt;li&gt;[domain] subito.it&lt;/li&gt;&lt;li&gt;[domain] www.automobile.it&lt;/li&gt;&lt;li&gt;[domain] www.coches.net&lt;/li&gt;&lt;li&gt;[domain] www.fotocasa.es&lt;/li&gt;&lt;li&gt;[domain] www.infojobs.net&lt;/li&gt;&lt;li&gt;[domain] www.kleinanzeigen.de&lt;/li&gt;&lt;li&gt;[domain] www.milanuncios.com&lt;/li&gt;&lt;li&gt;[domain] www.mobile.de&lt;/li&gt;&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <title>[HackerOne] Stripchat</title>
-    <link href="https://hackerone.com/stripchat"/>
-    <id>https://hackerone.com/stripchat</id>
-    <updated>2025-10-29T07:37:54.437000+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/ugp9j5gzuhpvkj9a6p891uc8d1ij/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $200 - $3000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] *.stripchat.com&lt;/li&gt;&lt;li&gt;[domain] go.stripchat.com&lt;/li&gt;&lt;li&gt;[domain] mta*.stripchat.com&lt;/li&gt;&lt;li&gt;[domain] pxl.stripchat.com&lt;/li&gt;&lt;li&gt;[domain] https://stripchat.com/page*&lt;/li&gt;&lt;li&gt;[domain] support.stripchat.com&lt;/li&gt;&lt;li&gt;[domain] wiki.stripchat.com&lt;/li&gt;&lt;li&gt;[domain] https://stripchat.com/wiki&lt;/li&gt;&lt;/ul&gt;</content>
-  </entry>
-  <entry>
     <title>[HackenProof] Bitkub Capital Group Holdings</title>
     <link href="https://hackenproof.com/programs/bitkub-capital-group-holdings"/>
     <id>https://hackenproof.com/programs/bitkub-capital-group-holdings</id>
@@ -444,46 +381,11 @@
     <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/68ff630f40041c000f3c55b1/logo.png?timestamp=1761648847' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $1000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] https://www.bitkubsummit.com&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
-    <title>[HackerOne] DoorDash</title>
-    <link href="https://hackerone.com/doordash"/>
-    <id>https://hackerone.com/doordash</id>
-    <updated>2025-10-23T15:56:33.068000+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/zfyia4qobnexseqnnihm2wk9yfxz/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $5000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] *.dashapi.com&lt;/li&gt;&lt;li&gt;[domain] *.doorcrawl.com&lt;/li&gt;&lt;li&gt;[domain] *.order.online&lt;/li&gt;&lt;li&gt;[domain] careersatdoordash.com&lt;/li&gt;&lt;li&gt;[domain] consumer-mobile-bff.doordash.com&lt;/li&gt;&lt;li&gt;[domain] doordash.com/unified-gateway/*&lt;/li&gt;&lt;li&gt;[domain] internal.doordash.com&lt;/li&gt;&lt;li&gt;[domain] ir.doordash.com&lt;/li&gt;&lt;li&gt;[domain] merchant-mobile-bff.doordash.com&lt;/li&gt;&lt;li&gt;[domain] merchant-portal.doordash.com&lt;/li&gt;&lt;li&gt;[domain] track.doordash.com&lt;/li&gt;&lt;li&gt;[domain] unified-gateway.doordash.com&lt;/li&gt;&lt;li&gt;[domain] www.doordash.com&lt;/li&gt;&lt;li&gt;[mobile] com.dd.doordash&lt;/li&gt;&lt;li&gt;[mobile] doordash.DoorDashConsumer&lt;/li&gt;&lt;li&gt;[other] DoorDash Payments&lt;/li&gt;&lt;li&gt;[domain] http://help.doordash.com&lt;/li&gt;&lt;li&gt;[domain] https://doordash.com/merchant&lt;/li&gt;&lt;/ul&gt;</content>
-  </entry>
-  <entry>
     <title>[Immunefi] Jito - BAM Client</title>
     <link href="https://immunefi.com/bounty/jito-bam-client"/>
     <id>https://immunefi.com/bounty/jito-bam-client</id>
     <updated>2025-10-22T05:09:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/81827-EFKkAPtlzFSCPCHnExIME-ihtNok5k80uzmjBTSBiC4lDFtE3Zif.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $1,000 - $100000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[source code] https://github.com/jito-labs/bam-client&lt;/li&gt;&lt;li&gt;[source code] https://github.com/jito-labs/bam-protos&lt;/li&gt;&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <title>[HackerOne] Kong</title>
-    <link href="https://hackerone.com/kong"/>
-    <id>https://hackerone.com/kong</id>
-    <updated>2025-10-21T18:25:43.913000+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/9mxy7hywgw77c9r3posybwqm2si4/74790fe75ac5dbe8a5140a122388d59ebac913dcfa941f0b3a45e6cad161f9ea' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $1000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] *.*.edge.gateways.konghq.com&lt;/li&gt;&lt;li&gt;[domain] https://*.api.konghq.com&lt;/li&gt;&lt;li&gt;[domain] *.gateways.konghq.com&lt;/li&gt;&lt;li&gt;[domain] https://*.konghq.tech&lt;/li&gt;&lt;li&gt;[domain] developer.konghq.com&lt;/li&gt;&lt;li&gt;[domain] konghq.com&lt;/li&gt;&lt;li&gt;[domain] https://us.identity.konghq.com/*&lt;/li&gt;&lt;li&gt;[executable] Insomnia CLI (inso)&lt;/li&gt;&lt;li&gt;[executable] Insomnia Desktop Client&lt;/li&gt;&lt;li&gt;[executable] Kong Gateway Enterprise&lt;/li&gt;&lt;li&gt;[executable] Kong Gateway OSS&lt;/li&gt;&lt;li&gt;[executable] Kong Gateway Plugins (Kong-Supported Only)&lt;/li&gt;&lt;li&gt;[executable] Kong Mesh&lt;/li&gt;&lt;li&gt;[executable] Non-Kong Plugins&lt;/li&gt;&lt;li&gt;[other] GitHub Actions in our Public Repositories&lt;/li&gt;&lt;li&gt;[other] Non-Kong GitHub Repositories&lt;/li&gt;&lt;li&gt;[other] Subdomain Takeover - konghq.com&lt;/li&gt;&lt;li&gt;[domain] http://cloud.konghq.com&lt;/li&gt;&lt;li&gt;[domain] https://app.insomnia.rest/&lt;/li&gt;&lt;li&gt;[domain] https://docs.konghq.com&lt;/li&gt;&lt;li&gt;[domain] https://httpbin.konghq.com/&lt;/li&gt;&lt;li&gt;[domain] https://insomnia.rest/&lt;/li&gt;&lt;li&gt;[domain] https://konghq.com/&lt;/li&gt;&lt;li&gt;[domain] https://kuma.io/&lt;/li&gt;&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <title>[HackerOne] Robinhood Markets</title>
-    <link href="https://hackerone.com/robinhood_markets"/>
-    <id>https://hackerone.com/robinhood_markets</id>
-    <updated>2025-10-20T15:04:09.720000+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/j8dql8tbvlibxbh2d16k2annh4gt/d9695107bfcd68eeb1c9e0912b109cdae9a6c00c0bda6fd4cbd6d9bdb828840a' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] _16928ca3f53f40a48a751be40fa24e4c.bitstamp.net&lt;/li&gt;&lt;li&gt;[domain] _domainconnect.bitstamp.net&lt;/li&gt;&lt;li&gt;[domain] *.1integrations.com&lt;/li&gt;&lt;li&gt;[domain] *.rhapollo.net&lt;/li&gt;&lt;li&gt;[domain] *.rhinternal.net&lt;/li&gt;&lt;li&gt;[domain] *.robinhood.com&lt;/li&gt;&lt;li&gt;[domain] *.robinhood.net&lt;/li&gt;&lt;li&gt;[domain] https://*.say.rocks&lt;/li&gt;&lt;li&gt;[domain] https://*.saytechnologies.com&lt;/li&gt;&lt;li&gt;[domain] *.x1.co&lt;/li&gt;&lt;li&gt;[domain] *.x1creditcard.com&lt;/li&gt;&lt;li&gt;[domain] 7671800.bitstamp.net&lt;/li&gt;&lt;li&gt;[domain] 7671800.team.bitstamp.net&lt;/li&gt;&lt;li&gt;[domain] affiliates.robinhood.com&lt;/li&gt;&lt;li&gt;[domain] api-sandbox.tradepmr.com&lt;/li&gt;&lt;li&gt;[domain] api-validation.tradepmr.com&lt;/li&gt;&lt;li&gt;[domain] api.robinhood.com&lt;/li&gt;&lt;li&gt;[domain] api.tradepmr.com&lt;/li&gt;&lt;li&gt;[domain] auth-sandbox.tradepmr.com&lt;/li&gt;&lt;li&gt;[domain] auth-validation.tradepmr.com&lt;/li&gt;&lt;li&gt;[domain] auth.tradepmr.com&lt;/li&gt;&lt;li&gt;[domain] autodiscover.bitstamp.net&lt;/li&gt;&lt;li&gt;[domain] bounces.bitstamp.net&lt;/li&gt;&lt;li&gt;[domain] careers.robinhood.com&lt;/li&gt;&lt;li&gt;[domain] cashier.robinhood.com&lt;/li&gt;&lt;li&gt;[domain] content.research.robinhood.com&lt;/li&gt;&lt;li&gt;[domain] earlytalent.robinhood.com&lt;/li&gt;&lt;li&gt;[domain] em1198.bitstamp.net&lt;/li&gt;&lt;li&gt;[domain] em4296.team.bitstamp.net&lt;/li&gt;&lt;li&gt;[domain] em9457.team.bitstamp.net&lt;/li&gt;&lt;li&gt;[domain] enterpriseenrollment.bitstamp.net&lt;/li&gt;&lt;li&gt;[domain] enterpriseregistration.bitstamp.net&lt;/li&gt;&lt;li&gt;[domain] esg.robinhood.com&lt;/li&gt;&lt;li&gt;[domain] events.robinhood.com&lt;/li&gt;&lt;li&gt;[domain] fleet.infra.robinhood.net&lt;/li&gt;&lt;li&gt;[domain] fusion-demo.tradepmr.com&lt;/li&gt;&lt;li&gt;[domain] fusion-demo.uat.tradepmr.com&lt;/li&gt;&lt;li&gt;[domain] fusion-demo.uat2.tradepmr.com&lt;/li&gt;&lt;li&gt;[domain] fusion.tradepmr.com&lt;/li&gt;&lt;li&gt;[domain] fusion.uat.tradepmr.com&lt;/li&gt;&lt;li&gt;[domain] fusion.uat2.tradepmr.com&lt;/li&gt;&lt;li&gt;[domain] fusion.uat3.tradepmr.com&lt;/li&gt;&lt;li&gt;[domain] go.robinhood.com&lt;/li&gt;&lt;li&gt;[domain] identi.robinhood.com&lt;/li&gt;&lt;li&gt;[domain] insight2.tradepmr.com&lt;/li&gt;&lt;li&gt;[domain] minerva.robinhood.com&lt;/li&gt;&lt;li&gt;[domain] nummus.robinhood.com&lt;/li&gt;&lt;li&gt;[domain] oak.robinhood.net&lt;/li&gt;&lt;li&gt;[domain] press.robinhood.com&lt;/li&gt;&lt;li&gt;[domain] roadshow.robinhood.com&lt;/li&gt;&lt;li&gt;[domain] share.robinhood.com&lt;/li&gt;&lt;li&gt;[domain] shop.robinhood.com&lt;/li&gt;&lt;li&gt;[domain] startinvesting.robinhood.com&lt;/li&gt;&lt;li&gt;[domain] status.bitstamp.net&lt;/li&gt;&lt;li&gt;[domain] underthehoodpod.robinhood.com&lt;/li&gt;&lt;li&gt;[domain] url6884.team.bitstamp.net&lt;/li&gt;&lt;li&gt;[domain] vgs-api.robinhood.com&lt;/li&gt;&lt;li&gt;[domain] weareallinvestors.robinhood.com&lt;/li&gt;&lt;li&gt;[domain] www.bitstamp.net&lt;/li&gt;&lt;li&gt;[domain] www.tradepmr.com&lt;/li&gt;&lt;li&gt;[mobile] 1634080733&lt;/li&gt;&lt;li&gt;[mobile] 6462308655&lt;/li&gt;&lt;li&gt;[mobile] 938003185&lt;/li&gt;&lt;li&gt;[mobile] com.robinhood.android&lt;/li&gt;&lt;li&gt;[mobile] com.robinhood.gateway&lt;/li&gt;&lt;li&gt;[mobile] com.robinhood.money&lt;/li&gt;&lt;li&gt;[mobile] Id1406825640&lt;/li&gt;&lt;li&gt;[mobile] net.bitstamp.app&lt;/li&gt;&lt;li&gt;[domain] https://www.saytechnologies.com/contact/sales&lt;/li&gt;&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <title>[HackerOne] Robinhood Markets Bounty</title>
-    <link href="https://hackerone.com/robinhood"/>
-    <id>https://hackerone.com/robinhood</id>
-    <updated>2025-10-18T12:41:48.676000+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/d5jaiteayrilca32u2vgpess2a24/d9695107bfcd68eeb1c9e0912b109cdae9a6c00c0bda6fd4cbd6d9bdb828840a' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $3000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] _16928ca3f53f40a48a751be40fa24e4c.bitstamp.net&lt;/li&gt;&lt;li&gt;[domain] _domainconnect.bitstamp.net&lt;/li&gt;&lt;li&gt;[domain] *.rhinternal.net&lt;/li&gt;&lt;li&gt;[domain] *.robinhood.com&lt;/li&gt;&lt;li&gt;[domain] *.robinhood.net&lt;/li&gt;&lt;li&gt;[domain] https://*.say.rocks&lt;/li&gt;&lt;li&gt;[domain] https://*.saytechnologies.com&lt;/li&gt;&lt;li&gt;[domain] 7671800.bitstamp.net&lt;/li&gt;&lt;li&gt;[domain] 7671800.team.bitstamp.net&lt;/li&gt;&lt;li&gt;[domain] affiliates.robinhood.com&lt;/li&gt;&lt;li&gt;[domain] api-sandbox.tradepmr.com&lt;/li&gt;&lt;li&gt;[domain] api-validation.tradepmr.com&lt;/li&gt;&lt;li&gt;[domain] api.robinhood.com&lt;/li&gt;&lt;li&gt;[domain] api.tradepmr.com&lt;/li&gt;&lt;li&gt;[domain] auth-sandbox.tradepmr.com&lt;/li&gt;&lt;li&gt;[domain] auth-validation.tradepmr.com&lt;/li&gt;&lt;li&gt;[domain] auth.tradepmr.com&lt;/li&gt;&lt;li&gt;[domain] autodiscover.bitstamp.net&lt;/li&gt;&lt;li&gt;[domain] bounces.bitstamp.net&lt;/li&gt;&lt;li&gt;[domain] careers.robinhood.com&lt;/li&gt;&lt;li&gt;[domain] cashier.robinhood.com&lt;/li&gt;&lt;li&gt;[domain] content.research.robinhood.com&lt;/li&gt;&lt;li&gt;[domain] earlytalent.robinhood.com&lt;/li&gt;&lt;li&gt;[domain] em1198.bitstamp.net&lt;/li&gt;&lt;li&gt;[domain] em4296.team.bitstamp.net&lt;/li&gt;&lt;li&gt;[domain] em9457.team.bitstamp.net&lt;/li&gt;&lt;li&gt;[domain] enterpriseenrollment.bitstamp.net&lt;/li&gt;&lt;li&gt;[domain] enterpriseregistration.bitstamp.net&lt;/li&gt;&lt;li&gt;[domain] esg.robinhood.com&lt;/li&gt;&lt;li&gt;[domain] events.robinhood.com&lt;/li&gt;&lt;li&gt;[domain] fleet.infra.robinhood.net&lt;/li&gt;&lt;li&gt;[domain] fusion-demo.tradepmr.com&lt;/li&gt;&lt;li&gt;[domain] fusion-demo.uat.tradepmr.com&lt;/li&gt;&lt;li&gt;[domain] fusion-demo.uat2.tradepmr.com&lt;/li&gt;&lt;li&gt;[domain] fusion.tradepmr.com&lt;/li&gt;&lt;li&gt;[domain] fusion.uat.tradepmr.com&lt;/li&gt;&lt;li&gt;[domain] fusion.uat2.tradepmr.com&lt;/li&gt;&lt;li&gt;[domain] fusion.uat3.tradepmr.com&lt;/li&gt;&lt;li&gt;[domain] go.robinhood.com&lt;/li&gt;&lt;li&gt;[domain] identi.robinhood.com&lt;/li&gt;&lt;li&gt;[domain] insight2.tradepmr.com&lt;/li&gt;&lt;li&gt;[domain] minerva.robinhood.com&lt;/li&gt;&lt;li&gt;[domain] nummus.robinhood.com&lt;/li&gt;&lt;li&gt;[domain] press.robinhood.com&lt;/li&gt;&lt;li&gt;[domain] roadshow.robinhood.com&lt;/li&gt;&lt;li&gt;[domain] sandbox.bitstamp.net&lt;/li&gt;&lt;li&gt;[domain] share.robinhood.com&lt;/li&gt;&lt;li&gt;[domain] shop.robinhood.com&lt;/li&gt;&lt;li&gt;[domain] startinvesting.robinhood.com&lt;/li&gt;&lt;li&gt;[domain] status.bitstamp.net&lt;/li&gt;&lt;li&gt;[domain] underthehoodpod.robinhood.com&lt;/li&gt;&lt;li&gt;[domain] url6884.team.bitstamp.net&lt;/li&gt;&lt;li&gt;[domain] vgs-api.robinhood.com&lt;/li&gt;&lt;li&gt;[domain] weareallinvestors.robinhood.com&lt;/li&gt;&lt;li&gt;[domain] www.bitstamp.net&lt;/li&gt;&lt;li&gt;[domain] www.tradepmr.com&lt;/li&gt;&lt;li&gt;[mobile] 1634080733&lt;/li&gt;&lt;li&gt;[mobile] 6462308655&lt;/li&gt;&lt;li&gt;[mobile] 938003185&lt;/li&gt;&lt;li&gt;[mobile] com.robinhood.android&lt;/li&gt;&lt;li&gt;[mobile] com.robinhood.gateway&lt;/li&gt;&lt;li&gt;[mobile] com.robinhood.money&lt;/li&gt;&lt;li&gt;[mobile] Id1406825640&lt;/li&gt;&lt;li&gt;[mobile] net.bitstamp.app&lt;/li&gt;&lt;li&gt;[domain] https://www.saytechnologies.com/contact/sales&lt;/li&gt;&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <title>[HackerOne] Roke</title>
-    <link href="https://hackerone.com/roke_vdp"/>
-    <id>https://hackerone.com/roke_vdp</id>
-    <updated>2025-10-16T11:11:56.036000+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/toek93bi7vggcfku38mzl55z8e8q/d9695107bfcd68eeb1c9e0912b109cdae9a6c00c0bda6fd4cbd6d9bdb828840a' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] *.roke.co.uk&lt;/li&gt;&lt;li&gt;[domain] recruitment.roke.co.uk&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title>[HackenProof] Volo Web </title>
@@ -535,27 +437,6 @@
     <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/68e80c1d40041c000ff53dc3/logo.png?timestamp=1766754489' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $150 - $150000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[source code] https://github.com/naviprotocol/astros-contracts/tree/main/perp_vault&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
-    <title>[HackerOne] Vueling</title>
-    <link href="https://hackerone.com/vueling_vdp"/>
-    <id>https://hackerone.com/vueling_vdp</id>
-    <updated>2025-10-15T08:01:17.916000+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/ju2q6m71bsi1pqqn8k1bhyrnx7vi/74790fe75ac5dbe8a5140a122388d59ebac913dcfa941f0b3a45e6cad161f9ea' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] *.vueling.com&lt;/li&gt;&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <title>[HackerOne] Regions Financial</title>
-    <link href="https://hackerone.com/regions_financial"/>
-    <id>https://hackerone.com/regions_financial</id>
-    <updated>2025-10-14T16:42:58.286000+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/4b0lxe36fev0m1utxbr7sce2wtwu/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] clearsightadvisors.com&lt;/li&gt;&lt;li&gt;[domain] enerbank.com&lt;/li&gt;&lt;li&gt;[domain] firststerling.com&lt;/li&gt;&lt;li&gt;[domain] regions.com&lt;/li&gt;&lt;li&gt;[domain] regions.us&lt;/li&gt;&lt;li&gt;[domain] regionsapps.com&lt;/li&gt;&lt;li&gt;[domain] regionsdev.com&lt;/li&gt;&lt;li&gt;[domain] regionsqa.com&lt;/li&gt;&lt;li&gt;[domain] regionsretirement.com&lt;/li&gt;&lt;li&gt;[domain] regionssource.com&lt;/li&gt;&lt;li&gt;[domain] regionstest.com&lt;/li&gt;&lt;li&gt;[domain] rgbk.com&lt;/li&gt;&lt;li&gt;[mobile] Regions Bank&lt;/li&gt;&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <title>[HackerOne] Draken</title>
-    <link href="https://hackerone.com/draken_aero"/>
-    <id>https://hackerone.com/draken_aero</id>
-    <updated>2025-10-14T09:13:09.681000+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/wpsuayslm68jtlku5evytbccxlaa/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[cidr] 194.73.181.160/29&lt;/li&gt;&lt;li&gt;[cidr] 194.73.181.176/28&lt;/li&gt;&lt;li&gt;[cidr] 194.73.181.248/29&lt;/li&gt;&lt;li&gt;[cidr] 195.99.217.224/28&lt;/li&gt;&lt;li&gt;[cidr] 217.38.165.25/29&lt;/li&gt;&lt;li&gt;[cidr] 62.64.198.48/28&lt;/li&gt;&lt;li&gt;[cidr] 62.64.199.120/29&lt;/li&gt;&lt;li&gt;[cidr] 86.188.129.9/29&lt;/li&gt;&lt;li&gt;[domain] careers.draken.aero&lt;/li&gt;&lt;li&gt;[domain] draken.aero&lt;/li&gt;&lt;li&gt;[other] 20.49.171.93&lt;/li&gt;&lt;li&gt;[other] 51.11.122.92&lt;/li&gt;&lt;li&gt;[other] 81.128.141.138&lt;/li&gt;&lt;li&gt;[other] 86.188.184.67&lt;/li&gt;&lt;li&gt;[domain] http://pip-azu2-sec-paf-001-mgmt.ukwest.cloudapp.azure.com&lt;/li&gt;&lt;li&gt;[domain] http://vpn.drakeneurope.network&lt;/li&gt;&lt;li&gt;[domain] https://pip-azu1-sec-paf-001-mgmt.uksouth.cloudapp.azure.com/&lt;/li&gt;&lt;li&gt;[domain] https://pip-azu1-sec-paf-002-mgmt.uksouth.cloudapp.azure.com/&lt;/li&gt;&lt;li&gt;[domain] https://pip-azu1-sec-pan-001.uksouth.cloudapp.azure.com/&lt;/li&gt;&lt;/ul&gt;</content>
-  </entry>
-  <entry>
     <title>[HackenProof] Astros Web</title>
     <link href="https://hackenproof.com/programs/astros-web"/>
     <id>https://hackenproof.com/programs/astros-web</id>
@@ -591,13 +472,6 @@
     <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/68dbff5a40041c000d70a2da/logo.png?timestamp=1766754133' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $5,000 - $15000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[source code] https://github.com/hackenproof-public/ember-vaults&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
-    <title>[HackerOne] Lovable VDP</title>
-    <link href="https://hackerone.com/lovable-vdp"/>
-    <id>https://hackerone.com/lovable-vdp</id>
-    <updated>2025-10-03T17:42:14.210000+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/vqnq844bgn7gv1xr9qr9chke2kf5/74790fe75ac5dbe8a5140a122388d59ebac913dcfa941f0b3a45e6cad161f9ea' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] lovable.app&lt;/li&gt;&lt;li&gt;[domain] lovable.dev&lt;/li&gt;&lt;/ul&gt;</content>
-  </entry>
-  <entry>
     <title>[HackenProof] Calyx Smart Contract</title>
     <link href="https://hackenproof.com/programs/calyx-smart-contract"/>
     <id>https://hackenproof.com/programs/calyx-smart-contract</id>
@@ -619,13 +493,6 @@
     <content type="html">&lt;div&gt;&lt;img src='https://images.ctfassets.net/t3wqy70tc3bv/4BS96MKj8tAsSeXuOSQJ7f/99b997f0a0e0b8e3aecbd046b330a152/mx8MTMca_400x400_Small_Small.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $1,000 - $100000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[smart contract] https://purrsec.com/address/0x02c6a2fa58cc01a18b8d9e00ea48d65e4df26c70&lt;/li&gt;&lt;li&gt;[smart contract] https://purrsec.com/address/0x12a1868b89789900e413a6241ca9032dd1873a51&lt;/li&gt;&lt;li&gt;[smart contract] https://purrsec.com/address/0x3100f4e7bda2ed2452d9a57eb30260ab071bbe62&lt;/li&gt;&lt;li&gt;[smart contract] https://purrsec.com/address/0x36b7bd65276eda7cdc5f730da5cdb7ee7736672e&lt;/li&gt;&lt;li&gt;[smart contract] https://purrsec.com/address/0x39ebba742b6917d49d4a9ac7cf5c70f84d34cc9e&lt;/li&gt;&lt;li&gt;[smart contract] https://purrsec.com/address/0x50743a84c68a9d14d93364ed31afa4012183df1c&lt;/li&gt;&lt;li&gt;[smart contract] https://purrsec.com/address/0x5555555555555555555555555555555555555555&lt;/li&gt;&lt;li&gt;[smart contract] https://purrsec.com/address/0x576c9c501473e01ae23748de28415a74425efd6b&lt;/li&gt;&lt;li&gt;[smart contract] https://purrsec.com/address/0x5ad1512e7006fdbd0f3ebb8aa35c5e9234a03aa7&lt;/li&gt;&lt;li&gt;[smart contract] https://purrsec.com/address/0x5b271dc20ba7beb8eee276eb4f1644b6a217f0a3&lt;/li&gt;&lt;li&gt;[smart contract] https://purrsec.com/address/0x642d979341eaac9c10623f5a58283aa72f6e2fa9&lt;/li&gt;&lt;li&gt;[smart contract] https://purrsec.com/address/0x7201fb5c3ba06f10a858819f62221ae2f473815d&lt;/li&gt;&lt;li&gt;[smart contract] https://purrsec.com/address/0x7560059081ede2ff6c6b980fd1ee9a53df4e9935&lt;/li&gt;&lt;li&gt;[smart contract] https://purrsec.com/address/0x8b71c92edf02dff693042e4e808d0568ccf0a137&lt;/li&gt;&lt;li&gt;[smart contract] https://purrsec.com/address/0x8d99575ebbbda038a626ca769561c16fdd7a5939&lt;/li&gt;&lt;li&gt;[smart contract] https://purrsec.com/address/0x9182e36bd7cceb71812c766c4464208ad9c122ca&lt;/li&gt;&lt;li&gt;[smart contract] https://purrsec.com/address/0x9de1e57049c475736289cb006212f3e1dce4711b&lt;/li&gt;&lt;li&gt;[smart contract] https://purrsec.com/address/0x9fdbda0a5e284c32744d2f17ee5c74b284993463&lt;/li&gt;&lt;li&gt;[smart contract] https://purrsec.com/address/0xa1e95e74d07fec324a82cd2ef19ebcb33907c605&lt;/li&gt;&lt;li&gt;[smart contract] https://purrsec.com/address/0xa32e89c658f7fdcc0bdb2717f253bacd99f864d4&lt;/li&gt;&lt;li&gt;[smart contract] https://purrsec.com/address/0xabf0369530205ae56dd4c49629474c65d1168924&lt;/li&gt;&lt;li&gt;[smart contract] https://purrsec.com/address/0xad8a43ac8da98990efa4d5ec7b91135965d5846b&lt;/li&gt;&lt;li&gt;[smart contract] https://purrsec.com/address/0xbbe5f227275f24b64bd290a91f55723a00214885&lt;/li&gt;&lt;li&gt;[smart contract] https://purrsec.com/address/0xd1caa4218808eb94d36e1df7247f7406f43f2ef6&lt;/li&gt;&lt;li&gt;[smart contract] https://purrsec.com/address/0xd389c600B302C05e619a25112B27eA07C62A6c8c&lt;/li&gt;&lt;li&gt;[smart contract] https://purrsec.com/address/0xe7aba857f8e2c95462e69b93c7ea78ac19aafe38&lt;/li&gt;&lt;li&gt;[smart contract] https://purrsec.com/address/0xefbd9cfe88235f0e648aefb52c8e8dc152a9ad6f&lt;/li&gt;&lt;li&gt;[smart contract] https://purrsec.com/address/0xf59f338424062dd1d44a9b4dd2721128a45358ab&lt;/li&gt;&lt;li&gt;[smart contract] https://purrsec.com/address/0xfc4e20bd9f0e4f8782bea92a7bd8002367882407&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
-    <title>[HackerOne] Baird</title>
-    <link href="https://hackerone.com/baird_vdp"/>
-    <id>https://hackerone.com/baird_vdp</id>
-    <updated>2025-10-01T14:06:24.126000+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/rsnz8wa702e085r0z1sfdkq6rmke/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] https://*.rwbaird.com&lt;/li&gt;&lt;li&gt;[domain] bairdwealth.com&lt;/li&gt;&lt;li&gt;[mobile] 777691707&lt;/li&gt;&lt;li&gt;[mobile] com.rwbaird.investorandroid&lt;/li&gt;&lt;li&gt;[domain] http://bol.rwbaird.com&lt;/li&gt;&lt;li&gt;[domain] http://clientdocs.rwbaird.com&lt;/li&gt;&lt;li&gt;[domain] http://content.rwbaird.com&lt;/li&gt;&lt;li&gt;[domain] http://uatclientdocs.rwbaird.com&lt;/li&gt;&lt;li&gt;[domain] http://www.rwbaird.com/docs&lt;/li&gt;&lt;/ul&gt;</content>
-  </entry>
-  <entry>
     <title>[Immunefi] Flare FAssets</title>
     <link href="https://immunefi.com/bounty/fassets"/>
     <id>https://immunefi.com/bounty/fassets</id>
@@ -645,5 +512,138 @@
     <id>https://hackenproof.com/programs/flow-wallet</id>
     <updated>2025-09-26T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/68d1284140041c7a7ad02ea8/logo.png?timestamp=1759262372' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $200 - $25000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] https://chrome.google.com/webstore/detail/flow-core/hpclkefagolihohboafpheddmmgdffjm&lt;/li&gt;&lt;li&gt;[mobile] https://apps.apple.com/ca/app/flow-wallet-nfts-and-crypto/id6478996750&lt;/li&gt;&lt;li&gt;[mobile] https://play.google.com/store/apps/details?id=com.flowfoundation.wallet&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title>[Standoff365] Т-Банк Rule-Bounty</title>
+    <link href="https://bugbounty.standoff365.com/en-US/programs/tbank-rules"/>
+    <id>https://bugbounty.standoff365.com/en-US/programs/tbank-rules</id>
+    <updated>2025-09-23T08:42:59.659661+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://api.standoff365.com/images/200_200/9757bd30-d797-4d33-88d6-187a1985dbe9.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Standoff365&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $12000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
+  <entry>
+    <title>[Intigriti] Liferay DXP</title>
+    <link href="https://app.intigriti.com/programs/liferay/liferaydxp/detail"/>
+    <id>https://app.intigriti.com/programs/liferay/liferaydxp/detail</id>
+    <updated>2025-09-18T21:19:47+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://app.intigriti.com/api/file/api/file/public_bucket_37456dda-75cd-486a-b5a8-cd9ff98e2854-eea3e3d5-151f-4057-b209-2f365c5da1fe' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Intigriti&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $100 - $2000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[other] Liferay DXP 2024.Q1&lt;/li&gt;&lt;li&gt;[other] Liferay DXP 2025.Q1&lt;/li&gt;&lt;li&gt;[other] Liferay DXP 2025.Q4&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title>[Intigriti] VDP</title>
+    <link href="https://app.intigriti.com/programs/showpad/vdp/detail"/>
+    <id>https://app.intigriti.com/programs/showpad/vdp/detail</id>
+    <updated>2025-09-17T12:32:21+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://app.intigriti.com/api/file/api/file/public_bucket_81385618-33b6-4b7d-b5a5-468bce185ba0-fe4f71c0-7adf-48f3-8d99-00ecae37a4f6' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Intigriti&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[other] www.showpad.com&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title>[HackenProof] Turbos Finance Smart Contracts</title>
+    <link href="https://hackenproof.com/programs/turbos-finance-smart-contracts"/>
+    <id>https://hackenproof.com/programs/turbos-finance-smart-contracts</id>
+    <updated>2025-09-17T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/68b85a0040041c7a7acfcf6a/logo.png?timestamp=1766754081' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $15000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[source code] https://github.com/hackenproof-public/turbos-clmm-public&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title>[Immunefi] XOXNO</title>
+    <link href="https://immunefi.com/bounty/xoxno"/>
+    <id>https://immunefi.com/bounty/xoxno</id>
+    <updated>2025-09-16T08:00:31+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://images.ctfassets.net/t3wqy70tc3bv/5jY3HNj6JkKgJG8eVfrILY/bd62c19d04421265d5be2ad5ad4684f9/bTA7cvxE_400x400.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $1,000 - $50000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[source code] https://github.com/XOXNO/rs-lending/tree/master/common&lt;/li&gt;&lt;li&gt;[source code] https://github.com/XOXNO/rs-lending/tree/master/controller/src&lt;/li&gt;&lt;li&gt;[source code] https://github.com/XOXNO/rs-lending/tree/master/liquidity_layer&lt;/li&gt;&lt;li&gt;[source code] https://github.com/XOXNO/rs-liquid-staking-sc/tree/main/liquid-staking/src&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title>[Standoff365] Электрорешения</title>
+    <link href="https://bugbounty.standoff365.com/en-US/programs/elektroresheniya"/>
+    <id>https://bugbounty.standoff365.com/en-US/programs/elektroresheniya</id>
+    <updated>2025-09-15T08:32:14.049521+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://api.standoff365.com/images/200_200/5cecbfd3-d797-472a-b7b2-416ed34714c4.jpeg' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Standoff365&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $9,600 - $9600&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
+  <entry>
+    <title>[HackenProof] Snowbridge Web</title>
+    <link href="https://hackenproof.com/programs/snowbridge-web"/>
+    <id>https://hackenproof.com/programs/snowbridge-web</id>
+    <updated>2025-09-11T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/68ade5fd40041c57405b6150/logo.png?timestamp=1759915366' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $200 - $15000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] https://app.snowbridge.network&lt;/li&gt;&lt;li&gt;[source code] https://github.com/Snowfork/snowbridge-app&lt;/li&gt;&lt;li&gt;[source code] https://github.com/Snowfork/snowbridge/tree/main/web&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title>[HackenProof] Snowbridge On-Chain Code</title>
+    <link href="https://hackenproof.com/programs/snowbridge-on-chain-code"/>
+    <id>https://hackenproof.com/programs/snowbridge-on-chain-code</id>
+    <updated>2025-09-11T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/68ade77540041c57405b6183/logo.png?timestamp=1762514548' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $200 - $75000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[source code] https://github.com/paritytech/polkadot-sdk/tree/master/bridges/snowbridge&lt;/li&gt;&lt;li&gt;[source code] https://github.com/Snowfork/snowbridge/tree/main/contracts&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title>[Intigriti] Exoscale Bug Bounty</title>
+    <link href="https://app.intigriti.com/programs/exoscale/excoscalebugbounty/detail"/>
+    <id>https://app.intigriti.com/programs/exoscale/excoscalebugbounty/detail</id>
+    <updated>2025-09-10T14:07:03+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://app.intigriti.com/api/file/api/file/public_bucket_a7c33151-eda4-4fe5-a1f6-3600324aa4df-dd797c3a-53e9-4426-a74a-193eb4d8b79d' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Intigriti&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $5000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] *.internal.exoscale.ch&lt;/li&gt;&lt;li&gt;[other] CDN service&lt;/li&gt;&lt;li&gt;[other] Marketplace products&lt;/li&gt;&lt;li&gt;[domain] https://academy.exoscale.com/&lt;/li&gt;&lt;li&gt;[domain] https://api-*exoscale.com/v2&lt;/li&gt;&lt;li&gt;[domain] https://changelog.exoscale.com/&lt;/li&gt;&lt;li&gt;[domain] https://community.exoscale.com/&lt;/li&gt;&lt;li&gt;[domain] https://exoscalestatus.com/&lt;/li&gt;&lt;li&gt;[domain] https://jobs.exoscale.com/&lt;/li&gt;&lt;li&gt;[domain] https://portal.exoscale.com/&lt;/li&gt;&lt;li&gt;[domain] https://sks-*.exo.io&lt;/li&gt;&lt;li&gt;[domain] https://sos-*.exo.io&lt;/li&gt;&lt;li&gt;[domain] https://www.exoscale.com/&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title>[Immunefi] monero-oxide</title>
+    <link href="https://immunefi.com/bounty/monero-oxide"/>
+    <id>https://immunefi.com/bounty/monero-oxide</id>
+    <updated>2025-09-09T14:58:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://images.ctfassets.net/t3wqy70tc3bv/OBgJTywLzana1ALxCFcc3/85ca6f5463dc82a51c99ffa0cde96553/MoneroOxide.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $1,000 - $100000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[source code] https://github.com/monero-oxide/monero-oxide/tree/main&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title>[Immunefi] Impossible Cloud Network</title>
+    <link href="https://immunefi.com/bounty/impossible-cloud-network"/>
+    <id>https://immunefi.com/bounty/impossible-cloud-network</id>
+    <updated>2025-09-09T09:35:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://images.ctfassets.net/t3wqy70tc3bv/2fNcM2b76UqW8raeG7M9CB/555e39a32a36ac34d77775c2b572d068/deLN0OMT_400x400_Small.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $1,500 - $25000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[blockchain-dlt] https://basescan.org/address/0x2e38083d45A72bC12019C54DCC40109d088f7EB5&lt;/li&gt;&lt;li&gt;[blockchain-dlt] https://basescan.org/address/0x2f9D478da5DC5304d3C8b3094c70411828C671EB&lt;/li&gt;&lt;li&gt;[blockchain-dlt] https://basescan.org/address/0x31fb85fD348F2F14AB70E7e41e7C3Df30A8C417d&lt;/li&gt;&lt;li&gt;[blockchain-dlt] https://basescan.org/address/0x5AcBfF1f97CB82E69910a825d7d724880C62Eec8&lt;/li&gt;&lt;li&gt;[blockchain-dlt] https://basescan.org/address/0x5c86CC0b585295151966EC8fc2b590FB1dC737f7&lt;/li&gt;&lt;li&gt;[blockchain-dlt] https://basescan.org/address/0x6EC92B42a53F07b4C061F597CF6B3776B4542093&lt;/li&gt;&lt;li&gt;[blockchain-dlt] https://basescan.org/address/0x86fED0FEA3C25D11430C242623CF439AbC3B8Bba&lt;/li&gt;&lt;li&gt;[blockchain-dlt] https://basescan.org/address/0x9131f272d9eAA4BeC30eb4254C78B50Df7bc8791&lt;/li&gt;&lt;li&gt;[blockchain-dlt] https://basescan.org/address/0x9232ede9e52E75af165E73E7a9d8cd740CEeE6a0&lt;/li&gt;&lt;li&gt;[blockchain-dlt] https://basescan.org/address/0x9Ed9A87e3237cE29fB1aCd30649dA9d2847987c3&lt;/li&gt;&lt;li&gt;[blockchain-dlt] https://basescan.org/address/0xa3A5C7a4aF29F5bA0d8D77EB6B6b2f25536fBc34&lt;/li&gt;&lt;li&gt;[blockchain-dlt] https://basescan.org/address/0xA77168C879f7EBaA8CA3C981e389D4578b12C9d8&lt;/li&gt;&lt;li&gt;[blockchain-dlt] https://basescan.org/address/0xbA8d6AC691D0946d03e5A4c93bA9e711E82F4D27&lt;/li&gt;&lt;li&gt;[blockchain-dlt] https://basescan.org/address/0xe64Fab0952125a5A9968AD41D8a202014869a8cc&lt;/li&gt;&lt;li&gt;[blockchain-dlt] https://basescan.org/address/0xeD788eF1236E71b1ae503B39b264907Ac97B66c1&lt;/li&gt;&lt;li&gt;[blockchain-dlt] https://basescan.org/address/0xf97492a5B53eeF9AA10295dDAe6D6A58c7988D21&lt;/li&gt;&lt;li&gt;[blockchain-dlt] https://basescan.org/address/0xFb2d8aDac4f3D5e7A834C28F6376E439c0171C31&lt;/li&gt;&lt;li&gt;[blockchain-dlt] https://basescan.org/token/0xDa24c1F7669bf9b12EAfE5A3967BC9358eE48A12&lt;/li&gt;&lt;li&gt;[blockchain-dlt] https://basescan.org/token/0xE0Cd4cAcDdcBF4f36e845407CE53E87717b6601d&lt;/li&gt;&lt;li&gt;[blockchain-dlt] https://etherscan.io/token/0xe5e0b73380181273abCfD88695F52C4D0C825661&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title>[HackenProof] Sweed Web </title>
+    <link href="https://hackenproof.com/programs/sweed-web"/>
+    <id>https://hackenproof.com/programs/sweed-web</id>
+    <updated>2025-09-09T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/6895c67f40041c000f945548/logo.png?timestamp=1766567563' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $2000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] https://admin-panel-dev.sweedpos.com/*&lt;/li&gt;&lt;li&gt;[domain] https://admin-panel-sales.sweedpos.com/*&lt;/li&gt;&lt;li&gt;[domain] https://admin-panel.curaleaf.sweedpos.com/*&lt;/li&gt;&lt;li&gt;[domain] https://admin-panel.pilot.sweedpos.com/*&lt;/li&gt;&lt;li&gt;[domain] https://admin-panel.prime.sweedpos.com/*&lt;/li&gt;&lt;li&gt;[domain] https://admin-panel.sweedpos.com/*&lt;/li&gt;&lt;li&gt;[domain] https://cashier-curaleaf.sweedpos.com/*&lt;/li&gt;&lt;li&gt;[domain] https://cashier-demo.sweedpos.com/*&lt;/li&gt;&lt;li&gt;[domain] https://cashier-dev.sweedpos.com/*&lt;/li&gt;&lt;li&gt;[domain] https://cashier-prime.sweedpos.com/*&lt;/li&gt;&lt;li&gt;[domain] https://cashier-sales.sweedpos.com/*&lt;/li&gt;&lt;li&gt;[domain] https://cashier.sweedpos.com/*&lt;/li&gt;&lt;li&gt;[domain] https://curaleaf.sweedpos.com/*&lt;/li&gt;&lt;li&gt;[domain] https://demo.sweedpos.com/*&lt;/li&gt;&lt;li&gt;[domain] https://dev.sweedpos.com/*&lt;/li&gt;&lt;li&gt;[domain] https://inner-test3.sweed.app/*&lt;/li&gt;&lt;li&gt;[domain] https://prime.sweedpos.com/l*&lt;/li&gt;&lt;li&gt;[domain] https://sales.sweedpos.com/*&lt;/li&gt;&lt;li&gt;[domain] https://store.sweedpos.com/*&lt;/li&gt;&lt;li&gt;[other] https://dashboard.kube-prod.sweedpos.com/*&lt;/li&gt;&lt;li&gt;[other] https://dashboard.kube.sweedpos.com/*&lt;/li&gt;&lt;li&gt;[other] https://kibana.elk.kube.sweedpos.com/*&lt;/li&gt;&lt;li&gt;[other] https://kibana.kube-prod.sweedpos.com/*&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title>[Standoff365] Росфинмониторинг: Публичные сервисы</title>
+    <link href="https://bugbounty.standoff365.com/en-US/programs/fedsfm"/>
+    <id>https://bugbounty.standoff365.com/en-US/programs/fedsfm</id>
+    <updated>2025-09-08T09:14:36.692694+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://api.standoff365.com/images/200_200/3b0ddddb-2adb-4f6d-a5ae-300e514ece09.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Standoff365&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $1800&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
+  <entry>
+    <title>[IssueHunt] オフィスコム株式会社</title>
+    <link href="https://issuehunt.io/programs/934464b6-8494-487f-8d7c-dc5d00df8c76"/>
+    <id>https://issuehunt.io/programs/934464b6-8494-487f-8d7c-dc5d00df8c76</id>
+    <updated>2025-09-08T01:11:02+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://api.issuehunt.io/organizations/7cd69410-127d-4a87-b71f-88bda599dc0f/avatar' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; IssueHunt&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $34 - $340&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] https://www.office-com.jp/&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title>[HackenProof] NEAR Intents: Smart Contracts</title>
+    <link href="https://hackenproof.com/programs/near-intents-smart-contracts"/>
+    <id>https://hackenproof.com/programs/near-intents-smart-contracts</id>
+    <updated>2025-09-08T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/6850718c40041c000d1634b6/logo.png?timestamp=1762375251' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $100 - $500000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[source code] https://github.com/near/intents&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title>[Immunefi] zkVerify</title>
+    <link href="https://immunefi.com/bounty/zkverify"/>
+    <id>https://immunefi.com/bounty/zkverify</id>
+    <updated>2025-09-05T12:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/43562-XsQidDmPxFzfkmVAQWyt_-QWtGz8DGV5zcFHPyca9xbsMLyiimNP.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $5,000 - $50000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[source code] https://github.com/zkVerify&lt;/li&gt;&lt;li&gt;[source code] https://github.com/zkVerify/zkverifyjs&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title>[Immunefi] Enzyme Onyx</title>
+    <link href="https://immunefi.com/bounty/enzyme-onyx"/>
+    <id>https://immunefi.com/bounty/enzyme-onyx</id>
+    <updated>2025-09-04T10:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://images.ctfassets.net/t3wqy70tc3bv/3iP5zSqWcE9ivBa4KHRO7o/f6b068029c43b748115d87919d8387fc/S5wC58QC_400x400.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $1,000 - $200000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[source code] https://github.com/enzymefinance/protocol-onyx/blob/6bde0489b1a3196e6290b59e119748ecbeb8b8e4/src/components/fees/performance-fee-trackers/ContinuousFlatRatePerformanceFeeTracker.sol&lt;/li&gt;&lt;li&gt;[source code] https://github.com/enzymefinance/protocol-onyx/blob/b98576fa39213b3c8aecb8b5b104c9acaa24eff0/src/components/fees/FeeHandler.sol&lt;/li&gt;&lt;li&gt;[source code] https://github.com/enzymefinance/protocol-onyx/blob/b98576fa39213b3c8aecb8b5b104c9acaa24eff0/src/components/fees/management-fee-trackers/ContinuousFlatRateManagementFeeTracker.sol&lt;/li&gt;&lt;li&gt;[source code] https://github.com/enzymefinance/protocol-onyx/blob/b98576fa39213b3c8aecb8b5b104c9acaa24eff0/src/components/issuance/deposit-handlers/ERC7540LikeDepositQueue.sol&lt;/li&gt;&lt;li&gt;[source code] https://github.com/enzymefinance/protocol-onyx/blob/b98576fa39213b3c8aecb8b5b104c9acaa24eff0/src/components/issuance/redeem-handlers/ERC7540LikeRedeemQueue.sol&lt;/li&gt;&lt;li&gt;[source code] https://github.com/enzymefinance/protocol-onyx/blob/b98576fa39213b3c8aecb8b5b104c9acaa24eff0/src/components/roles/LimitedAccessLimitedCallForwarder.sol&lt;/li&gt;&lt;li&gt;[source code] https://github.com/enzymefinance/protocol-onyx/blob/b98576fa39213b3c8aecb8b5b104c9acaa24eff0/src/components/roles/OpenAccessLimitedCallForwarder.sol&lt;/li&gt;&lt;li&gt;[source code] https://github.com/enzymefinance/protocol-onyx/blob/b98576fa39213b3c8aecb8b5b104c9acaa24eff0/src/components/value/position-trackers/AccountERC20Tracker.sol&lt;/li&gt;&lt;li&gt;[source code] https://github.com/enzymefinance/protocol-onyx/blob/b98576fa39213b3c8aecb8b5b104c9acaa24eff0/src/components/value/position-trackers/LinearCreditDebtTracker.sol&lt;/li&gt;&lt;li&gt;[source code] https://github.com/enzymefinance/protocol-onyx/blob/b98576fa39213b3c8aecb8b5b104c9acaa24eff0/src/components/value/ValuationHandler.sol&lt;/li&gt;&lt;li&gt;[source code] https://github.com/enzymefinance/protocol-onyx/blob/b98576fa39213b3c8aecb8b5b104c9acaa24eff0/src/factories/ComponentBeaconProxy.sol&lt;/li&gt;&lt;li&gt;[source code] https://github.com/enzymefinance/protocol-onyx/blob/b98576fa39213b3c8aecb8b5b104c9acaa24eff0/src/global/Global.sol&lt;/li&gt;&lt;li&gt;[source code] https://github.com/enzymefinance/protocol-onyx/blob/b98576fa39213b3c8aecb8b5b104c9acaa24eff0/src/infra/oracles/OneToOneAggregator.sol&lt;/li&gt;&lt;li&gt;[source code] https://github.com/enzymefinance/protocol-onyx/blob/b98576fa39213b3c8aecb8b5b104c9acaa24eff0/src/shares/Shares.sol&lt;/li&gt;&lt;li&gt;[source code] https://github.com/enzymefinance/protocol-onyx/blob/b98576fa39213b3c8aecb8b5b104c9acaa24eff0/src/utils/StorageHelpersLib.sol&lt;/li&gt;&lt;li&gt;[source code] https://github.com/enzymefinance/protocol-onyx/blob/b98576fa39213b3c8aecb8b5b104c9acaa24eff0/src/utils/ValueHelpersLib.sol&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title>[BugRap] Ourbit</title>
+    <link href="https://bugrap.io/bounties/Ourbit"/>
+    <id>https://bugrap.io/bounties/Ourbit</id>
+    <updated>2025-09-02T03:16:38+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://bugrap-prod.s3.ap-southeast-1.amazonaws.com/uploads/GSgEYEqM91R6zBSuCOoOrN2iEmmpyN3qXECnB5vW.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; BugRap&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $30 - $20000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] *.ourbit.com&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title>[HackenProof] Rtree Finance Web</title>
+    <link href="https://hackenproof.com/programs/rtree-finance-web"/>
+    <id>https://hackenproof.com/programs/rtree-finance-web</id>
+    <updated>2025-09-02T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/6891a6fb40041c6a8d942a6a/logo.png?timestamp=1756810203' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $5000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] *.rtreefinance.com&lt;/li&gt;&lt;li&gt;[domain] https://www.rtreefinance.com&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
 </feed>
