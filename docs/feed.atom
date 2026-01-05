@@ -1,7 +1,14 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-01-04T18:11:11.428750+00:00</updated>
+  <updated>2026-01-05T00:39:13.365276+00:00</updated>
+  <entry>
+    <title>[Sherlock] Flying Tulip</title>
+    <link href="https://app.sherlock.xyz/audits/contests/1223"/>
+    <id>https://app.sherlock.xyz/audits/contests/1223</id>
+    <updated>2026-01-05T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://sherlock-files.ams3.digitaloceanspaces.com/contests/Flying Tulip.jpg' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Sherlock&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $100000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
   <entry>
     <title>[Compass Security] CH Media</title>
     <link href="https://bugbounty.compass-security.com/service-details.html?id=20"/>
