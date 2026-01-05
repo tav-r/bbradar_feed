@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-01-05T06:15:51.004307+00:00</updated>
+  <updated>2026-01-05T12:15:13.508967+00:00</updated>
   <entry>
     <title>[Sherlock] Flying Tulip</title>
     <link href="https://app.sherlock.xyz/audits/contests/1223"/>
@@ -217,7 +217,7 @@
     <link href="https://yeswehack.com/programs/ffmpeg-bug-bounty-program"/>
     <id>https://yeswehack.com/programs/ffmpeg-bug-bounty-program</id>
     <updated>2025-12-08T09:22:24+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://cdn-yeswehack.com/program/thumbnail/c071021e-fcc7-4fcf-abdc-8178d6ae7971' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; YesWeHack&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $100 - $5000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[source code] https://git.ffmpeg.org/gitweb/ffmpeg.git&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://cdn-yeswehack.com/program/thumbnail/c071021e-fcc7-4fcf-abdc-8178d6ae7971' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; YesWeHack&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $100 - $5000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[HackenProof] ZO Finance Web</title>
