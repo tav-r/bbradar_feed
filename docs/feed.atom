@@ -1,14 +1,7 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-01-05T12:15:13.508967+00:00</updated>
-  <entry>
-    <title>[Sherlock] Flying Tulip</title>
-    <link href="https://app.sherlock.xyz/audits/contests/1223"/>
-    <id>https://app.sherlock.xyz/audits/contests/1223</id>
-    <updated>2026-01-05T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://sherlock-files.ams3.digitaloceanspaces.com/contests/Flying Tulip.jpg' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Sherlock&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $100000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
+  <updated>2026-01-05T18:13:04.626281+00:00</updated>
   <entry>
     <title>[Compass Security] CH Media</title>
     <link href="https://bugbounty.compass-security.com/service-details.html?id=20"/>
@@ -260,13 +253,6 @@
     <id>https://yeswehack.com/programs/openproject</id>
     <updated>2025-12-01T10:49:23+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://cdn-yeswehack.com/program/thumbnail/18ae57ea-fa89-4655-8fe7-89d56d269207' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; YesWeHack&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $5000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[Sherlock] Aave V4</title>
-    <link href="https://app.sherlock.xyz/audits/contests/1209"/>
-    <id>https://app.sherlock.xyz/audits/contests/1209</id>
-    <updated>2025-12-01T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://sherlock-files.ams3.digitaloceanspaces.com/protocols/aave-dao_1764365658.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Sherlock&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $365000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[YesWeHack] Nextcloud Bug Bounty Program</title>
@@ -652,5 +638,19 @@
     <id>https://immunefi.com/bounty/thala-protocol</id>
     <updated>2025-09-30T04:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://images.ctfassets.net/t3wqy70tc3bv/7DeWYseMobv9RvO5GesJdx/382022e42f3fa2d4223c946d597cda50/irrbOSBA_400x400.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $1,000 - $250000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[smart contract] https://explorer.aptoslabs.com/account/0x07fd500c11216f0fe3095d0c4b8aa4d64a4e2e04f83758462f2b127255643615&lt;/li&gt;&lt;li&gt;[smart contract] https://explorer.aptoslabs.com/account/0x092e95ed77b5ac815d3fbc2227e76db238339e9ca43ace45031ec2589bea5b8c&lt;/li&gt;&lt;li&gt;[smart contract] https://explorer.aptoslabs.com/account/0x1bf23f0881f8fa149500ff6b7a047f608967c028a8ad7a2100caa84833ce851d&lt;/li&gt;&lt;li&gt;[smart contract] https://explorer.aptoslabs.com/account/0x48271d39d0b05bd6efca2278f22277d6fcc375504f9839fd73f74ace240861af&lt;/li&gt;&lt;li&gt;[smart contract] https://explorer.aptoslabs.com/account/0x4a3cfa9444f84a45ffa70200ec902a37101ee842e8f94b99da18f851d50dec88&lt;/li&gt;&lt;li&gt;[smart contract] https://explorer.aptoslabs.com/account/0x4dcae85fc5559071906cd5c76b7420fcbb4b0a92f00ab40ffc394aadbbff5ee9&lt;/li&gt;&lt;li&gt;[smart contract] https://explorer.aptoslabs.com/account/0x6970b4878c3aea96732be3f31c2dded12d94d9455ff0c76c67d84859dce35136&lt;/li&gt;&lt;li&gt;[smart contract] https://explorer.aptoslabs.com/account/0x6a48c1554aa54128ea7acdea6d627cda9914f4a7ffd4c7aee3432b6043291938&lt;/li&gt;&lt;li&gt;[smart contract] https://explorer.aptoslabs.com/account/0x6b3720cd988adeaf721ed9d4730da4324d52364871a68eac62b46d21e4d2fa99&lt;/li&gt;&lt;li&gt;[smart contract] https://explorer.aptoslabs.com/account/0x6f986d146e4a90b828d8c12c14b6f4e003fdff11a8eecceceb63744363eaac01&lt;/li&gt;&lt;li&gt;[smart contract] https://explorer.aptoslabs.com/account/0x7730cd28ee1cdc9e999336cbc430f99e7c44397c0aa77516f6f23a78559bb5&lt;/li&gt;&lt;li&gt;[smart contract] https://explorer.aptoslabs.com/account/0x93aa044a65a27bd89b163f8b3be3777b160b09a25c336643dcc2878dfd8f2a8d&lt;/li&gt;&lt;li&gt;[smart contract] https://explorer.aptoslabs.com/account/0x9c6d58fa009e08dfb2f5928ded14b3a790a94131da89891466b41ba1e61d83e1&lt;/li&gt;&lt;li&gt;[smart contract] https://explorer.aptoslabs.com/account/0xfb6e709add23c710c40e4844d889938f703719f72d2d4439ee682d67f07a15c5&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title>[HackenProof] Flow Wallet </title>
+    <link href="https://hackenproof.com/programs/flow-wallet"/>
+    <id>https://hackenproof.com/programs/flow-wallet</id>
+    <updated>2025-09-26T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/68d1284140041c7a7ad02ea8/logo.png?timestamp=1759262372' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $200 - $25000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;&lt;h3&gt;Scope Targets&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;[domain] https://chrome.google.com/webstore/detail/flow-core/hpclkefagolihohboafpheddmmgdffjm&lt;/li&gt;&lt;li&gt;[mobile] https://apps.apple.com/ca/app/flow-wallet-nfts-and-crypto/id6478996750&lt;/li&gt;&lt;li&gt;[mobile] https://play.google.com/store/apps/details?id=com.flowfoundation.wallet&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title>[Standoff365] Т-Банк Rule-Bounty</title>
+    <link href="https://bugbounty.standoff365.com/en-US/programs/tbank-rules"/>
+    <id>https://bugbounty.standoff365.com/en-US/programs/tbank-rules</id>
+    <updated>2025-09-23T08:42:59.659661+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://api.standoff365.com/images/200_200/9757bd30-d797-4d33-88d6-187a1985dbe9.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Standoff365&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $12000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
 </feed>
