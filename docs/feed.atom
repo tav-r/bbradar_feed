@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-01-07T00:35:22.950350+00:00</updated>
+  <updated>2026-01-07T06:13:13.803563+00:00</updated>
   <entry>
     <title>[HackerOne] MUFG VDP</title>
     <link href="https://hackerone.com/mufg-vdp"/>
