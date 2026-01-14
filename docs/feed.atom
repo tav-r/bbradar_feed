@@ -1,7 +1,14 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-01-13T18:13:20.241600+00:00</updated>
+  <updated>2026-01-14T00:37:30.823506+00:00</updated>
+  <entry>
+    <title>[Sherlock] Hotstuff </title>
+    <link href="https://app.sherlock.xyz/audits/contests/1233"/>
+    <id>https://app.sherlock.xyz/audits/contests/1233</id>
+    <updated>2026-01-14T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://sherlock-files.ams3.digitaloceanspaces.com/contests/Hotstuff.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Sherlock&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $15000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
   <entry>
     <title>[HackerOne] Unico IDtech</title>
     <link href="https://hackerone.com/unico_idtech"/>
@@ -45,32 +52,32 @@
     <content type="html">&lt;div&gt;&lt;img src='https://sherlock-files.ams3.digitaloceanspaces.com/contests/Flying Tulip.jpg' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Sherlock&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $100000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
-    <title>[Compass Security] CH Media</title>
-    <link href="https://bugbounty.compass-security.com/service-details.html?id=20"/>
-    <id>https://bugbounty.compass-security.com/service-details.html?id=20</id>
-    <updated>2025-12-31T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://bugbounty.hacking-lab.com/api/pub/v1/program/20/image' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Compass Security&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $124 - $6200&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
     <title>[BugCrowd] Sky DACH Vulnerability Disclosure Program</title>
     <link href="https://bugcrowd.com/engagements/sky-plc-mbb-og2"/>
     <id>https://bugcrowd.com/engagements/sky-plc-mbb-og2</id>
-    <updated>2025-12-30T00:00:00+00:00</updated>
+    <updated>2025-12-31T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://logos.bugcrowdusercontent.com/logos/b253/5718/657f80d9/165106f96a9871c5b193a2db838a4462_sky.jpeg' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; BugCrowd&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $1000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[BugCrowd] Sky Italy Vulnerability Disclosure Program</title>
     <link href="https://bugcrowd.com/engagements/sky-plc-mbb-og1"/>
     <id>https://bugcrowd.com/engagements/sky-plc-mbb-og1</id>
-    <updated>2025-12-30T00:00:00+00:00</updated>
+    <updated>2025-12-31T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://logos.bugcrowdusercontent.com/logos/b253/5718/657f80d9/165106f96a9871c5b193a2db838a4462_sky.jpeg' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; BugCrowd&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $1000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[BugCrowd] Sky UK/ROI Vulnerability Disclosure Program</title>
     <link href="https://bugcrowd.com/engagements/sky-plc-mbb-og"/>
     <id>https://bugcrowd.com/engagements/sky-plc-mbb-og</id>
-    <updated>2025-12-30T00:00:00+00:00</updated>
+    <updated>2025-12-31T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://logos.bugcrowdusercontent.com/logos/b253/5718/657f80d9/165106f96a9871c5b193a2db838a4462_sky.jpeg' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; BugCrowd&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $1000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
+  <entry>
+    <title>[Compass Security] CH Media</title>
+    <link href="https://bugbounty.compass-security.com/service-details.html?id=20"/>
+    <id>https://bugbounty.compass-security.com/service-details.html?id=20</id>
+    <updated>2025-12-31T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://bugbounty.hacking-lab.com/api/pub/v1/program/20/image' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Compass Security&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $124 - $6200&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[HackenProof] Whitechain Bridge</title>
@@ -213,6 +220,13 @@
     <content type="html">&lt;div&gt;&lt;img src='https://code4-api-v0-public-storage.s3.us-east-1.amazonaws.com/upload-2QNMNPd3u53' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Code4rena&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $40000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
+    <title>[BugCrowd] Zendesk Managed Bug Bounty Engagement</title>
+    <link href="https://bugcrowd.com/engagements/zendesk"/>
+    <id>https://bugcrowd.com/engagements/zendesk</id>
+    <updated>2025-12-10T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://logos.bugcrowdusercontent.com/logos/5a06/021b/2ce66f91/897f135ffdc669491639a855d38d599a_zendesk_logo.jpeg' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; BugCrowd&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $100 - $50000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
+  <entry>
     <title>[HackenProof] BitKan Web &amp; Mobile</title>
     <link href="https://hackenproof.com/programs/bitkan-web-and-mobile"/>
     <id>https://hackenproof.com/programs/bitkan-web-and-mobile</id>
@@ -225,20 +239,6 @@
     <id>https://app.intigriti.com/programs/voi/voivulnerabilitydisclosureprogram/detail</id>
     <updated>2025-12-09T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://app.intigriti.com/api/file/api/file/public_bucket_91ed23c2-4048-44ff-a44a-ee5688c8dd14-37ce1bf4-c921-427f-ba7c-f6909a11fb9c' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Intigriti&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[BugCrowd] Zendesk Managed Bug Bounty Engagement</title>
-    <link href="https://bugcrowd.com/engagements/zendesk"/>
-    <id>https://bugcrowd.com/engagements/zendesk</id>
-    <updated>2025-12-09T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://logos.bugcrowdusercontent.com/logos/5a06/021b/2ce66f91/897f135ffdc669491639a855d38d599a_zendesk_logo.jpeg' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; BugCrowd&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $100 - $50000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[BugCrowd] TheFork Managed Bug Bounty Engagement</title>
-    <link href="https://bugcrowd.com/engagements/thefork-mbb-og"/>
-    <id>https://bugcrowd.com/engagements/thefork-mbb-og</id>
-    <updated>2025-12-09T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://logos.bugcrowdusercontent.com/logos/bd73/78c9/794397c7/40b0bb00ca1caa91bae8db93a6fce4ac_TheFork_Symbol_Mint_RGB3.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; BugCrowd&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $3500&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[Intigriti] Anaconda Vulnerability Disclosure Program</title>
@@ -297,6 +297,13 @@
     <content type="html">&lt;div&gt;&lt;img src='https://cdn-yeswehack.com/program/thumbnail/c071021e-fcc7-4fcf-abdc-8178d6ae7971' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; YesWeHack&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $100 - $5000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
+    <title>[BugCrowd] TheFork Managed Bug Bounty Engagement</title>
+    <link href="https://bugcrowd.com/engagements/thefork-mbb-og"/>
+    <id>https://bugcrowd.com/engagements/thefork-mbb-og</id>
+    <updated>2025-12-03T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://logos.bugcrowdusercontent.com/logos/bd73/78c9/794397c7/40b0bb00ca1caa91bae8db93a6fce4ac_TheFork_Symbol_Mint_RGB3.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; BugCrowd&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $3500&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
+  <entry>
     <title>[HackerOne] Hotmart (VDP)</title>
     <link href="https://hackerone.com/hotmartvdp"/>
     <id>https://hackerone.com/hotmartvdp</id>
@@ -309,13 +316,6 @@
     <id>https://hackerone.com/henkel_vdp</id>
     <updated>2025-12-02T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/j0uglefyo9bdtm0x6307nktg6dxw/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[BugCrowd] Centers for Medicare &amp; Medicaid Services - Public Bug Bounty Program 2025</title>
-    <link href="https://bugcrowd.com/engagements/cms-bbpublic"/>
-    <id>https://bugcrowd.com/engagements/cms-bbpublic</id>
-    <updated>2025-12-02T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://logos.bugcrowdusercontent.com/logos/675f/2da4/a0421e08/e75e6665002e007e4f12004eae1d0914_centers_for_medicare__medicaid_services_logo__2_.jpeg' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; BugCrowd&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[HackerOne] BankUnited</title>
@@ -337,6 +337,13 @@
     <id>https://yeswehack.com/programs/nextcloud</id>
     <updated>2025-11-26T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://cdn-yeswehack.com/program/thumbnail/830626e6-26b2-40a3-af95-b87e576762f2' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; YesWeHack&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $10000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
+  <entry>
+    <title>[BugCrowd] Centers for Medicare &amp; Medicaid Services - Public Bug Bounty Program 2025</title>
+    <link href="https://bugcrowd.com/engagements/cms-bbpublic"/>
+    <id>https://bugcrowd.com/engagements/cms-bbpublic</id>
+    <updated>2025-11-26T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://logos.bugcrowdusercontent.com/logos/675f/2da4/a0421e08/e75e6665002e007e4f12004eae1d0914_centers_for_medicare__medicaid_services_logo__2_.jpeg' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; BugCrowd&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[HackenProof] Kaia Web </title>
