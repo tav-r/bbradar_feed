@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-01-18T12:13:37.622633+00:00</updated>
+  <updated>2026-01-18T18:10:45.379241+00:00</updated>
   <entry>
     <title>[HackenProof] Solv Smart Contracts</title>
     <link href="https://hackenproof.com/programs/solv-smart-contracts"/>
@@ -22,13 +22,6 @@
     <id>https://hackenproof.com/programs/mawari-sc-dualdefense-audit</id>
     <updated>2026-01-14T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/6960cd9540041c000d743166/logo.png?timestamp=1768392729' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $9000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[Sherlock] Hotstuff </title>
-    <link href="https://app.sherlock.xyz/audits/contests/1233"/>
-    <id>https://app.sherlock.xyz/audits/contests/1233</id>
-    <updated>2026-01-14T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://sherlock-files.ams3.digitaloceanspaces.com/contests/Hotstuff.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Sherlock&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $18500&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[HackerOne] Unico IDtech</title>
@@ -624,5 +617,12 @@
     <id>https://cantina.xyz/bounties/21db17ac-67d1-489b-87d2-88470e25ddd5</id>
     <updated>2025-10-16T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/b09eb30f-3653-45bd-7428-2d11024b3000/public' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Cantina&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $5,000 - $100000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
+  <entry>
+    <title>[HackerOne] Vueling</title>
+    <link href="https://hackerone.com/vueling_vdp"/>
+    <id>https://hackerone.com/vueling_vdp</id>
+    <updated>2025-10-15T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/ju2q6m71bsi1pqqn8k1bhyrnx7vi/74790fe75ac5dbe8a5140a122388d59ebac913dcfa941f0b3a45e6cad161f9ea' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
 </feed>
