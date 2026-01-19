@@ -1,7 +1,14 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-01-19T12:16:06.907816+00:00</updated>
+  <updated>2026-01-19T18:12:32.439547+00:00</updated>
+  <entry>
+    <title>[Standoff365] Копилка</title>
+    <link href="https://bugbounty.standoff365.com/en-US/programs/mybox"/>
+    <id>https://bugbounty.standoff365.com/en-US/programs/mybox</id>
+    <updated>2026-01-19T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://api.standoff365.com/images/200_200/cce4855c-5468-450e-85fe-ef93b11b3923.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Standoff365&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $18,000 - $18000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
   <entry>
     <title>[HackenProof] Monday Trade Web </title>
     <link href="https://hackenproof.com/programs/monday-trade-web"/>
@@ -36,6 +43,20 @@
     <id>https://gobugfree.com/programs/univote-vdp</id>
     <updated>2026-01-18T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='/static/placeholder.jpg' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; GObugfree&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
+  <entry>
+    <title>[Immunefi] Notional Exponent</title>
+    <link href="https://immunefi.com/bug-bounty/notional-exponent/information/"/>
+    <id>https://immunefi.com/bug-bounty/notional-exponent/information/</id>
+    <updated>2026-01-16T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://images.ctfassets.net/t3wqy70tc3bv/2cpwpSh7XNbPe5n3GffDmt/e9d7b88d67f58ba463bd9f30c32c4f26/zk8nf4kv_400x400.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $10,000 - $250000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
+  <entry>
+    <title>[Immunefi] Zest Protocol V2</title>
+    <link href="https://immunefi.com/bug-bounty/zest-protocol-v2/information/"/>
+    <id>https://immunefi.com/bug-bounty/zest-protocol-v2/information/</id>
+    <updated>2026-01-15T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/55173-A_F5B1RkUtAzUMkPhW2Tl-3MM75wsf7i85VmIazkqH94mu0J1kxO.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $1,000 - $100000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[HackenProof] Solv Smart Contracts</title>
@@ -617,26 +638,5 @@
     <id>https://hackerone.com/doordash</id>
     <updated>2025-10-23T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/zfyia4qobnexseqnnihm2wk9yfxz/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $5000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[Immunefi] Jito - BAM Client</title>
-    <link href="https://immunefi.com/bug-bounty/jito-bam-client/information/"/>
-    <id>https://immunefi.com/bug-bounty/jito-bam-client/information/</id>
-    <updated>2025-10-22T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/81827-EFKkAPtlzFSCPCHnExIME-ihtNok5k80uzmjBTSBiC4lDFtE3Zif.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $1,000 - $100000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[HackerOne] Kong</title>
-    <link href="https://hackerone.com/kong"/>
-    <id>https://hackerone.com/kong</id>
-    <updated>2025-10-21T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/9mxy7hywgw77c9r3posybwqm2si4/74790fe75ac5dbe8a5140a122388d59ebac913dcfa941f0b3a45e6cad161f9ea' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $1000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[HackerOne] Robinhood Markets</title>
-    <link href="https://hackerone.com/robinhood_markets"/>
-    <id>https://hackerone.com/robinhood_markets</id>
-    <updated>2025-10-20T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/j8dql8tbvlibxbh2d16k2annh4gt/d9695107bfcd68eeb1c9e0912b109cdae9a6c00c0bda6fd4cbd6d9bdb828840a' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
 </feed>
