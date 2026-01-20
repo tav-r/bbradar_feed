@@ -1,7 +1,28 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-01-20T06:14:26.127100+00:00</updated>
+  <updated>2026-01-20T12:15:56.220579+00:00</updated>
+  <entry>
+    <title>[HackenProof] Mawari SC DualDefense Audit: Part Two</title>
+    <link href="https://hackenproof.com/programs/mawari-sc-dualdefense-audit-part-two"/>
+    <id>https://hackenproof.com/programs/mawari-sc-dualdefense-audit-part-two</id>
+    <updated>2026-01-20T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/696a07e840041c000d745bec/logo.png?timestamp=1768906613' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $5500&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
+  <entry>
+    <title>[HackenProof] Mawari SC DualDefense Audit: Part Three</title>
+    <link href="https://hackenproof.com/programs/mawari-sc-dualdefense-audit-part-three"/>
+    <id>https://hackenproof.com/programs/mawari-sc-dualdefense-audit-part-three</id>
+    <updated>2026-01-20T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/696a080440041c000d745bf8/logo.png?timestamp=1768906908' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $6150&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
+  <entry>
+    <title>[Intigriti] Challenge 0126</title>
+    <link href="https://app.intigriti.com/programs/intigriti/challenge0126/detail"/>
+    <id>https://app.intigriti.com/programs/intigriti/challenge0126/detail</id>
+    <updated>2026-01-20T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://app.intigriti.com/api/file/api/file/public_bucket_4a9183d2-6b19-42a2-bdba-ca189c2c8cf3-7524e932-f18b-463c-92d2-28c8e9c12ed9' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Intigriti&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
   <entry>
     <title>[Standoff365] Копилка</title>
     <link href="https://bugbounty.standoff365.com/en-US/programs/mybox"/>
@@ -617,26 +638,5 @@
     <id>https://hackerone.com/adevinta_vdp</id>
     <updated>2025-10-29T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/pfolshe3732wmt99ckvvy4sipqvj/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[Cantina] Makina Contracts</title>
-    <link href="https://cantina.xyz/bounties/4e88f4df-c483-47d3-8d78-b9d7cc67be73"/>
-    <id>https://cantina.xyz/bounties/4e88f4df-c483-47d3-8d78-b9d7cc67be73</id>
-    <updated>2025-10-29T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/2cf73b3d-0101-4ac0-ff22-8c851e873200/public' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Cantina&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50,000 - $500000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[HackenProof] Bitkub Capital Group Holdings</title>
-    <link href="https://hackenproof.com/programs/bitkub-capital-group-holdings"/>
-    <id>https://hackenproof.com/programs/bitkub-capital-group-holdings</id>
-    <updated>2025-10-28T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/68ff630f40041c000f3c55b1/logo.png?timestamp=1761648847' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $1000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[HackerOne] DoorDash</title>
-    <link href="https://hackerone.com/doordash"/>
-    <id>https://hackerone.com/doordash</id>
-    <updated>2025-10-23T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/zfyia4qobnexseqnnihm2wk9yfxz/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $5000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
 </feed>
