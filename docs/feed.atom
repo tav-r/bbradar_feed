@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-01-21T12:16:00.684342+00:00</updated>
+  <updated>2026-01-21T18:20:29.025185+00:00</updated>
   <entry>
     <title>[HackerOne] Tines (VDP)</title>
     <link href="https://hackerone.com/tines_automation_vdp"/>
@@ -127,13 +127,6 @@
     <id>https://hackenproof.com/programs/solv-smart-contracts</id>
     <updated>2026-01-15T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/696610d840041c9397742012/logo.png?timestamp=1768594330' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $200 - $50000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[HackenProof] Meest Poshta Mobile</title>
-    <link href="https://hackenproof.com/programs/meest-poshta-mobile"/>
-    <id>https://hackenproof.com/programs/meest-poshta-mobile</id>
-    <updated>2026-01-15T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/68370d5340041c000b79e258/logo.png?timestamp=1768468580' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $1000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[HackenProof] Mawari SC DualDefense Audit</title>
@@ -504,7 +497,7 @@
     <link href="https://yeswehack.com/programs/bind-bug-bounty-program"/>
     <id>https://yeswehack.com/programs/bind-bug-bounty-program</id>
     <updated>2025-11-24T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://cdn-yeswehack.com/program/thumbnail/e42484de-466f-4b39-91a9-6ab7e0c54404' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; YesWeHack&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $100 - $5000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://cdn-yeswehack.com/program/thumbnail/e42484de-466f-4b39-91a9-6ab7e0c54404' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; YesWeHack&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $100 - $10000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[YesWeHack] BigBlueButton Bug Bounty Program</title>
