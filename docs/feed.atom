@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-01-21T00:37:04.082809+00:00</updated>
+  <updated>2026-01-21T06:14:26.492170+00:00</updated>
   <entry>
     <title>[HackerOne] Tines (VDP)</title>
     <link href="https://hackerone.com/tines_automation_vdp"/>
