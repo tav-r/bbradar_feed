@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-01-22T00:37:39.739454+00:00</updated>
+  <updated>2026-01-22T06:13:26.019098+00:00</updated>
   <entry>
     <title>[HackerOne] Twilio</title>
     <link href="https://hackerone.com/twilio"/>
