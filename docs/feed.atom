@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-01-24T00:35:18.922299+00:00</updated>
+  <updated>2026-01-24T06:12:05.568131+00:00</updated>
   <entry>
     <title>[Code4rena] Olas</title>
     <link href="https://code4rena.com/audits/2026-01-olas"/>
