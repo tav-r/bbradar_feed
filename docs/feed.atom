@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-01-26T12:16:11.578222+00:00</updated>
+  <updated>2026-01-26T18:13:54.207341+00:00</updated>
   <entry>
     <title>[Code4rena] Olas</title>
     <link href="https://code4rena.com/audits/2026-01-olas"/>
@@ -311,6 +311,13 @@
     <content type="html">&lt;div&gt;&lt;img src='https://cdn-yeswehack.com/program/thumbnail/f2945295-5edf-4e19-9c37-c934a1913a7f' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; YesWeHack&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
+    <title>[Intigriti] Storebrand Responsible Disclosure</title>
+    <link href="https://app.intigriti.com/programs/spp-storebrand/storebrand-rd/detail"/>
+    <id>https://app.intigriti.com/programs/spp-storebrand/storebrand-rd/detail</id>
+    <updated>2025-12-16T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://app.intigriti.com/api/file/api/file/public_bucket_6d925bd6-f4b4-45fd-8ab0-f48c5b514009-d7162c6f-67f2-4352-aa8f-68266ec8b7cd' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Intigriti&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
+  <entry>
     <title>[HackenProof] BitKan Web &amp; Mobile</title>
     <link href="https://hackenproof.com/programs/bitkan-web-and-mobile"/>
     <id>https://hackenproof.com/programs/bitkan-web-and-mobile</id>
@@ -486,14 +493,14 @@
     <content type="html">&lt;div&gt;&lt;img src='https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/6cd87a82-9b94-46ae-bff5-65f4969d7e00/public' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Cantina&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $5,000 - $100000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
-    <title>[Standoff365] ООО «ЛОГОСОФТ» (VEZUBR)</title>
+    <title>[Standoff365] LOGOSOFT LLC (VEZUBR)</title>
     <link href="https://bugbounty.standoff365.com/en-US/programs/vezubr"/>
     <id>https://bugbounty.standoff365.com/en-US/programs/vezubr</id>
     <updated>2025-11-19T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://api.standoff365.com/images/200_200/2003bce9-c594-4a7f-92e9-47c8c90ae7a3.jpeg' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Standoff365&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $3,000 - $3000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
-    <title>[Standoff365] Лаборатория гемодиализа</title>
+    <title>[Standoff365] Hemodialysis Laboratory</title>
     <link href="https://bugbounty.standoff365.com/en-US/programs/hemodialysis_lab"/>
     <id>https://bugbounty.standoff365.com/en-US/programs/hemodialysis_lab</id>
     <updated>2025-11-19T00:00:00+00:00</updated>
@@ -624,12 +631,5 @@
     <id>https://cantina.xyz/bounties/4e88f4df-c483-47d3-8d78-b9d7cc67be73</id>
     <updated>2025-10-29T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/2cf73b3d-0101-4ac0-ff22-8c851e873200/public' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Cantina&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50,000 - $500000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[HackenProof] Bitkub Capital Group Holdings</title>
-    <link href="https://hackenproof.com/programs/bitkub-capital-group-holdings"/>
-    <id>https://hackenproof.com/programs/bitkub-capital-group-holdings</id>
-    <updated>2025-10-28T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/68ff630f40041c000f3c55b1/logo.png?timestamp=1761648847' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $1000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
 </feed>
