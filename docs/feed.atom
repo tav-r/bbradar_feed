@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-01-30T12:18:43.926475+00:00</updated>
+  <updated>2026-01-30T18:17:35.419005+00:00</updated>
   <entry>
     <title>[Cantina] OKX Labs</title>
     <link href="https://cantina.xyz/bounties/00992789-fcd1-4bda-862e-463b0c73faa9"/>
@@ -323,13 +323,6 @@
     <id>https://app.intigriti.com/programs/spp-storebrand/storebrand-rd/detail</id>
     <updated>2025-12-16T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://app.intigriti.com/api/file/api/file/public_bucket_6d925bd6-f4b4-45fd-8ab0-f48c5b514009-d7162c6f-67f2-4352-aa8f-68266ec8b7cd' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Intigriti&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[HackenProof] BitKan Web &amp; Mobile</title>
-    <link href="https://hackenproof.com/programs/bitkan-web-and-mobile"/>
-    <id>https://hackenproof.com/programs/bitkan-web-and-mobile</id>
-    <updated>2025-12-10T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/691ddd8a40041c000f72cdfa/logo.png?timestamp=1765354525' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $100 - $1000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[Intigriti] Voi Vulnerability Disclosure Program</title>
