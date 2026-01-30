@@ -1,7 +1,14 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-01-30T06:22:52.366995+00:00</updated>
+  <updated>2026-01-30T12:18:43.926475+00:00</updated>
+  <entry>
+    <title>[Cantina] OKX Labs</title>
+    <link href="https://cantina.xyz/bounties/00992789-fcd1-4bda-862e-463b0c73faa9"/>
+    <id>https://cantina.xyz/bounties/00992789-fcd1-4bda-862e-463b0c73faa9</id>
+    <updated>2026-01-30T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/19c1e9af-24f6-492d-ce33-22d3b8708800/public' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Cantina&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $10,000 - $1000000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
   <entry>
     <title>[HackenProof] Citrea Web &amp; Apps</title>
     <link href="https://hackenproof.com/programs/citrea-web-and-apps"/>
@@ -617,12 +624,5 @@
     <id>https://cantina.xyz/bounties/06fa2fa7-0ec0-475a-987c-a8b05cb8e9b2</id>
     <updated>2025-10-30T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/faceb1cf-6d27-4718-4623-387405d69000/public' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Cantina&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $1,000 - $100000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[HackerOne] Stripchat</title>
-    <link href="https://hackerone.com/stripchat"/>
-    <id>https://hackerone.com/stripchat</id>
-    <updated>2025-10-29T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/ugp9j5gzuhpvkj9a6p891uc8d1ij/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $200 - $3000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
 </feed>
