@@ -1,7 +1,14 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-02-02T12:19:57.912715+00:00</updated>
+  <updated>2026-02-02T18:19:02.934918+00:00</updated>
+  <entry>
+    <title>[Cantina] Symbiotic Bug Bounty</title>
+    <link href="https://cantina.xyz/bounties/acca29a4-d405-4405-a3b3-8c3feb10d1e3"/>
+    <id>https://cantina.xyz/bounties/acca29a4-d405-4405-a3b3-8c3feb10d1e3</id>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/7f888151-1692-4106-e83e-146a0f8dec00/public' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Cantina&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $5,000 - $500000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
   <entry>
     <title>[Cantina] OKX Labs</title>
     <link href="https://cantina.xyz/bounties/00992789-fcd1-4bda-862e-463b0c73faa9"/>
@@ -603,19 +610,5 @@
     <id>https://yeswehack.com/programs/keycloak-bug-bounty-program</id>
     <updated>2025-11-03T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://cdn-yeswehack.com/program/thumbnail/2b1e8fd5-7797-4a3d-a75a-404995078583' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; YesWeHack&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $100 - $5000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[Cantina] RedStone Bug Bounty</title>
-    <link href="https://cantina.xyz/bounties/36c588d4-0681-45a8-9694-13a871cc4ae6"/>
-    <id>https://cantina.xyz/bounties/36c588d4-0681-45a8-9694-13a871cc4ae6</id>
-    <updated>2025-11-01T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/26571f42-8e17-4e04-eefd-297039947500/public' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Cantina&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $250000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[Cantina] Kiln Web / Infra</title>
-    <link href="https://cantina.xyz/bounties/06fa2fa7-0ec0-475a-987c-a8b05cb8e9b2"/>
-    <id>https://cantina.xyz/bounties/06fa2fa7-0ec0-475a-987c-a8b05cb8e9b2</id>
-    <updated>2025-10-30T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/faceb1cf-6d27-4718-4623-387405d69000/public' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Cantina&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $1,000 - $100000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
 </feed>
