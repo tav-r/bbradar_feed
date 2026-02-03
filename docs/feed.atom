@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-02-03T06:25:22.110550+00:00</updated>
+  <updated>2026-02-03T12:20:03.478660+00:00</updated>
   <entry>
     <title>[Cantina] Symbiotic Bug Bounty</title>
     <link href="https://cantina.xyz/bounties/acca29a4-d405-4405-a3b3-8c3feb10d1e3"/>
@@ -10,11 +10,53 @@
     <content type="html">&lt;div&gt;&lt;img src='https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/7f888151-1692-4106-e83e-146a0f8dec00/public' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Cantina&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $5,000 - $500000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
+    <title>[Intigriti] Watsons</title>
+    <link href="https://app.intigriti.com/programs/aswatson/watsons/detail"/>
+    <id>https://app.intigriti.com/programs/aswatson/watsons/detail</id>
+    <updated>2026-01-30T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://app.intigriti.com/api/file/api/file/public_bucket_ee410897-c501-4309-927d-03b80ea2ea03-b57324be-243c-4c06-87c7-5843fb9100d8' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Intigriti&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $10 - $8500&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
+  <entry>
+    <title>[Intigriti] The Perfume Shop</title>
+    <link href="https://app.intigriti.com/programs/aswatson/theperfumeshop/detail"/>
+    <id>https://app.intigriti.com/programs/aswatson/theperfumeshop/detail</id>
+    <updated>2026-01-30T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://app.intigriti.com/api/file/api/file/public_bucket_0da943da-69a0-445a-844d-b13266618ebb-ca8a3ed5-d20a-4bd5-9391-1fa63118af79' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Intigriti&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $10 - $8500&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
+  <entry>
+    <title>[Intigriti] Superdrug</title>
+    <link href="https://app.intigriti.com/programs/aswatson/superdrug/detail"/>
+    <id>https://app.intigriti.com/programs/aswatson/superdrug/detail</id>
+    <updated>2026-01-30T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://app.intigriti.com/api/file/api/file/public_bucket_97f05a66-50b9-4c82-a9be-edad5bc66d0d-5d0b6579-4f11-4fae-b867-04164b501eb5' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Intigriti&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $10 - $8500&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
+  <entry>
+    <title>[Intigriti] Marionnaud</title>
+    <link href="https://app.intigriti.com/programs/aswatson/marionnaud/detail"/>
+    <id>https://app.intigriti.com/programs/aswatson/marionnaud/detail</id>
+    <updated>2026-01-30T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://app.intigriti.com/api/file/api/file/public_bucket_783715b7-9611-43fb-a246-666170eac0da-2a42dab9-21b4-4cb5-be4b-0d7c1f73b92a' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Intigriti&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $10 - $8500&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
+  <entry>
+    <title>[Intigriti] ICI PARIS XL</title>
+    <link href="https://app.intigriti.com/programs/aswatson/iciparisxl/detail"/>
+    <id>https://app.intigriti.com/programs/aswatson/iciparisxl/detail</id>
+    <updated>2026-01-30T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://app.intigriti.com/api/file/api/file/public_bucket_99e37427-30b1-4843-95cb-49d50c980340-1f6355c9-a92f-4dd1-ae1d-9f75c4e64f1b' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Intigriti&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $10 - $8500&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
+  <entry>
     <title>[Cantina] OKX Labs</title>
     <link href="https://cantina.xyz/bounties/00992789-fcd1-4bda-862e-463b0c73faa9"/>
     <id>https://cantina.xyz/bounties/00992789-fcd1-4bda-862e-463b0c73faa9</id>
     <updated>2026-01-30T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/19c1e9af-24f6-492d-ce33-22d3b8708800/public' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Cantina&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $10,000 - $1000000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
+  <entry>
+    <title>[Intigriti] Kruidvat</title>
+    <link href="https://app.intigriti.com/programs/aswatson/kruidvat/detail"/>
+    <id>https://app.intigriti.com/programs/aswatson/kruidvat/detail</id>
+    <updated>2026-01-29T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://app.intigriti.com/api/file/api/file/public_bucket_21195292-37fd-4f12-ad32-fcc2a485a496-269a2e69-c03a-4442-bb1a-2ad878fcf097' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Intigriti&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $10 - $8500&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[HackenProof] Citrea Web &amp; Apps</title>
@@ -553,7 +595,7 @@
     <link href="https://hackenproof.com/programs/1inch-aqua"/>
     <id>https://hackenproof.com/programs/1inch-aqua</id>
     <updated>2025-11-17T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/6917098b40041c000dbd5cf6/logo.png?timestamp=1769176126' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $100 - $100000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/6917098b40041c000dbd5cf6/logo.png?timestamp=1770109233' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $100 - $100000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[HackenProof] Phemex Web &amp; Mobile</title>
@@ -568,47 +610,5 @@
     <id>https://hackerone.com/vectra_ai_vdp</id>
     <updated>2025-11-12T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/5dsyhspgixpj03ckelnv8xw503mw/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[HackerOne] Notion Labs, Inc.</title>
-    <link href="https://hackerone.com/notion"/>
-    <id>https://hackerone.com/notion</id>
-    <updated>2025-11-12T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/wrv3l67qn7qbcft89152lvujcw85/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $2000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[HackerOne] Mueller Water Products (VDP)</title>
-    <link href="https://hackerone.com/mueller_water_products_vdp"/>
-    <id>https://hackerone.com/mueller_water_products_vdp</id>
-    <updated>2025-11-05T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/38jq3qpm8mfo3vll2xode0ls2y9m/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[Cantina] Concrete</title>
-    <link href="https://cantina.xyz/bounties/e54ee88c-df96-4f80-a6c1-0723548312ab"/>
-    <id>https://cantina.xyz/bounties/e54ee88c-df96-4f80-a6c1-0723548312ab</id>
-    <updated>2025-11-05T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/250f761e-bd6f-4e87-6106-97f651be8100/public' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Cantina&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $5,000 - $250000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[Cantina] Circuit</title>
-    <link href="https://cantina.xyz/bounties/8f671963-4313-4ac3-aed9-3186a240b75a"/>
-    <id>https://cantina.xyz/bounties/8f671963-4313-4ac3-aed9-3186a240b75a</id>
-    <updated>2025-11-05T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/0575fe4b-c091-4645-dc44-08b40f9b7b00/public' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Cantina&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $5,000 - $5000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[HackerOne] Drumgrange VDP</title>
-    <link href="https://hackerone.com/drumgrange-vdp"/>
-    <id>https://hackerone.com/drumgrange-vdp</id>
-    <updated>2025-11-04T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/qw5c6t62964ljq2fhg5f0vnolioy/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[YesWeHack] Keycloak</title>
-    <link href="https://yeswehack.com/programs/keycloak-bug-bounty-program"/>
-    <id>https://yeswehack.com/programs/keycloak-bug-bounty-program</id>
-    <updated>2025-11-03T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://cdn-yeswehack.com/program/thumbnail/2b1e8fd5-7797-4a3d-a75a-404995078583' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; YesWeHack&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $100 - $5000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
 </feed>
