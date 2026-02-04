@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-02-04T12:20:09.956825+00:00</updated>
+  <updated>2026-02-04T18:26:05.104143+00:00</updated>
   <entry>
     <title>[HackerOne] Vercel Open Source</title>
     <link href="https://hackerone.com/vercel-open-source"/>
@@ -77,14 +77,14 @@
     <link href="https://hackenproof.com/programs/citrea-web-and-apps"/>
     <id>https://hackenproof.com/programs/citrea-web-and-apps</id>
     <updated>2026-01-28T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/6977a18440041c000c9faab7/logo.png?timestamp=1769612700' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $25000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/6977a18440041c000c9faab7/logo.png?timestamp=1770208123' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $25000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[HackenProof] Citrea Protocol &amp; Smart Contracts</title>
     <link href="https://hackenproof.com/programs/citrea-protocol-and-smart-contracts"/>
     <id>https://hackenproof.com/programs/citrea-protocol-and-smart-contracts</id>
     <updated>2026-01-28T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/6900cb4a40041c000d3c5bad/logo.png?timestamp=1769617938' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $1,000 - $250000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/6900cb4a40041c000d3c5bad/logo.png?timestamp=1770208105' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $1,000 - $250000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[Code4rena] Olas</title>
