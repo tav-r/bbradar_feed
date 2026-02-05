@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-02-05T00:44:09.851327+00:00</updated>
+  <updated>2026-02-05T06:28:34.087315+00:00</updated>
   <entry>
     <title>[HackerOne] Bose (VDP)</title>
     <link href="https://hackerone.com/bose_vdp"/>
