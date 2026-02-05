@@ -1,7 +1,14 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-02-05T06:28:34.087315+00:00</updated>
+  <updated>2026-02-05T12:21:13.079165+00:00</updated>
+  <entry>
+    <title>[HackenProof] AlphaSec Web &amp; Smart Contracts </title>
+    <link href="https://hackenproof.com/programs/alphasec-web-and-smart-contracts"/>
+    <id>https://hackenproof.com/programs/alphasec-web-and-smart-contracts</id>
+    <updated>2026-02-05T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/6941879040041c000e6bfebf/logo.png?timestamp=1770277681' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $200 - $50000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
   <entry>
     <title>[HackerOne] Bose (VDP)</title>
     <link href="https://hackerone.com/bose_vdp"/>
@@ -603,12 +610,5 @@
     <id>https://hackenproof.com/programs/1inch-aqua</id>
     <updated>2025-11-17T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/6917098b40041c000dbd5cf6/logo.png?timestamp=1770109233' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $100 - $100000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[HackenProof] Phemex Web &amp; Mobile</title>
-    <link href="https://hackenproof.com/programs/phemex-web-and-mobile"/>
-    <id>https://hackenproof.com/programs/phemex-web-and-mobile</id>
-    <updated>2025-11-13T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/68c919c040041c2c8ed01dc2/logo.png?timestamp=1763518940' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $500000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
 </feed>
