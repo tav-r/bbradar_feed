@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-02-06T12:20:18.050940+00:00</updated>
+  <updated>2026-02-06T18:22:51.966451+00:00</updated>
   <entry>
     <title>[HackenProof] AlphaSec Web &amp; Smart Contracts </title>
     <link href="https://hackenproof.com/programs/alphasec-web-and-smart-contracts"/>
@@ -528,13 +528,6 @@
     <content type="html">&lt;div&gt;&lt;img src='https://cdn-yeswehack.com/program/thumbnail/238c2751-8c85-4ff6-9c99-cca35384b299' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; YesWeHack&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $100 - $5000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
-    <title>[YesWeHack] ImageMagick Bug Bounty Program</title>
-    <link href="https://yeswehack.com/programs/imagemagick-bug-bounty-program"/>
-    <id>https://yeswehack.com/programs/imagemagick-bug-bounty-program</id>
-    <updated>2025-11-24T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://cdn-yeswehack.com/program/thumbnail/6b39b604-b06b-4e6f-94c6-e2630bb5af71' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; YesWeHack&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $2000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
     <title>[Cantina] Kuru Bug Bounty</title>
     <link href="https://cantina.xyz/bounties/f93c6818-141e-43a0-941f-5f56d606ad6f"/>
     <id>https://cantina.xyz/bounties/f93c6818-141e-43a0-941f-5f56d606ad6f</id>
@@ -610,5 +603,12 @@
     <id>https://hackenproof.com/programs/1inch-aqua</id>
     <updated>2025-11-17T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/6917098b40041c000dbd5cf6/logo.png?timestamp=1770109233' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $100 - $100000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
+  <entry>
+    <title>[HackenProof] Phemex Web &amp; Mobile</title>
+    <link href="https://hackenproof.com/programs/phemex-web-and-mobile"/>
+    <id>https://hackenproof.com/programs/phemex-web-and-mobile</id>
+    <updated>2025-11-13T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/68c919c040041c2c8ed01dc2/logo.png?timestamp=1763518940' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $500000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
 </feed>
