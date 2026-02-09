@@ -1,7 +1,14 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-02-09T12:25:59.176737+00:00</updated>
+  <updated>2026-02-09T18:26:22.200150+00:00</updated>
+  <entry>
+    <title>[HackenProof] Tokenize.it SC DualDefense Audit</title>
+    <link href="https://hackenproof.com/programs/tokenize-dot-it-sc-dualdefense-audit"/>
+    <id>https://hackenproof.com/programs/tokenize-dot-it-sc-dualdefense-audit</id>
+    <updated>2026-02-09T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/696fa1f040041c000f4fdf0c/logo.png?timestamp=1770653787' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $4000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
   <entry>
     <title>[YesWeHack] Easyship Public Bug Bounty Program</title>
     <link href="https://yeswehack.com/programs/easyship-public-bug-bounty-program"/>
@@ -610,12 +617,5 @@
     <id>https://hackenproof.com/programs/1inch-aqua</id>
     <updated>2025-11-17T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/6917098b40041c000dbd5cf6/logo.png?timestamp=1770109233' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $100 - $100000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[HackenProof] Phemex Web &amp; Mobile</title>
-    <link href="https://hackenproof.com/programs/phemex-web-and-mobile"/>
-    <id>https://hackenproof.com/programs/phemex-web-and-mobile</id>
-    <updated>2025-11-13T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/68c919c040041c2c8ed01dc2/logo.png?timestamp=1763518940' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $500000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
 </feed>
