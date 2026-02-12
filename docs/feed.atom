@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-02-12T12:23:44.505770+00:00</updated>
+  <updated>2026-02-12T18:27:02.374280+00:00</updated>
   <entry>
     <title>[YesWeHack] Superbank - Public Bug Bounty Program</title>
     <link href="https://yeswehack.com/programs/superbank-public-bug-bounty-program"/>
@@ -21,7 +21,7 @@
     <link href="https://hackerone.com/vodafone"/>
     <id>https://hackerone.com/vodafone</id>
     <updated>2026-02-10T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/variants/lj3omk5q0p3lnvwkv06m8gob96dy/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c?response-content-disposition=inline%3B%20filename%3D%22Vodacom%20Icon%20RGB%20Red.png%22%3B%20filename%2A%3DUTF-8%27%27Vodacom%2520Icon%2520RGB%2520Red.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=ASIAQGK6FURQ5PNOE7V4%2F20260212%2Fus-west-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20260212T121247Z&amp;X-Amz-Expires=3600&amp;X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAsaCXVzLXdlc3QtMiJIMEYCIQCPdYCwRqDqE5ldFtm%2FWwM9aodpYwZRZ%2Fmk4i1G881N1QIhANF6AOUAbgARM0kTvmyBLjAJqDGfnKxQlS%2B9T4IuoeORKrsFCNT%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQAxoMMDEzNjE5Mjc0ODQ5Igwj5mzJ5NJV9qjgVsoqjwUpH0R%2BVnAZ4Q5fDOjHlzDc8g0LbSh0XefSRARO%2F0d2CLwRFSgwJpaiBPt5ecsTGaJ9sPStvAncvCDChRN1SbnkIwYo569ECQoz%2FrLcoDD1fLPEzNs7vgTALattrhOLwQYsb3THNrzePUqXIwcrQ0nymy0pDrCAbVYjuRPZY8yrcWGRUbhSqFlwlQ2wntook7JwcYX6A870J4%2FyffyxUBHwGn3eGrA%2FvwIi9wgprePJ4Seqrb8F87KSgC%2FWNKGiLD6kko5GbSsd6JbUMxpGbWXTJHD8K5csqOPPm%2B7PjX3RUxreboIomyX1LkLiBQK8LoSRrrFTR0FjJ816tDlyhj3Uc03%2F30hpwTD2o%2FUetH%2FC%2BM514VBaaVFeeAWn4yZkQdM%2BkL9b9mpZkRkqjBP0kTpcptx2TkwMNj7CV2I%2F07A5z5C0%2FbMczjUaSO8Z8b%2FUJhEV5U14gYpVHBfRCr97YYd1uz8gN1ipdD6FAc7SJMVv7sXoZEyZBAW93MZVjjbZdwghyJ84x46jWWxRA1pwZH4MKRULAPXio8zhznEPu54Ouf%2BvmnO96005eQy79R5XQn780%2FthzvJtYMzN1pluSksIOxfeDIAsimrxuIS43CmE6clO%2BZL4S4wrNFaioMYRYPtncrNyrUKIRhRmIQ%2B1YsaaAsAbnPsc5k3teZhR3H0egSgO7%2B0dtP7J%2BeDHJ5lBRiwPwK7IJx%2BlcIBmPZGjGckEAjnJfmQjVPbxIGM8NIGmQyFk208l49krqPY1imCJD%2Fc1tVKnkRB2BvXZBATqT%2Bojjkhbqpk%2FPu86bYFC0UgbBqIs4Q8MCVZeiznB7SVbMi1hCzdTVuqn1%2BGlv%2B2nP%2BEKKTSN5CuuwNpR2FyF66JoMLXZtswGOrAB9r4AvKmb3WZ3Tj3ThB6Wahnx7gMH3pGAj1D3IgRk3%2BBmHQsrymOYeXLiBetqWNuhH82cnRwGsiZqOlToBWagO8GivhKyFtVCJ%2FjgocSOTYPtuhw9ccH5jHsTBcIrkT%2BAHLBNP2DOebjW1tmcgwkvur5FSUiZe%2Bli%2FOkxpu%2Bp%2FDyHRAl0F0RxKq7XT7jcwyuC7GYY4bCfqER8ljUiDvla%2BZlzsQtuocK2yrHEz8bshR0%3D&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=5d1e4b1582ab0f9781d9320661eca559d64cb2a0371a2ea7701a0fca60254f65' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/variants/lj3omk5q0p3lnvwkv06m8gob96dy/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c?response-content-disposition=inline%3B%20filename%3D%22Vodacom%20Icon%20RGB%20Red.png%22%3B%20filename%2A%3DUTF-8%27%27Vodacom%2520Icon%2520RGB%2520Red.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=ASIAQGK6FURQSXS25ZQ3%2F20260212%2Fus-west-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20260212T182002Z&amp;X-Amz-Expires=3600&amp;X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBAaCXVzLXdlc3QtMiJIMEYCIQCj9p%2FqothQG67iFcGnmJk9u0AAHnOGQ8KWtj0nC9V1IwIhAOXJ6KUA8pTDGuUoAPCN3mpOFuGTEgS80w%2F8CsPzucHhKroFCNn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQAxoMMDEzNjE5Mjc0ODQ5IgztHTw8ZFy18TmC2YsqjgXsbuDJjuyt4Eb3mt5a41eh0TIafQM9zQOYTx405al1FACPwrR1A3Wq9fo1H89Kg%2Fqc32cgu59mtjwxWfqTSso1jQRqdsdl%2FkqO4aXn9Mun7UTZNdk%2BHBJNjEtaFM6FdiMn37QqlamndF06bX%2F2dwR52rfGtFpq7qb6vBVBDNiUwjg9snabn1PfJuJ%2FcStajSNLcOdJo0mBUFgdWrnTs6LnD67cerE8n3Bj5bA7V09N5l0oOWteaPZwgU%2FemUuzp86e%2Ff%2BkO0HmeJPW4MbmklCEnBcafN2zIOf4ldshNlyGrRaJZJPO3s4ZRp60hHQpdmoESjcZE2L8%2FmLL5ZaXVIGqlWtBXfX7xWI6l5kEN%2B9nvb7BwxsGBr2iYTHDXcH3RBx0BvhUg8dImVKgopXbliXNLpFY1anAiNHV5mBe4UOdJU1Ww%2FRqmMmr9oWq3FtCPw0grqKPY4AhRmUFdnEauQemyv35pfRx7U7mwGd8TNG372wj%2BNXk7zIHX12XNAtcA%2FFCGNJmLbFWQfLsK8Qg7n9H6dFwzsi3H1nHBaThB3DB0p57zHTY5GFFXXg8HyA2WUfV%2FGLSRk2%2FUKHV1J0rTvg5ZZUk4rTNVmv82Q9TE8VrrTgO%2BaIUgchxm1XZSMJhz0oYeJAiTEjLjbTpL8OMw6ra7PG2%2FWj4QcUK9acDDfXha7PYAYo41F2oWt5Vy1agyFkkW2LdhbcE1LjL4Ms%2F0gOaAiQM6zN0fEJhY3lzLbvbTxLdup6pf2QX3YWK8y%2BvDKUjCpU6Wg%2BkAljHVL%2FbpYkZm9%2FPK9qA3LUYmsnqMWVCjNiqeOmpQ%2F4aYly5o0fjRIg3ep2qiE%2BXEnsIzz1niU4Vojdo4zo1AJIzvMKZPF0whvi3zAY6sAGvcp7iDr8oUanFWkY43XvP2Xr22EpFtkGOFU0blDP2r7zt97uEDfFA08TWhyIP8kN2zWDhWzMfnjBOiZ%2BpyPIfikj9SnXLJSd%2BfuCAolV8MetzUKdarS03KvfAO9danffWWTEIFx5m7wwZMCpRS95L5oFq1oF8W7AzxBb9BvdLyQvWjzZSM786xoD0FY2QZzHJXDhKKtlIw6%2B8hBLEO11PrIzRJNMpRwrvMdPhL668rA%3D%3D&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=e424dff75969d35282d764d72990995daf8de34cc6f14bfb58eedbfe70a5e263' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[HackenProof] NEAR Intents: SDK</title>
@@ -43,13 +43,6 @@
     <id>https://hackenproof.com/programs/tokenize-dot-it-sc-dualdefense-audit</id>
     <updated>2026-02-09T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/696fa1f040041c000f4fdf0c/logo.png?timestamp=1770653787' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $4000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[YesWeHack] Easyship Public Bug Bounty Program</title>
-    <link href="https://yeswehack.com/programs/easyship-public-bug-bounty-program"/>
-    <id>https://yeswehack.com/programs/easyship-public-bug-bounty-program</id>
-    <updated>2026-02-09T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://cdn-yeswehack.com/program/thumbnail/2828d1d8-89df-4f90-8db3-7dc6ea99b689' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; YesWeHack&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $2500&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[HackenProof] AlphaSec Web &amp; Smart Contracts </title>
@@ -218,13 +211,6 @@
     <id>https://app.sherlock.xyz/audits/contests/1225</id>
     <updated>2026-01-19T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://sherlock-files.ams3.digitaloceanspaces.com/contests/Instadapp.jpg' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Sherlock&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $200000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[GObugfree] univote (Vulnerability Disclosure Program)</title>
-    <link href="https://gobugfree.com/programs/univote-vdp"/>
-    <id>https://gobugfree.com/programs/univote-vdp</id>
-    <updated>2026-01-18T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='/static/placeholder.jpg' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; GObugfree&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[HackenProof] Solv Smart Contracts</title>
@@ -631,5 +617,19 @@
     <id>https://hackenproof.com/programs/nado-web</id>
     <updated>2025-11-17T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/68efbd8740041c000ff5547f/logo.png?timestamp=1766506921' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $10000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
+  <entry>
+    <title>[HackenProof] Nado Smart Contracts </title>
+    <link href="https://hackenproof.com/programs/nado-smart-contracts"/>
+    <id>https://hackenproof.com/programs/nado-smart-contracts</id>
+    <updated>2025-11-17T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/68efc1eb40041c000ff554be/logo.png?timestamp=1766506987' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $500000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
+  <entry>
+    <title>[HackenProof] 1inch Aqua</title>
+    <link href="https://hackenproof.com/programs/1inch-aqua"/>
+    <id>https://hackenproof.com/programs/1inch-aqua</id>
+    <updated>2025-11-17T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/6917098b40041c000dbd5cf6/logo.png?timestamp=1770822134' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $100 - $100000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
 </feed>
