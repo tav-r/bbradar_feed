@@ -1,7 +1,14 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-02-16T12:22:33.226659+00:00</updated>
+  <updated>2026-02-16T18:18:58.476346+00:00</updated>
+  <entry>
+    <title>[Intigriti] Challenge 0226</title>
+    <link href="https://app.intigriti.com/programs/intigriti/challenge0226/detail"/>
+    <id>https://app.intigriti.com/programs/intigriti/challenge0226/detail</id>
+    <updated>2026-02-16T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://app.intigriti.com/api/file/api/file/public_bucket_4a9183d2-6b19-42a2-bdba-ca189c2c8cf3-7524e932-f18b-463c-92d2-28c8e9c12ed9' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Intigriti&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
   <entry>
     <title>[Code4rena] Panoptic: Next Core Mitigation Review</title>
     <link href="https://code4rena.com/audits/2026-02-panoptic-next-core-mitigation-review"/>
@@ -42,7 +49,7 @@
     <link href="https://hackerone.com/vodafone"/>
     <id>https://hackerone.com/vodafone</id>
     <updated>2026-02-10T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/variants/lj3omk5q0p3lnvwkv06m8gob96dy/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c?response-content-disposition=inline%3B%20filename%3D%22Vodacom%20Icon%20RGB%20Red.png%22%3B%20filename%2A%3DUTF-8%27%27Vodacom%2520Icon%2520RGB%2520Red.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=ASIAQGK6FURQXQVEQXHJ%2F20260216%2Fus-west-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20260216T122145Z&amp;X-Amz-Expires=3600&amp;X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGsaCXVzLXdlc3QtMiJIMEYCIQDalsQ09HEScvb1XGsCUEVWYDNTgVZ7k52%2FAXTkIrur%2FgIhAJcbKJQIEXNJ1piDjf4gl%2FR9lV7FuTlad%2F3c%2BxuFL%2BbvKrIFCDQQAxoMMDEzNjE5Mjc0ODQ5Igx0%2BDVMoDAySIhIVXwqjwXnPlclMoPqOTepjVZzOQZdObgapyNXb7i8sgGm8PBUjsxsRJ%2BcBOPXV7txZH8TE6n%2FzWwEl5h18ta8hZ35aMGSIn8DH%2BdDAzq0Cp6RKouGmcLJCwJCfJKXDX6sDZHy7jPEjiG41mskvVj85A4G3UU49O9USaKJqAC4MMDFyP54RuGbrA%2Bg3YGw9zg7tUM7xiBZa3uOzbQMo%2BEgSGq3u81hSq%2FWxA9O7jkXvhPb0ELC1spFVCyUHIElRJnv%2FKzZkmitnzG76X5HZdRP6KZPbOpCcSTkWs4nBAX0LSLGj1Ux8KUPf2wdtncnnefeLl3UaLgMKd7AZrZOwRdGxnSDf3LPA%2Fmysm9uUDaJCOLTVXn01uI02QoJ0lft9dZ7iBAedYKAWQ3PCDoxAGiAVX0PO8Q26TPOplYwlf9iAwNH%2BBhi0yQe85w0TpomFv0zSmwAjnv3Iw2gsDlWD9qQeHaMUfnX1SRs%2FXErnPiXlBkiSTkgxmPH4r%2BLX3uexDrLdlsHhgmSTdHDELNj6avGULNPmRhsmo9lPnUvnLyvGS2r7dEA61v%2BJNHrC2%2BbJhXx6VtJ5WKk8BQSfc%2FKYtrlCOFcl4%2FjELw6aWkrWYnqnnfyQDSDBugX82UbKWEnNRL9OwaWS06U6wWeMIY1cC8t7yvISkt%2FGQajo3jy3VjPlDza%2FhMQTXlCYBQO%2BA059HLhmJiiqbBGqIm7G1iyq3SNWEiQL9BcQjZdvKc3ULl8agipf958af64kFpos9sbcxj%2Fd8ofEeWFM8w%2FhsM55Mdvl3V0%2B3CqbcvZiExZwLG3Qf6dtE8IszqlP0gPLotJMvcJ6merSj6Z9DAqQShQgipN5W%2FW8Go%2FuhqR3sZBwFu%2FnNXRKfn8MMr0y8wGOrABzPfLO1elr%2B0EI6w2rHplhvjDJwbB9LePc8BQbK3UnH33QGvO0FycD3fElPlYAWDmMrXJ225zJF16lgnHrOZaWDRI1qMHRmT5GeNw5pJITIfETi9wXjywMjbvdXcbI4FRqS8CJ14RqARGaq3SNg65nX%2FkB%2BIZZQnDSVT3Uh5FOUtgYFG33%2FUJUSvFqm2Mk55Q2cIFdq440yQknByhsifrbbb%2B1g3azZ%2FwuRMZ%2BJjaYVs%3D&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=7e9e935f1d11dbcc76faa056ed04aadeaa1764e470b7fad605e65c432d58b273' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/variants/lj3omk5q0p3lnvwkv06m8gob96dy/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c?response-content-disposition=inline%3B%20filename%3D%22Vodacom%20Icon%20RGB%20Red.png%22%3B%20filename%2A%3DUTF-8%27%27Vodacom%2520Icon%2520RGB%2520Red.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=ASIAQGK6FURQVPDA4XC6%2F20260216%2Fus-west-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20260216T180436Z&amp;X-Amz-Expires=3600&amp;X-Amz-Security-Token=IQoJb3JpZ2luX2VjEHAaCXVzLXdlc3QtMiJIMEYCIQDjALY8s203b3SoPjh%2BdetkbmDYwHRtOds0V%2BTERLUfvQIhAODnry3wJyxohxd5z6RnApD0fyjIc1QTDOMqyqzAoGD2KrIFCDkQAxoMMDEzNjE5Mjc0ODQ5Igy9Z29vyBUM5PFHv9wqjwVLS6P6IAIzdJ93Fu8FK2qCUraR8CryU1egue2WMSHf6bYmFliF0PL6CH16Twu1UhKDnd1En41n9B%2FcEXQ1J%2BPjJ3ykGAmSibAQh3QFSdRtQ3YG7flsKLKFeHwiid7ubktiaT%2F59jMrvL8wLAWWQghAQCWDJoKi3rU96CaMcT8ANWWvFDdN0wRNTwh0ZixZ%2BjBI95ltdhsZhURms40KQPKqhUusPb9d%2BnocYd2CyAh5SN2ix8cKF2%2FbUS8bGIAGG3onV0d16Fx746R8%2BsMHK9kE5brOR7nNeml5NM7%2Fuzn7tyFaUqzOZqgWFt32u72%2Bzs5lDclNRFQ96PKKycvOSm87ue%2FoSwr7KcX8wnIROLWUEuPQRYm4dIcJC2DzaUE1yEiHBZt92bNA4YrJeEGVi9bWT9ejwKRfbASqkC3moZPDjWFAeWwmW6BTJp9PchLfJgIwnzaDFIGTHkjvpH7zfJ0enQUKzPsw4TQS2NRFPj91dmfIn7avfM1VHantkiHFLVOLtNhf7hHZrGPZS9oW96Wg%2Bc5HwIwBys3xXw%2Fw545Zn9oYPLvSUPuwImOsGIt1y5N8FpnA95df%2FVM5A6COlIjbhB49TXMGlgrSijIILBEq3%2FjvQUF%2BmqFX1vuvLLUjKlfHWMBej0iC82nQIQ4gGlfZB1tFcFKepkxVTJ%2FUbcA%2BhX5Wbv%2Fg%2FtZ1oZ2M6v1DAdUhWlMDNqpruAiJQZRUmNWs6n3wN2KVlHjWeNCj8fHQnjC6RMookzn0hALS%2FQGjgWpi6r07GA5oWZn%2B1pxUc4zab5OwyBEgv2InAJ5OUyLJx1ZGOwBlw7ZqGUwS4kfwHzkaIMjyaa9D7yWR7rdA%2BdMIYXpuj75KF3ANPvcwU3uYMI%2BFzcwGOrABesjsRWYQbMvsbQmsJqryouCRRSTx4Minj%2Fq5qOT9U8Nqg7LWAnRVEftXCyVUH2dhak0snb%2Fr6Mj7LR%2BIs16%2FwDcVko3We6fvoVtae3fyGpOaD9Zk93IUI9wTbYbIY8T8yu2un8L9U%2B7iDhb6c%2BLwbjEWBD%2BgfHTFkdPBJGyg77cH1pJWQTKPbklY9UOqc7vOcMvNisWU7K%2Bav01cSlJ7tQRR9IrMtKgXHdi2DTMH3jM%3D&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=24cb4b1e95592dd5417a6ed24d5ea548a20e1171e769c9de933e7e1ee3bafaac' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[Immunefi] RootstockLabs</title>
@@ -624,12 +631,5 @@
     <id>https://immunefi.com/bug-bounty/bitflow/information/</id>
     <updated>2025-11-26T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://images.ctfassets.net/t3wqy70tc3bv/1wBdOtq6xoBJTdPjGbJmiq/8165a74640386a368784458f72749f7f/tq71coRV_400x400.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $1,000 - $100000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[HackenProof] Kaia Protocol</title>
-    <link href="https://hackenproof.com/programs/kaia-protocol"/>
-    <id>https://hackenproof.com/programs/kaia-protocol</id>
-    <updated>2025-11-25T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/689483e140041c000f9451fd/logo.png?timestamp=1770990585' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $200 - $50000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
 </feed>
