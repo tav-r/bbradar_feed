@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-02-17T12:22:04.176529+00:00</updated>
+  <updated>2026-02-17T18:26:29.877703+00:00</updated>
   <entry>
     <title>[Intigriti] Challenge 0226</title>
     <link href="https://app.intigriti.com/programs/intigriti/challenge0226/detail"/>
@@ -56,7 +56,7 @@
     <link href="https://hackerone.com/vodafone"/>
     <id>https://hackerone.com/vodafone</id>
     <updated>2026-02-10T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/variants/lj3omk5q0p3lnvwkv06m8gob96dy/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c?response-content-disposition=inline%3B%20filename%3D%22Vodacom%20Icon%20RGB%20Red.png%22%3B%20filename%2A%3DUTF-8%27%27Vodacom%2520Icon%2520RGB%2520Red.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=ASIAQGK6FURQRCAK72YX%2F20260217%2Fus-west-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20260217T121823Z&amp;X-Amz-Expires=3600&amp;X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIF31PqxGBYF0qh30CMr1YzmmA5RIwekfGmVmeSRnFdnJAiEA550W0i5KdliSP1Yh23LHwxMDK9G5bKXZn1isJa3Utb0qsQUIShADGgwwMTM2MTkyNzQ4NDkiDB%2FlItrDO%2FhsDaHpeiqOBRO5ToGIhT21cvBSP7qty%2FG0JXitMggCBNQ2Fggk0jXQu9wYjh2DxDk3ehcQGjbxlijnuVAgvl0EYnmZWTyZZRn4skUuPqeGdfeNWsazRplAGq0BImzqezy0PLnCBTZJPNLUvvTXuRSJ%2BvJOxWay0MBQAiTIDJXLCU4vqdq7mYwqhHizQXTSd4YN3ORjdm3BLaAFjAagoWuyHUbClZDUif2R2yC%2FhEuFc4ukuBpFuQ9WoxagAOq9TvUhlPpE%2F06D1ZUOCP3GtlDIkrt6y3ieXO1hcD7pNPE9zG%2B%2FThKMUZaHFOV7Orl%2F9%2FC%2BQT%2FHuvt9yjpVzew6Ab1Js8sAJc5oNXJqO6disk3dhDQFfe5RgsOXlBKhA1UXyVcxufNTvxjOjnhWpl23X4BVOJYcOoW8ttbwA%2BikYpYw5NX%2BR1zJtH0KJEpu%2FK%2FccaVOtUeqCoVI3NNNfXg0hg%2F1%2F7pXIKY4i%2BoEaGBEQvbOKhTXXyAqB096sNOlXGfRk%2B%2FHytZEvzeqKXtRdOx4uI1lZ24eAJNUf0cfEafL8mKDafNOc7K%2B93C6Q5O9j2X6B9mJFnbNq4KQM61%2FcDv9bb4a2zvfEzYxy%2FiVm6IbXPOK2t%2BR0SeYyYi3q%2BYz%2FsNl%2FCPHqHHFYPyo%2Fq6rXrSTtEvyFQkqgPslW3uRHn%2BeIgDUyO%2BECOKOfE8SwUYkmkp%2BR8wHbVk1AoFQu24g99jA9%2FxHwSgvuiVUnP%2F5ersrT7Ns4hM2BtPUQUfKGRYM%2FIB0XrioZcJfMG9ANJBVO44jdI9LbXbrO17DKI%2F6ktDFnVkd83PmtoqKtpbJNo1K0rpX2zWk9%2FWF8%2FxhOjc2b1oziAlBQbakXpoi8NuElNlcSpsWjcf8TQRsCzDeytDMBjqxAYgdpEppf%2Bs%2B7b0rH%2B9tjL8%2Bnic0yeqMPr1X%2FTY4OggrxFzsA4AmrHhwzyGIMrJJwg6QvZjUigjRr%2B4Eg6ElfvFjt5j3H%2FxpzXO1vDyKSUrT62BRvta2RI06hcDgRI9PSpNdfbrxgZHz%2Fs%2BcF3nMxfHq5JbTmovhV6XgwKI68Ttt5kVBtS%2B7nZ2yWBFNIigleG1VxjzLMliGagxhmK3AhgzP8263cyynwkewdJy8xheUAA%3D%3D&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=e3b682f1c2a095cf6c66059fd0d34a7bcf0322ffd8874f37b5283bde9b8163fa' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/variants/lj3omk5q0p3lnvwkv06m8gob96dy/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c?response-content-disposition=inline%3B%20filename%3D%22Vodacom%20Icon%20RGB%20Red.png%22%3B%20filename%2A%3DUTF-8%27%27Vodacom%2520Icon%2520RGB%2520Red.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=ASIAQGK6FURQVBDEIU4I%2F20260217%2Fus-west-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20260217T181826Z&amp;X-Amz-Expires=3600&amp;X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQCOv0g1x%2Fdh7Fd4ucgQ%2F4q%2B8kcx8TAk9wgG%2BaSjeWNH5gIgWb6gCJyGmDzislPY8iNyj3d55cr8ilfWi07QACdCemoqsQUIURADGgwwMTM2MTkyNzQ4NDkiDL1XtYgRuBmD9w%2F9%2BSqOBZqIVhxK1KmZtw7MwxpI0K%2FDNDAKe3UYdod7Na12oCOkROfbcO2fRqx%2F%2B7lk5E3NHecuLr0r7b2PmFBsjILmF8%2BZbR7KZO3QN2k%2Bz4iC9D76zMh6xpJKn6rlEH1A08WDHI0tTG1CE2THoZS%2Fzx0ht63xUN7aQveqEbydP0f81Zr5UnpnmsFLmxIUwZFOWR8U4%2BB2mvdJvkT%2FZsIy2z23pkWcuHQY3JpcvFg7dSb4gEvH2hPYkCcCdoZOPrM91VArKdmcOrDx%2BqtbA5Ki5sy9JuT2U1dTuJ7VIs9DcRpESN1XR8yXrpRA5GZ1dsNf4CjFkdnam9a4D%2Bv9UXAkUAfwkxaW0RGETCqvcH6VAQP28adALAxjumJsmhGtLh1A69z88EgTAONDDIzRrX3BC87%2BV%2FK%2FngAsEqog7vZK96VJ7j0lLgftCTg93Lu%2FDdywn6XdBpZ%2FwVHJ%2Ft0QOdFtnpC0%2B8DA5YeW9MGdy1PniAgtFl35%2BDMEGAw8ZHRdok0AGoxc8kOOP9fVathmlKs9PijcGRmzue%2Bb114NBfo6a1MgPni2v9VVd7BSB3SLry76VqYT4%2Be5cQELbksU%2FnTiqvxS4w3IS8xjBwMXYZ4JTjg2I2XUKS%2Fsd4HH2xHloHm2rfSnQLP6TXBKRKqriyiH8vuRYZEShvD%2F%2BXUmvv5xoo74gyYF7vs7fwEWHbcwEXjsQmxsKx%2FDicI89b9gVYKoKfbdUqziJrHjf6%2FjXm5SgYlz2vtEGy3LeXfPDMV9WJb8xh2TcqEDsWVqYwCrcSWdKZCijBMJVvCzlDG2G1kU%2BwO8n18tueqk%2FHpKC0Sn8tgSjK58SdlcOV3hI2%2FGhL7LT7gGokrw5NwNGU%2BGYAHujXEkSDDumtLMBjqxAepqU5eymg%2FX90K1gL1J8JlXGKijM7wMrMRCMa%2FuaVvw5uf%2BUsAv8DPIoABIQ1YMckkPaXH3CKABRSnwa7IPt4kyFSB%2FCfRCJk5NNo4WB9Ssgt5iwWY5S%2BAE8LRrmrtbuhUppbE6AwGt7nKC6dGb9h8Rxgm2PZIBvdJ1aBhJSsW5PE618XityiCLel5yQt3FYoHwjry008ycKI%2FiH21MnAnzpBFuSotrVUqOA1SProapsw%3D%3D&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=530c5d05d0dedff5f31694ef35868d9527677f5a4229cdd2f76921dceca191e3' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[Immunefi] RootstockLabs</title>
@@ -563,20 +563,6 @@
     <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/68e3bafb40041c000c91953c/logo.png?timestamp=1769527381' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $200 - $10000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
-    <title>[HackenProof] ZO Finance Web</title>
-    <link href="https://hackenproof.com/programs/zo-finance-web"/>
-    <id>https://hackenproof.com/programs/zo-finance-web</id>
-    <updated>2025-12-08T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/690a0d2740041c000d3c77c2/logo.png?timestamp=1767954768' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $200 - $10000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[HackenProof] ZO Finance Smart Contracts</title>
-    <link href="https://hackenproof.com/programs/zo-finance-smart-contracts"/>
-    <id>https://hackenproof.com/programs/zo-finance-smart-contracts</id>
-    <updated>2025-12-08T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/690a0e3a40041c000f3c794a/logo.png?timestamp=1767954848' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $200 - $10000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
     <title>[Intigriti] Trusted Firmware</title>
     <link href="https://app.intigriti.com/programs/arm/trustedfirmware/detail"/>
     <id>https://app.intigriti.com/programs/arm/trustedfirmware/detail</id>
@@ -624,12 +610,5 @@
     <id>https://yeswehack.com/programs/openproject</id>
     <updated>2025-12-01T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://cdn-yeswehack.com/program/thumbnail/18ae57ea-fa89-4655-8fe7-89d56d269207' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; YesWeHack&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $10 - $5000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[YesWeHack] Nextcloud Bug Bounty Program</title>
-    <link href="https://yeswehack.com/programs/nextcloud"/>
-    <id>https://yeswehack.com/programs/nextcloud</id>
-    <updated>2025-11-26T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://cdn-yeswehack.com/program/thumbnail/830626e6-26b2-40a3-af95-b87e576762f2' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; YesWeHack&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $10000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
 </feed>
