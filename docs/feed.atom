@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-02-25T00:46:21.436074+00:00</updated>
+  <updated>2026-02-25T12:23:38.974583+00:00</updated>
   <entry>
     <title>[HackenProof] Multipli Web</title>
     <link href="https://hackenproof.com/programs/multipli-web"/>
@@ -29,6 +29,13 @@
     <id>https://code4rena.com/audits/2026-02-panoptic-next-core-mitigation-review-round-2</id>
     <updated>2026-02-23T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://code4-api-v0-public-storage.s3.us-east-1.amazonaws.com/upload-ve7mSg8Pcp2' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Code4rena&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $6000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
+  <entry>
+    <title>[Standoff365] Портал государственных услуг Московской области</title>
+    <link href="https://bugbounty.standoff365.com/en-US/programs/uslugi_mosreg"/>
+    <id>https://bugbounty.standoff365.com/en-US/programs/uslugi_mosreg</id>
+    <updated>2026-02-20T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://api.standoff365.com/images/200_200/2fc31649-c6d9-4d12-bf75-d2ad0b65fcb6.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Standoff365&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $1200&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[Immunefi] AGNI</title>
@@ -84,7 +91,7 @@
     <link href="https://hackerone.com/vodafone"/>
     <id>https://hackerone.com/vodafone</id>
     <updated>2026-02-10T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/variants/lj3omk5q0p3lnvwkv06m8gob96dy/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c?response-content-disposition=inline%3B%20filename%3D%22Vodacom%20Icon%20RGB%20Red.png%22%3B%20filename%2A%3DUTF-8%27%27Vodacom%2520Icon%2520RGB%2520Red.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=ASIAQGK6FURQ3NTCLNTC%2F20260225%2Fus-west-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20260225T004102Z&amp;X-Amz-Expires=3600&amp;X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDgaCXVzLXdlc3QtMiJHMEUCIDL4mxJjlpK%2F5WIfT6pfOv7cFiKBsBUyl7%2FpefbvQIl0AiEA%2BGEqCbkWfkX5p2eazES8PXN%2FYCm26QmMugzXTZxWdz0qsQUIARADGgwwMTM2MTkyNzQ4NDkiDFUcE%2BitXxeE4owh%2FCqOBae9VX5y93s2HHynHNpWLNPM%2BDxIMgtcBMtEfhMOwOO7VuJcNwSMD3iFIKQW1FJoHlHi8UjGXeT9Y5UN%2F7o4uGI27orMKKLXSfWVgd701vMQ4JcMYLv4rvPaYi0jGtjV5dc5QFTiXTzTCBSAMTjPZu1hF6SRW%2BZXoss62qYgxFjvN%2B09R1Bsj6me1k99I2y6ib4HzojF304Wla1q%2FdrwCxRUCwLl8kzFS626C1FRT0M3DRTaII4Rg%2Fpl313D0799v8fr45zJiWQj00dqG40d9hD%2Fs3zHzKdA5DkC7vdl0s6C%2B%2FfxNP9TRPJg92wCS5J9WVCkvIVV8Q8CkrTO%2FLEzt9LHSvfcY4ZyMDl1sMDp0bHugVyaKVWf%2FLRiDRKE%2FIBsL0WQP35rP1PS6jOLsdPtCgeTC1MaW812Mfa4N%2FbNvxKoDkja%2Flfwycqq2JSmNLWUnDgMOuAZHOerxAkN3AUNca8CgnIU7kIGVyJgVsMWyNTpDGtlAVLDbYqvPAUCw6uHWrwPuW5RF3OWNnsOcjqOGzEJxUYwUjtvjl4171UxesrO5etZAdh%2FOypRH%2BqNs6O2sOOyF3twybuRqVkWrwCjADYCva0hTEZzz2l2VGzI%2FZqmef7L3Q%2BQxbkYsTNsgE4%2BGPZgeFh1VOo%2FPyuBC8TREhJx%2BPTEZs2SLJV4S3PviemGz7J9j9Q9zOsw%2F%2F8Szk%2BiQACTYJZW8hcqK4Ek2Q797P2DJ%2B85kimgwX%2F8iYXUP%2FdjeS0f0ygOFo2uTNH%2FzJRLVGjtoclQNXMJjgZ84V0%2BcgjIDBnvrCUtFqo2bzTkPyLOShhCr3YhcBCc1xMsZ1bam%2FlnL3Ziw6Yx9SmuQBD2%2BsO3TJ%2FhFD6BgW%2FLbsxoIzDy6vjMBjqxAdBdcPizNVmfKWcZcvoQUX0F1FN2nHb1b2q7m9TEb0XgEQvCj3708yeyitsHd0vSYoev6pMtyc14XORrKh3g%2BjIoCVh8D0g9EInqTcxq95fFRQNUZf0XLCvZtyJh7uZlfH%2B%2Bat6efHeB4jYZG25cdjyHfpiNta05Uc5DWZydyexAP9keWnOusNs3pOPWBRN2eERc5DBuCpttgfbJ2kLf5paU%2BWntjjsKRRn5NgJX8sT9eQ%3D%3D&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=377bb8c0d8a8338349164cb3523f1c36565df41e003228fc8e9c330fc8600c22' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/variants/lj3omk5q0p3lnvwkv06m8gob96dy/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c?response-content-disposition=inline%3B%20filename%3D%22Vodacom%20Icon%20RGB%20Red.png%22%3B%20filename%2A%3DUTF-8%27%27Vodacom%2520Icon%2520RGB%2520Red.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=ASIAQGK6FURQWOX6JNFL%2F20260225%2Fus-west-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20260225T122013Z&amp;X-Amz-Expires=3600&amp;X-Amz-Security-Token=IQoJb3JpZ2luX2VjEEMaCXVzLXdlc3QtMiJGMEQCIFOXdEZOj9tH4vqjStycvlr2QmcGktmYzzL1OixpE2BjAiBBWGWGmeIyOT1WelgVYWCpx0knM8w8ZuKVsCNdfIYkVCqxBQgMEAMaDDAxMzYxOTI3NDg0OSIMf3MpvHCxh%2FbGDOw%2FKo4FsEvDNBvOzPTgoEIqjLsyi97XV1jk5GppdqjHGuA088OBOHGSpunER4p0rMioH8%2B%2F8WhaFdSSRCnYVaNOgwKeGhymWKiKv4g5OHxuFSoEgTAxwfcr%2FDWoIueaud7q9GmhzFpmdblQdP%2BMpPkl4C%2FL%2FT0cahqKMwTmW1lchFI5vcAxNc3rN0NXkTeyAzCv3pXNXZReH6rBzXVWUeJ9bmpApfC61a4lQP%2BhPeSxNinCBuWKLPQNaARLDM7hcASmt7xbzWENfjY1lljgwNh4Sx%2FNc3b6WBtu%2FtiV%2FVG%2B%2Fpi6e4V16pG5tGnDtprFMsSboI%2BW%2FJ4OtBPhTRo1KaRiaXXsO5Fags5Xisk8yLPm64HP51FMyZR9XqMwaclDvEb6FZthKsGDrFT7sEwQe9zEAz%2FiED%2F2S29hZB2jxFJI%2BtoUXpF8tZYtnvjtKEyLLEYG%2BHXkfDHomq4cFPkJgAdGFmV9UjUlLKlQT%2BeN2lrWEW1iGXKiQY4OAnGaTDKK2Qyj8kyrfbDr3CYEdzHMKsgDt%2BdUkJjutDu9d3uEsMYJtSJLZajckhf%2BZiAZrCZEQvga5wGV1e22JN4sDTmtFMeG8GattPMRCcQHPNjSsfGBJ0PXLpwBJsMDAhFTpSgvQAmzjyXcN010sO9wFmWR%2FyE1OhRCFZ9e%2F9lIkUjnon8eRi1%2FWenMA%2BgZtg93gGh8Z841rX7JVk9LGJHNmUS8MX5fzM8qH%2FfRnX%2BeEygDo2si88JoVmnSPF24XU92XzAEqOiILZHKp92HT2Gb24eDWfp6f9y9lmwh0pdbQGEkI4RG3qOF6XOjCetnw2Jk7J2Z1lccuDLmNylruht2o1Oj5tP3ZwlQF77C2ZPYLzJVKNZ8v4iKMO6x%2B8wGOrIBKgMT2SzhHekLrhQPbS3ofv7AN6GzeLTRGdS52F0Wm%2FmpW6pxsla%2BIWGExjUZlaAneGQYkdc1frSp7qQS0UCxFqqhzCKKfDLE%2BAjl%2FTizPexFP9dufZUbTSnLjTJEUncSk7kfXSlanBkXqaI6YusmR%2F2InWJRde6L76DrA1WDUVGZpyhlyE%2BVBw1zN8KOP%2B3jgjSp7dYFbLexsN2ZVqOY2pYTCv9AVFxXszC23Zf03MYOpw%3D%3D&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=b22cf1e1cccc825dc64b9bad263a034f1886a5c5cc531754ce25edeaac83d5c4' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[Immunefi] RootstockLabs</title>
@@ -554,12 +561,5 @@
     <id>https://hackenproof.com/programs/amlbot-web</id>
     <updated>2025-12-09T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/663a1047fd1804149dfa276a/logo.png?timestamp=1765293165' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $500&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[HackenProof] ADI Foundation zkVM Verification</title>
-    <link href="https://hackenproof.com/programs/adi-foundation-zkvm-verification"/>
-    <id>https://hackenproof.com/programs/adi-foundation-zkvm-verification</id>
-    <updated>2025-12-09T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/68f89c1040041c000ff576dd/logo.png?timestamp=1769527439' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $200 - $10000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
 </feed>
