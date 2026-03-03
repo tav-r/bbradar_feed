@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-03-03T06:24:42.990760+00:00</updated>
+  <updated>2026-03-03T12:20:35.528496+00:00</updated>
   <entry>
     <title>[HackerOne] CLEAR</title>
     <link href="https://hackerone.com/clear"/>
@@ -105,7 +105,7 @@
     <link href="https://hackerone.com/vodafone"/>
     <id>https://hackerone.com/vodafone</id>
     <updated>2026-02-10T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/variants/lj3omk5q0p3lnvwkv06m8gob96dy/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c?response-content-disposition=inline%3B%20filename%3D%22Vodacom%20Icon%20RGB%20Red.png%22%3B%20filename%2A%3DUTF-8%27%27Vodacom%2520Icon%2520RGB%2520Red.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=ASIAQGK6FURQX5W7UG2Y%2F20260303%2Fus-west-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20260303T062345Z&amp;X-Amz-Expires=3600&amp;X-Amz-Security-Token=IQoJb3JpZ2luX2VjEM3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIEY56ViHRXP9M%2Bc7ri99se0ijYRJqJy6%2FszY73%2FkwJY0AiBLoqxWgwHeqZR63fbUhzybqZR005GcePv0gvan%2FNMHhSq6BQiW%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAMaDDAxMzYxOTI3NDg0OSIMTv9WEpLDoU7h08YQKo4FuNCHtqzvVxVzvaK1OTx%2BWd0pq1IPO9xeCRiEBEGy5v0lK%2FW%2BDFl0veaQT0HEgAR0VVDtuRfzvbUYRJElkpiFQHpifrXRSDT%2BMc2UTmp95P97cx2DPJkDhKZLCMlxufeUCw4lx1raR4OVLRxJwlSNC%2BSLxXhHy7f9J0akr%2FFsgfwd6I%2F0kqefThUjDwOju%2Fp7V5VqscM1hnVcDNstyFLOwxlrF%2FR1E7oeNTu8Jy9TK2Rds39oG1nF%2FhgT%2BwBvig3oPI37hfmNonUS5IZ%2B0AZcM%2BhhrqIgXVchUXjO3tokwhUspJ%2BIl37Dpp6IvX7I08fMdAaPKMkdAs0Nh81r5pJ1kqalc0WM7QwtfHnZOXLpgujtV9kQtkgtPHOHOGOQgJNLjihC2fhJrAH0Lg49cySPoRbWp8FfxhpjsMsOCvKBV68RR7sZnxCSdEejDNkRlPfn7ds%2BNu%2BKYC2RGVPR%2BFT8hBqvUn5oTmva6WkU8pzP2tx6XhEwPXqwyIcLzHQ4rEMVhfrnPEahCbcgl8WPqZa19ihPzPSsVd3boSRybvi2vgsoWJCuUalDkbdGmu8WMERgRohKZF9C7rGS%2FMFDH%2FIEg3zzS5lz8dmHyCkJ1A0hd%2BU9P4cbKSBs5NAzAqh2GaFbQO%2BZkJOPxPu6GQBd5U2fB%2BxgQEe9kjJaLS0GnrsliajqD%2Bdvk1WDC4eB8FxBsl78FnMztHR1K3IbcG%2F7ceyr8MsDQCLvK7envh5MUM%2F0XEg%2BEONhDeAHF11SAtD5yUFN2nvHlGPO9wKGxNLU6Z0FYqFB3%2B3GTq66EpEswy9ioYFZ9AJ5XW0LJocbT7V9P1voImbRqpIfKQ7NTkP%2FcYinhzd7rxAE8sozvwFJQkyKMPjXmc0GOrIBAFiXEAPVNvQIGRF8Hs97DyD3KwlnpZ0yI76dPme2C2Ter%2FU3%2FbyrXWNGwOcf5IWscT53MxwTY6%2FiTmPg372MKzU%2FjhBRzWlkJKbHlgp39NRd8xOa1kTHq95v%2BLffwzNwI%2F9qZbDchCNuJGE1fj6KmSlA7FDRF3yJLhsIxY4DMO9DEkZ4VnffynV14x8MSBv1VR9o4Vi0lt%2FrdK%2B0p65NwLL6XsXO4Nlqc4PzI1Cr2Zds0w%3D%3D&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=09b1b001496fbf1568a7a9faa54df1340e4c110b802939da11b137b151bf13fd' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/variants/lj3omk5q0p3lnvwkv06m8gob96dy/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c?response-content-disposition=inline%3B%20filename%3D%22Vodacom%20Icon%20RGB%20Red.png%22%3B%20filename%2A%3DUTF-8%27%27Vodacom%2520Icon%2520RGB%2520Red.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=ASIAQGK6FURQZSV5U327%2F20260303%2Fus-west-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20260303T121702Z&amp;X-Amz-Expires=3600&amp;X-Amz-Security-Token=IQoJb3JpZ2luX2VjENL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIC6ocOEJXHNLN5emvnN7hLkXVmeUCglch1qsnJrx%2FV6XAiEA3%2F4ajpJVhCNeHzKVYWGJzLVRdea6Fw61CCGr8b4DwtoqugUIm%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARADGgwwMTM2MTkyNzQ4NDkiDD1NSaM3%2BQoT5R4nViqOBYuqYPdlmHiWtBBjDUt3gyQcftm%2FW4bVh0TNH5mg5y2S0J%2Fy167S8LwIE%2BETTI1tFcqWjMYh0y6LUhRiaxxBE5UnhBZY%2FrJyOd9jDIaq3rLU66DDi95YzvjcWsSQuNBHcbJQedbSGkrOtcGBV5IVM0z4vrS6HVRTbhALEeGEKlqmSYvCZ%2FG6vI0e5pmWsghe5nYWpAm9zde86eFAt9UbX7mfxjp8SDZRw3My9NHVp4ogUV159JZHHtnR21%2F2eZTpe4q3PS8QY4QSAH0vcQ6r8o0NKuo8B9DrMpPMgekL3q0B6XWvG5aaToVKQnRMPJdDR8V5P18U%2BpjIUyecPhX3aXB3j%2FhiaurVRtqIky3X8Uh4xE38cRgSkFM4%2FVW%2FyMqaFsKA%2FXXS7rlUCN6NqyYg%2B4hSSeMYmNucqcGnlaPdRYEs1t%2FDM%2FNvIfNuFnH4xoM6wzVuTC21POvI2NReiNcSwof0QSmxan0TfR8ZnQ1kCN0Duo74rvAgoH%2FRaUCoCMF%2BWNQfwYOot9nxSMqOLLz%2B5il%2F8D8K%2F5NjiIWBCI6f0toW1EMLhnpjHfGPc0oJdwYr36%2Bl839ZWbz3XRZahEatB6JqMGc0gsG50WLYbYTQLfkbCdVEBuB8JcnroDNYhSyxiT9U5vtdVBH2NwxSGL00leqTvir4zvc8N3ffdg%2FbMltlIvt%2BmUParUZFSoEQYCmaKDVdpWa82mwF%2Fy0vRWyvrq4T2kM4eUKjVp1sEJaSBa90EPZvYIQCvVesbhPiRv8ZWMa1KvwHpadAhVBWK6nO01vuafPTByShHQNtu9Wfxk0%2B0RlDSHfonQiIkSb1YxB5Xv0%2Fr%2F9HyoZxHZSI41q0oIIPjwd5l2JwC8BAJlvhNTDX4JrNBjqxAdJNmN88SEcEs2Wg5qTnqurr3lqxv%2F3YVMSxgTQtDTHu8c1jcleYhpaTpgCNcYzys9IRokCgVMdqm1gUp9xDhC9Mp7gQLfJwm8aVCb4jldU5qMDNiEbHoh%2FPzIJT24nn6yikSwtOMPWLS0olMlheseFfOSUdgwKlMf2C3U%2B8OqAO3tjJv1aMmRkcbjOxgR4Lvx9piZPdDJXLAalFMpYERAbqymdsX6rfBW2JW%2BkCW1WKcg%3D%3D&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=e4c82127d52c9b675ff95b71dde4823a163b12b8979fbb59b044ea189cfa9af7' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[Immunefi] RootstockLabs</title>
@@ -381,6 +381,13 @@
     <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/zhtpm9mkcnuvb50jwvasq67e4hcp/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
+    <title>[Compass Security] CH Media</title>
+    <link href="https://bugbounty.compass-security.com/service-details.html?id=20"/>
+    <id>https://bugbounty.compass-security.com/service-details.html?id=20</id>
+    <updated>2025-12-31T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://bugbounty.hacking-lab.com/api/pub/v1/program/20/image' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Compass Security&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $124 - $6200&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
+  <entry>
     <title>[Immunefi] Exodus</title>
     <link href="https://immunefi.com/bug-bounty/exodus/information/"/>
     <id>https://immunefi.com/bug-bounty/exodus/information/</id>
@@ -561,12 +568,5 @@
     <id>https://bugcrowd.com/engagements/thefork-mbb-og</id>
     <updated>2025-12-09T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://logos.bugcrowdusercontent.com/logos/bd73/78c9/794397c7/40b0bb00ca1caa91bae8db93a6fce4ac_TheFork_Symbol_Mint_RGB3.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; BugCrowd&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $3500&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[BugCrowd] Magic Labs Managed Bug Bounty Engagement</title>
-    <link href="https://bugcrowd.com/engagements/magiclabs-mbb-og"/>
-    <id>https://bugcrowd.com/engagements/magiclabs-mbb-og</id>
-    <updated>2025-12-09T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://logos.bugcrowdusercontent.com/logos/ad3b/7302/69bf13d3/d8e58ad0336dee961d369d4f608d3c05_magiclabs_inc_logo.jpeg' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; BugCrowd&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $250 - $3000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
 </feed>
