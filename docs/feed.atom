@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-03-07T12:15:11.843203+00:00</updated>
+  <updated>2026-03-07T18:12:32.888209+00:00</updated>
   <entry>
     <title>[Sherlock] Current Finance</title>
     <link href="https://app.sherlock.xyz/audits/contests/1256"/>
@@ -126,7 +126,7 @@
     <link href="https://hackerone.com/vodafone"/>
     <id>https://hackerone.com/vodafone</id>
     <updated>2026-02-10T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/variants/lj3omk5q0p3lnvwkv06m8gob96dy/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c?response-content-disposition=inline%3B%20filename%3D%22Vodacom%20Icon%20RGB%20Red.png%22%3B%20filename%2A%3DUTF-8%27%27Vodacom%2520Icon%2520RGB%2520Red.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=ASIAQGK6FURQ7UFFFLXU%2F20260307%2Fus-west-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20260307T120700Z&amp;X-Amz-Expires=3600&amp;X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDMaCXVzLXdlc3QtMiJGMEQCICKZdaU4xn0DceVu3LjcSnAONubOoLACypRdXZsotB6IAiBkkG%2BnmLGnJghQvWVX3IUOpuJE%2BGeUQhgMuyiyfd1qCSq6BQj8%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAMaDDAxMzYxOTI3NDg0OSIM%2FlmNgdONPwsKSXnCKo4FRQFRhqfokD6dMvoKHM%2Fc4QuDmWD4yRMLf%2BB0LOL%2FCw8Hlb5sjm4uaWmIY6tBAAg0kDcgm78ej%2B5%2BLEFQOcVA7PzbxGSQwy9daU5mukR8af2%2Brmz6nuYyyUiBfiwBKT6YfG8GB6kIAXbrMlI3szFyCCF7UspH3ScIUwh0sZ%2F8d9lvazJNln8LIod8crbyTXBOY4rBx2DHQ00Fua%2BVoVYk5rhBA4nz475Lb978Ycz5vATyRknIpouSvBB8O2opC6OzJ0Mvj2yyRoejvhK1cM7psc71VttwqH03zPnwzZI4Gwz6px9d7LGlZA4B7JHklCCIQ5wn6S8z6xdRU7wd%2FOd80Zlp05Sla1oaFLJuTs66MUxQnW%2Fy3exouECUw0WoXUs72iaUI3rojlXdyDsuNU7iV7kD3aX5knGhGoyyDnp8yJZPaf%2Bjq4hBTjA%2Bp6ZF6T6HwI1ZQrozHzfXHKHkOl0uzLYkLid363cLsJxIHDGEAWAfKE13plBifrnWY4%2Fm%2F7x2RUKwbtKr4SJX%2BJcdw8A5W%2B7x6hMbVxpCDqLOtfRmkkb7cmg5B5nWCcncsp6XOFObailC4OSIMsaXDK51jv0J9e8QFBwpuayTZxEVQxno8pobzCxIz%2BUHy5LcSevd3Yp09dZ09uuteueFOtFgNweqdxE%2F7RlnsQ5g8%2Fo8tPYE0cmAYEJ%2BO6qw1y3R3lcVYMsxrrLoJgXXZY8xF1eN%2BIE1xjLjCxTmvag5z%2BwltWOp3AgmdIhT%2BJhTPoVn4h6PFm2VNDKA841ra8D05I8jOX3fZmbrMIKC1eht3Mu9l4LxQ2QC%2BSljb1CdQ7eaZY7H%2F7OwY5MHJCethU8CGA1zNV4VjP9wJtZ4%2BKqTx5czu00CMPuEsM0GOrIBHBcvE7Qnlp2%2B3%2Bwdwzy1GMPGmoJ4%2FAH9vbq8%2BMw6mGyXQHIEwaHAJ2pIc0XKC6gVwRq5ZCVnHkTd6BsRWXwTjbBDGUqUXugFyDhbDppa%2FTRiODPk7vfGWCeorYe5kI%2BFDwL9vCD7EsinZCxRu7fzu1Ga6WUO0XQjdRN5MF77VF5F9cSgHzUnOWftaaOfjFPffXt%2BVHYinyY474uFEumH5UZQfLcKW0FHk7OUrXgOe8v5hg%3D%3D&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=9423d9b9b2986273898f3af943cb4b39f1d0ec558d19f71b91929ff045fcb95d' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/variants/lj3omk5q0p3lnvwkv06m8gob96dy/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c?response-content-disposition=inline%3B%20filename%3D%22Vodacom%20Icon%20RGB%20Red.png%22%3B%20filename%2A%3DUTF-8%27%27Vodacom%2520Icon%2520RGB%2520Red.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=ASIAQGK6FURQUYJ6I5AR%2F20260307%2Fus-west-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20260307T181013Z&amp;X-Amz-Expires=3600&amp;X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDcaCXVzLXdlc3QtMiJHMEUCIANU1jux4gB5J2WBNvAhQnPnRHBorAmmxItMSiy3563SAiEAqwrIdX3vLkCkHJ8gvSPsnEnj5SJgxDbwMBhJlj75G0QqsgUIABADGgwwMTM2MTkyNzQ4NDkiDKFFujHh6b9c0szMyiqPBXZWze2NRFl9KMk9hRApypqDs53KileiLATAvdMh9%2Fiw4CrmjdWJzm4WMvLeJZrVtrZxDiXbU9ACQQx%2BDHZVf%2FgL8%2FdD8dWtJzkMn8xFwr%2BbYiebwyVsJOAOQ%2FPmQJv%2BWHOOKj95gA23hCLeQi18pGbS4SJBAeEccK6EztcJs6rSlSfLbTu0LWg5QNYlgBHi31MmlZ0JsgsGYgD3h%2BkFYUkOhfFL5jvHko7vguoygqQNM7hz6wxlRRShsBcf1HLxRbtQSg2NpY1pCRQEjVVShu9nLm0qD%2FyLMeA2ji6itOPvadcbQl4hkqwmOVcot9D1FfJxBdWkxoHhEfP9lwBZCOTn3iJ0cgOnPEBdnjshUOUl3Zq6a087EkZBmKL3DFYO%2FYXEsuMvfstAhcRR8SqJ5PAVLxaCEWWt%2F4ww2N4V9kyWnjR6rGUzqkv9fI7HIKPWaKWbfhRJs5XsV0GxC6vsnt0WxThUGeM1gGqnNv7iBgnOEHeUY9UnLCfg5oNG2a8V%2FGkpQ5%2F9xJtGxBrb9r40w2xo2ivJfkbMFKNriaY5faHg33ANFy8980%2BsbaNvM0u8G7RojoS3jgoz3pY5qNf7ds7F9qpjZKL6f6U0%2BmbUJh09tDE9MgQJ9S6ZJQuK1vynETMkxnV3WKEuhrxcxn2UDlH5ml0i1uBF157wpjmEn6cavHaxIa2JvC27V%2BtPgclcavMI8DQBW98K0N%2B3K%2FUMlXDm2tRCwY0rZDNmP8eh04xWGjI0pfZSuB07Ca6hyrdzZULhuf7u2obzY5Ho5XOcUQbiqueo0jrBwcLuwCUR1GPzHvIWe%2FpgqvM6xoL9BIhXtE9JxJfqjnxMvw9IFOB7GBCSMudVIUivSgVW9jJdBkMw8viwzQY6sQHpsKz3siQ2D2l%2BMra04M7EkII%2FDVm2AS4HM2Ve9%2FEYdNtsZHgic%2BlTgsgbgN5IHmD%2F8GJMdTukwcG3pyDgcWyV1xCZOnDZ%2BJjuY%2Bfy6zuW%2FX2xcTZgZpFx%2B82ZfMNi%2BuWzzaXZ%2BQprjarWDLgs9CwrotxNClSJveCWCy%2BX%2BZsKHU7KjPmOAZ7Y2ns3F%2Fl2On3H8CMbJykhVIr6042lptX2xgr%2BukLE9kM0ZipHbtvnvYM%3D&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=ac23ff2ec1353e75a12b582bc02583df6f3e9a45b64421167dce5861a1ff8814' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[Immunefi] RootstockLabs</title>
@@ -171,20 +171,6 @@
     <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/js15zbfhilidjv71r0fnb12kckzw/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $400&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
-    <title>[HackenProof] Mybucks.online Wallet Cracking Challenge</title>
-    <link href="https://hackenproof.com/programs/mybucks-dot-online-wallet-cracking-challenge"/>
-    <id>https://hackenproof.com/programs/mybucks-dot-online-wallet-cracking-challenge</id>
-    <updated>2026-02-03T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/6978bad340041c000c9fb129/logo.png?timestamp=1772185509' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $1,100 - $1100&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[Cantina] Symbiotic Bug Bounty</title>
-    <link href="https://cantina.xyz/bounties/acca29a4-d405-4405-a3b3-8c3feb10d1e3"/>
-    <id>https://cantina.xyz/bounties/acca29a4-d405-4405-a3b3-8c3feb10d1e3</id>
-    <updated>2026-02-01T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/7f888151-1692-4106-e83e-146a0f8dec00/public' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Cantina&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $5,000 - $500000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
     <title>[Intigriti] Watsons</title>
     <link href="https://app.intigriti.com/programs/aswatson/watsons/detail"/>
     <id>https://app.intigriti.com/programs/aswatson/watsons/detail</id>
@@ -218,13 +204,6 @@
     <id>https://app.intigriti.com/programs/aswatson/iciparisxl/detail</id>
     <updated>2026-01-30T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://app.intigriti.com/api/file/api/file/public_bucket_99e37427-30b1-4843-95cb-49d50c980340-1f6355c9-a92f-4dd1-ae1d-9f75c4e64f1b' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Intigriti&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $10 - $8500&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[Cantina] OKX Labs</title>
-    <link href="https://cantina.xyz/bounties/00992789-fcd1-4bda-862e-463b0c73faa9"/>
-    <id>https://cantina.xyz/bounties/00992789-fcd1-4bda-862e-463b0c73faa9</id>
-    <updated>2026-01-30T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/19c1e9af-24f6-492d-ce33-22d3b8708800/public' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Cantina&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $10,000 - $1000000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[Intigriti] Kruidvat</title>
@@ -288,13 +267,6 @@
     <id>https://hackerone.com/anduril_industries</id>
     <updated>2026-01-20T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/zssdl51tjjq5lrn9w8e8cqeucjlt/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $7500&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[Cantina] Royco Dawn</title>
-    <link href="https://cantina.xyz/competitions/9c6e38e2-535e-47b2-83ef-29df91fbb774"/>
-    <id>https://cantina.xyz/competitions/9c6e38e2-535e-47b2-83ef-29df91fbb774</id>
-    <updated>2026-01-20T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/2fc6ffc6-1f56-4d53-9610-3f6947a1be00/public' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Cantina&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50,000 - $50000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[Standoff365] Копилка</title>
@@ -372,13 +344,6 @@
     <id>https://hackenproof.com/programs/gate-us</id>
     <updated>2026-01-13T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/6964b35340041c000d743beb/logo.png?timestamp=1769174235' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $5000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[Cantina] VII-Finance-Contracts</title>
-    <link href="https://cantina.xyz/competitions/eb93d215-e328-4d19-99ab-6c510acbb5aa"/>
-    <id>https://cantina.xyz/competitions/eb93d215-e328-4d19-99ab-6c510acbb5aa</id>
-    <updated>2026-01-12T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/5368bf64-7092-4529-81a1-65f6e2b2c500/public' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Cantina&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $69,500 - $69500&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[HackerOne] Banco Plata</title>
@@ -568,5 +533,40 @@
     <id>https://app.intigriti.com/programs/voi/voivulnerabilitydisclosureprogram/detail</id>
     <updated>2025-12-09T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://app.intigriti.com/api/file/api/file/public_bucket_91ed23c2-4048-44ff-a44a-ee5688c8dd14-37ce1bf4-c921-427f-ba7c-f6909a11fb9c' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Intigriti&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
+  <entry>
+    <title>[Intigriti] DIGI Responsible Disclosure Program</title>
+    <link href="https://app.intigriti.com/programs/digi/digi-vdp/detail"/>
+    <id>https://app.intigriti.com/programs/digi/digi-vdp/detail</id>
+    <updated>2025-12-09T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://app.intigriti.com/api/file/api/file/public_bucket_13d522d7-9e38-4af9-8d98-6058e681f599-5fb16ec5-eea0-40f5-b508-6404d0445995' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Intigriti&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
+  <entry>
+    <title>[Intigriti] Anaconda Vulnerability Disclosure Program</title>
+    <link href="https://app.intigriti.com/programs/anacondainc/anacondavdp/detail"/>
+    <id>https://app.intigriti.com/programs/anacondainc/anacondavdp/detail</id>
+    <updated>2025-12-09T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://app.intigriti.com/api/file/api/file/public_bucket_e1966b61-381c-48f4-ae23-036c92ee8f76-b651d315-8fab-4289-b5a1-82d3df5e8ae5' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Intigriti&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
+  <entry>
+    <title>[HackenProof] AMLBot Web</title>
+    <link href="https://hackenproof.com/programs/amlbot-web"/>
+    <id>https://hackenproof.com/programs/amlbot-web</id>
+    <updated>2025-12-09T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/663a1047fd1804149dfa276a/logo.png?timestamp=1772784819' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $500&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
+  <entry>
+    <title>[HackenProof] ADI Foundation zkVM Verification</title>
+    <link href="https://hackenproof.com/programs/adi-foundation-zkvm-verification"/>
+    <id>https://hackenproof.com/programs/adi-foundation-zkvm-verification</id>
+    <updated>2025-12-09T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/68f89c1040041c000ff576dd/logo.png?timestamp=1769527439' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $200 - $10000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
+  <entry>
+    <title>[HackenProof] ADI Foundation Smart Contracts</title>
+    <link href="https://hackenproof.com/programs/adi-foundation-smart-contracts"/>
+    <id>https://hackenproof.com/programs/adi-foundation-smart-contracts</id>
+    <updated>2025-12-09T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/68e3bafb40041c000c91953c/logo.png?timestamp=1769527381' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $200 - $10000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
 </feed>
