@@ -1,7 +1,14 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-03-10T06:23:32.181848+00:00</updated>
+  <updated>2026-03-10T12:21:34.375096+00:00</updated>
+  <entry>
+    <title>[HackerOne] QinetiQ Response</title>
+    <link href="https://hackerone.com/qinetiq"/>
+    <id>https://hackerone.com/qinetiq</id>
+    <updated>2026-03-10T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/gg4chzngdtgqae8ji8fulrhll3mg/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
   <entry>
     <title>[HackerOne] Treasury Board of Canada Secretariat/Secrétariat du Conseil du Trésor du Canada</title>
     <link href="https://hackerone.com/tbs-sct"/>
@@ -133,7 +140,7 @@
     <link href="https://hackerone.com/vodafone"/>
     <id>https://hackerone.com/vodafone</id>
     <updated>2026-02-10T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/variants/lj3omk5q0p3lnvwkv06m8gob96dy/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c?response-content-disposition=inline%3B%20filename%3D%22Vodacom%20Icon%20RGB%20Red.png%22%3B%20filename%2A%3DUTF-8%27%27Vodacom%2520Icon%2520RGB%2520Red.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=ASIAQGK6FURQXKCIJQFQ%2F20260310%2Fus-west-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20260310T062013Z&amp;X-Amz-Expires=3600&amp;X-Amz-Security-Token=IQoJb3JpZ2luX2VjEHYaCXVzLXdlc3QtMiJHMEUCIQD0xOKFxMCTxwlTD5L8aMyb%2BqEwr0eBs%2FeveyLcCQkIqQIgFFH2eJ6cnnrAJ7C9wF07IhDs%2FRRnpHtFaV3Md7tBbrAqsQUIPhADGgwwMTM2MTkyNzQ4NDkiDCUYwdsOrO56Np%2FNESqOBYjSNefAxlIEC2hT0KjXFfOeozxqOfxJk8KOJrgFU%2BSpGxZ64wyYuIYyCWo8svQOiY%2BHoAFhp5YhraTdxn6ffUIEBX0t2YveVeai8ZUUwVjWJfe5iSRq%2FvHw%2BeOAtC6B%2FqwtmiQoHenXcyHCeC5GsHtUEmesytEiswWXanWXfIFU02017KQFYY9rz1rLrRGJj0OYVpfgaPNibpz1tBLTNaVoqxN4mmoBRJ%2BogAdXcSrF7cDi2bpFD00UV%2BHGYE%2FY7MU65qcp8%2Brhs64FhRJ2Cb52u2%2Bp6bpdMTOlkvWhCoyhbEBMb77py2VzlCCfXEu1Yg%2F9IAm2Vsz%2F09sFis3J77tfHVY04diwo4%2F%2FPRB7Xb8i0QRMfTKws1wpBsXalKlam6bRT8Tb1tkmhVYz5AX11%2FUdjP01F%2BCLgi%2F9pN5gd5UxVxjGdiPblVRfk2CLKTn5tMCIgOoWgHNE8y5xroU2UewT2kkbo8mqmEuTL8AfegasH19G3ppTJs8GhXhz1pVo54C3L6vQ1s7T7FwtXF5TCnYzz7vJNGxs6WoS1CPD3BTRLLRmEp%2Fd9oACJV52j4IADBX%2BPuX8rhHTJw1KfND5t4pyNL0g4srJ4wfNygYslEDdHGlSWhlJO%2F03WziSYjYP53k9PvAUn233ax3tmAi3VsVyXSl31YTOlWZfVimI6wgDCgtqoahdYOfeaOPmIDcZdwHYIeMhoUoF8vvEN4dEccSDPlA3dJse%2FB9YIcK8MdZn6n1zMRy8OZIkdv58d808pcLXVPRiKE3oCyDuWz7eGV6coaECJa6SlplDVeWr%2FkTymDM4mvaI2L8b7aaWFgpBQ8A%2BR20vwJ7f9HdaqwaKstQ%2FWLic3H4IGBxZL7%2BnfDCq077NBjqxAe65W86q1tNLsMTGh7oSsVk5xgLM734Tmicq6TvccvVdzIixhUDS%2BoynZy7rGaeOTv6Cmt8WVocydTr5JLj7YSlYo82VLyNzL1jgAO58hBShMcptfhUde8VviqHEtRLxQ9TWHqVrsVMKBXwtVgBc4iiLCW1cSNHc4XhlxeqbVcOSulxCY4BKj4YegdhKTioPJ3ovrzucupvqy0MeBPhvkCpkWf%2BBQxsX9fgsw5Qik8q5tw%3D%3D&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=afb58158a0da606bb40ca4a34bb9c20c15042afd9abce0a1224fd3faceed3233' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/variants/lj3omk5q0p3lnvwkv06m8gob96dy/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c?response-content-disposition=inline%3B%20filename%3D%22Vodacom%20Icon%20RGB%20Red.png%22%3B%20filename%2A%3DUTF-8%27%27Vodacom%2520Icon%2520RGB%2520Red.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=ASIAQGK6FURQ5VLRTEJE%2F20260310%2Fus-west-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20260310T122013Z&amp;X-Amz-Expires=3600&amp;X-Amz-Security-Token=IQoJb3JpZ2luX2VjEHsaCXVzLXdlc3QtMiJIMEYCIQCoGqlRg%2BW3kwb5m5uT7o9KBIW6xmMOVTX4VigcKhyB9gIhALLAgGa%2FBCxYFRLLeE1Y3o6H2lWAdGy7nSvUyGvR9BTWKrEFCEQQAxoMMDEzNjE5Mjc0ODQ5IgzT1kOkvdW857BB%2FvQqjgUjLKPNxaX6PoCHD1GBk5ivUNEDFXZ%2F9%2B29KbSwbx9pzr29Yb%2Bj0zVWuY4JzEBQavh55ogvHt5%2FqYrlP48xOAodEdLmK%2FPYW8mNPQcX9d7F%2FZf3VdEAflH6A1608zn1EzAWrPWYo%2Fp5ge8OnQ2a0dKd9%2Fxs3ZQpVkiHchGvuA3KYq5CsRm5I4SKAWpV4h%2B%2FsPOE2bm1FcSHkoQ0dWxwu6P3ox9GuUxwib3n%2BwaslU%2FiXMMnQwDIAuW0odUdUEpZQZ0D%2FM%2BzgM7YtdUVmPaXRUGaslvA4oTtuH2zy37PrbzUtiSKDOwwXCMoYg7JB6FlPfzd86d%2B9t7rhT2Tvv0Krk7%2BiACISis7Tzg2BUacVPqR4DexmhngNccBLYmXRvQdsz9xqLrw3KmPKqIid8ClfS9qgaohQz1CbN%2FWlm%2FEkp5o2uVfvo9MFI3NrGwPsLLpsHfdaiQnCrVjznRJ%2BFh5eUumYjRuJ5hcscSNyOtuFDBmywFQrXTn48BDZO92tqQfWFFrzCUcREaWfauwVUKP2j%2BRqtsruck2JJF0Gl09VpwxE5G%2FOAxXvWUQKJ8wOrAD9bzYFwupthZB48gMz4162JN71txW7HSmku3Cxw%2FTqjJWf21lMFlPZbmD6K311uUrrX23UdGlbMsVbVuNVCe1egBb%2FeSy2WXLPU%2FBB7aKLXIXg0hrmRH8mmtw7%2BTrnprA06%2FtnymEWkCCuASFQeZ0jhEKTOtCWY0n7nfEsF7s3ayULO86r8ZoMrDbMbZmK7vMphX529U%2BXntGPU4uyz6pqDfgKHdytNeb1gnZpx74FiS1zsbf7lrox1w2bBc%2Fm8oaH1GSD%2FlDm%2Breeh9LaU7Yusn7RpwlrhNbjG8SWm4iqeAwsuK%2FzQY6sAHm76ujNRJQaPFPH2tp46e8Q6r5NHEugV7ljm8QPrNHo6k1Qk3JuHHoRVKTsQRj9EpWoZojTWQ10NDaMUAkYaRDf%2FWclSGZPVXY3c64PWZYCrhdtSxy21cp1N7en63MMO2%2FQxR3%2F9gTwOcskwW3yD2RLyCrI%2FpS1FJdh1n79Jtuo7iyHMbEA5gtXk%2BohD%2FhpR8jvMHnbwDiaeAeurWptd25s4sSQ%2BwDK5UbuPoDNy892g%3D%3D&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=eee5cb73ddbcbff4c72ac8edd0dcf48fa3b55894c9b9afed4b0a2a48b05fd1d5' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[Immunefi] RootstockLabs</title>
@@ -561,12 +568,5 @@
     <id>https://app.intigriti.com/programs/spp-storebrand/storebrand-rd/detail</id>
     <updated>2025-12-16T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://app.intigriti.com/api/file/api/file/public_bucket_6d925bd6-f4b4-45fd-8ab0-f48c5b514009-d7162c6f-67f2-4352-aa8f-68266ec8b7cd' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Intigriti&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[Intigriti] Voi Vulnerability Disclosure Program</title>
-    <link href="https://app.intigriti.com/programs/voi/voivulnerabilitydisclosureprogram/detail"/>
-    <id>https://app.intigriti.com/programs/voi/voivulnerabilitydisclosureprogram/detail</id>
-    <updated>2025-12-09T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://app.intigriti.com/api/file/api/file/public_bucket_91ed23c2-4048-44ff-a44a-ee5688c8dd14-37ce1bf4-c921-427f-ba7c-f6909a11fb9c' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Intigriti&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
 </feed>
