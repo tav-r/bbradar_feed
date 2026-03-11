@@ -1,7 +1,14 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-03-11T06:25:00.158780+00:00</updated>
+  <updated>2026-03-11T12:21:16.128893+00:00</updated>
+  <entry>
+    <title>[HackerOne] Hexagon-VDP</title>
+    <link href="https://hackerone.com/hexagon_vdp"/>
+    <id>https://hackerone.com/hexagon_vdp</id>
+    <updated>2026-03-11T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/ssf3uny7zniq7bouil2jhz5n0hsj/d9695107bfcd68eeb1c9e0912b109cdae9a6c00c0bda6fd4cbd6d9bdb828840a' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
   <entry>
     <title>[HackerOne] QinetiQ Response</title>
     <link href="https://hackerone.com/qinetiq"/>
@@ -140,7 +147,7 @@
     <link href="https://hackerone.com/vodafone"/>
     <id>https://hackerone.com/vodafone</id>
     <updated>2026-02-10T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/variants/lj3omk5q0p3lnvwkv06m8gob96dy/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c?response-content-disposition=inline%3B%20filename%3D%22Vodacom%20Icon%20RGB%20Red.png%22%3B%20filename%2A%3DUTF-8%27%27Vodacom%2520Icon%2520RGB%2520Red.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=ASIAQGK6FURQQMU62XCD%2F20260311%2Fus-west-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20260311T060752Z&amp;X-Amz-Expires=3600&amp;X-Amz-Security-Token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDovzlPWm0YMCuWvsNerPYBuiu435KN9%2Bl7XxgEvX0rRgIgb%2FwiUhHZt53dd4hQnWpmhLoVABDQ179sPtQmeb6CxjsqsgUIVxADGgwwMTM2MTkyNzQ4NDkiDKjokrNgLggk%2BUwwkiqPBbcrdXF11LPLnex9Xyv4ROSqAH%2BuLSAHHABbDbZ7CHOzBOXjphOOVHAgJ51GwfyG%2BmuWSx%2Bj2HPFPN%2FYbQS%2BclgwpZoY3Qnu0yHG1Q0Nd3S4ATl25KJbLeXfyWFP6vnSMTh32bQmG4C%2F1mTMWsJdemxUYAy41ZxYU98We3sRVUa5nr1QX75Butj07zXXoHHMPZRfG5jXySiRYmVHtG%2Fzu80bK%2FBziYSLPmCoaT4%2B%2BlCGp0e24PINb87ethVBaGLSfW%2BvNv81fsLA8auA%2ByBwDWBdMh4YNMuW0MhkGselvBX7wXa8f8iPlSSXBdTE8APD0KkM6wXy3Mjnx87c0kXzAw0uNV%2B3PTKHkN7izTb2YGakSCgfJQeqUDrEzL9TTb6ThreDlwgMtrMzPkJrE4TVZHiqi8P6xFmiNmMsJq%2FWKy2PZYELruNP4t1sfC6vkwiQmJuMH%2B1YekyUzHBEulre4FbWA%2FUj1HcYs9t4c7S4cJf7kKqpFzwmMuR1ebm4lJ94870yURQ3Z3jw44F34FNdq9oJ%2BFNEPgaxlIdEeSm7xqMLbdr1eOCEBnzuPTLe9YAf2a6Xwx2qb%2FCUIF7o%2Bdn3TzWFW5OGlOfDQE2v5hgq3cnUhwsMaCTIkaBIJzQp%2F18StD%2BQsX92%2B8OAh02SxN%2Bm0eJlhrSDjdHvj6A9lO4DOhFXgjwGspdwL8td%2FTJ%2Fqbyjso0ICUBQHWMvhhbd1LaXXI9G3G6pg%2FGTb%2BNpQiIZRxr%2FhbViTU3oQZuWw5BEWD6ktRzXMvlt7PaKhXavfl28IjPc%2BPs43DQhy4D61yHEsZ6WZDnDrFuSLp4sWST%2F1RfMCtvP%2B9fEDx27TJ%2FVqncMYrHUcYiGFKLQoVNolHBTt%2BIw2YDEzQY6sQHMKh1O1WP%2FH%2FkdC%2BFEiW4F2%2Bc8dngSeNWwY3c4GqS%2FypCLBtllSYYLMu03yljwW82zzosaAeg6oi3cmke4owR951RrtKw4cZETHAZyTvmLxdAB46hpEZkHBE7jW0OQop%2BSGYEHKpOwB0t8ccaDJohgzeqL9tUHGpqiwD19bvyi4D9ogXc7jEb7IihDw7pjpJ4PRCGf3paycOhDcqFVTPxfWT1zDUmuebnhAOQW48WTlac%3D&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=c4da4c9afa530aa8841822fa0330cab8238f2bfe6218444999d89a42c160c2f7' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/variants/lj3omk5q0p3lnvwkv06m8gob96dy/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c?response-content-disposition=inline%3B%20filename%3D%22Vodacom%20Icon%20RGB%20Red.png%22%3B%20filename%2A%3DUTF-8%27%27Vodacom%2520Icon%2520RGB%2520Red.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=ASIAQGK6FURQSVUONYWX%2F20260311%2Fus-west-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20260311T121732Z&amp;X-Amz-Expires=3600&amp;X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDHgYo73Sk%2FzEV3TkC4pnOSG%2Bk9nTOLjO981aw0KdH0qQIgaGU6siY%2F%2Fj0Mi%2Bg0rF1lqxgND2JBKts3rCy%2FY%2BFI5KcqsgUIWxADGgwwMTM2MTkyNzQ4NDkiDGaGRPVpYditUTH2OCqPBVwo4H%2BkV00%2FHQYNyyNH8HC4TkS3de8sQuGhdbE05g%2B6FYbSQmWOUzmn5qydNXHso6u56wP57%2BwGdJQP9suxSsIOabo2d%2FD%2BZXsUFfY1nMcngKPZeOQVLfTv47OA5FOvyfjVDLd6RcG17uW9vC0TelMZs%2BJ3TPAGWl7jsnYcE%2FGovKK2rrC1aAOXQ2rw%2FOYWpQyvXbrE6ABU7rkpwTcBDrDnkm%2FGw1o%2BxfIDtTZuS0zs2mbjCJVVqzE3HGvTzWOqWm8ixL8DatKlnxQ%2BBn9occAE52D%2Fp9mqmZ4Ai3bCWfN1AuMBi%2FcXAQ8B16eTDhe6NaDUF4E%2BB4KS1cGI6RQuMN6Ob6j7yTdeTZXfHJVt4RS96WoEYBxdRX4ISGfKYtbT9oAvLvfj%2FK0hrhDkVQMJlN7j1FoFSHfi3wPH4u53u49%2BaokeV0J67SnARoKZHemx9uL5WrpZYxkJ0tXN%2F7bTENlw5ejDOr1pyoo3oIudW6%2BVZgigJDUH%2Fz%2B8Ud5s%2BuqfItyZKVDGdOB%2Bo90r7CarKMnHVCe7g6r0Ya6bl19StuRwAMfUm5DBNslb12A9TDpJXMc7z%2FFrkw2PsmHPQ16QKxcPAegVpbbbuT6b9j9va9NN7iSdZWsIBULUTYHj9TOT%2BhSrQXpvy2kwQNEpa%2FwqINT4OgwQVVLE9wpENGzC4wveHCM2LQPxrg%2BUoL3v%2FP40Zna29AdgsRksgm9UxrcSJxvwfP8d1T6ic5wXX9y2CxXzr9ptioCoIbsLIWvLe3f1EuAbjE8AjZzk6T9b3vem3n6yuEVHWFPSmXtQd6sipP5YrBxTiNeu4we5WJnnNS8gWIWiknFR2IgqNFib034gDamCopXZJwX%2FMGTLKFGgx7ow1uzEzQY6sQE5ItH5ztF%2F8zqqzQPsaAh6DZi8VfbvUZq%2Bs4CPXT6gD5o6Dx3x0j%2FWdddPbYeqhm0RSMUFIa9WNB925k2yUCyz9zPwB5o1xQgAvG2dfUAlXNHwiVvJ1aiwtlC7K3i3absk7IhoVStkLyP8VyGzJKO46My%2BuFeaJtEpCg3DISJKJ4lkyh%2BcUNvaJrwktT8xuFmZvvve1uIV6PoYqGCjzhZV3npORP7egTwRHx3KjIoS8kA%3D&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=056989be374cb17e8a19744ac6cb71c54f50d81579e98a2fbea8c246e4a3d48f' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[Immunefi] RootstockLabs</title>
@@ -561,12 +568,5 @@
     <id>https://yeswehack.com/programs/digital-flanders-vulnerability-disclosure-program</id>
     <updated>2025-12-22T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://cdn-yeswehack.com/program/thumbnail/f2945295-5edf-4e19-9c37-c934a1913a7f' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; YesWeHack&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[Intigriti] Storebrand Responsible Disclosure</title>
-    <link href="https://app.intigriti.com/programs/spp-storebrand/storebrand-rd/detail"/>
-    <id>https://app.intigriti.com/programs/spp-storebrand/storebrand-rd/detail</id>
-    <updated>2025-12-16T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://app.intigriti.com/api/file/api/file/public_bucket_6d925bd6-f4b4-45fd-8ab0-f48c5b514009-d7162c6f-67f2-4352-aa8f-68266ec8b7cd' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Intigriti&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
 </feed>
