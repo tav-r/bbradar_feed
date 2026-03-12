@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-03-11T18:25:47.117635+00:00</updated>
+  <updated>2026-03-12T00:37:39.957377+00:00</updated>
   <entry>
     <title>[HackerOne] Hexagon-VDP</title>
     <link href="https://hackerone.com/hexagon_vdp"/>
@@ -147,7 +147,7 @@
     <link href="https://hackerone.com/vodafone"/>
     <id>https://hackerone.com/vodafone</id>
     <updated>2026-02-10T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/variants/lj3omk5q0p3lnvwkv06m8gob96dy/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c?response-content-disposition=inline%3B%20filename%3D%22Vodacom%20Icon%20RGB%20Red.png%22%3B%20filename%2A%3DUTF-8%27%27Vodacom%2520Icon%2520RGB%2520Red.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=ASIAQGK6FURQVT37PWQP%2F20260311%2Fus-west-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20260311T181027Z&amp;X-Amz-Expires=3600&amp;X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQD2zZfBpDrpEdjRQpClSU6mXd57PhlNpbIc7ZPpSRJ57QIhAKHr6eYbO0yDu86beyIX0ush25ZYDk%2Bp5WNJbAIhGusZKrEFCGAQAxoMMDEzNjE5Mjc0ODQ5IgyvnxslocvmLlGGy%2FsqjgVXmH94JuKT4aNNHlocm82SWLPtPYzVlL3vIQ5IuBSwr7kZU%2FT3QpQrGWyW3%2F80%2BosTNVs54sKHC4oF2IrxB7kUnVcgZ2pEUtPpk7Icg4mWhx9dPOniyenw50NMlqHrvBVjM0Rp3cxO1GhVRyarc4bI1%2F7n9%2FJMEYW%2F3rhlzY4kft4GsJKFMXYg7BOj%2FhCWZH%2BIj6W4P6mekmpqLMtzeXCHxcHPGHKPoARcKkvMueM30dq7HRqIfRrq6VpaldiJ4OOu%2Fney0XkUHPejbmV0B%2BSN2G%2BBXftIhRdpDY9wGqDaQ6WJe%2F9zuXKruhdJPED9CmFIE8GxNkBRJUiI5d%2Bs6NJRQOdMRGjmKpdVdFalQlUifA1i3h29v1OzjURT0TenB4XZ6paeC3q%2BTETC7XQrvT73M7V%2FdVZwQI2KwVchU4S1HDY%2F2BL7ywV4S%2B5iGZ2GE%2B2w%2BfX05Z4AD%2Ffvw9uY36AB9aYJBqrrImGByVQKe6b81tpUUF61G%2BMGfZC3eBs5nUEyPmpqkS1kT6og752QKqo9mzz%2BR1T6NmDGuwI4%2BiiQiscc810FbnITI6riI4qBJ6m01UbeObkTnRteaOARB%2B1r3U6LGCWI3yB6Ha9VX93j1%2BpL6g3Fu8ZP2cXeWlqYdD0%2Fn%2FrT%2F%2F9xL3z5TbFPX4bkLOhnOJDFNfUpYCgxSHj0UewciG4%2FxJcaLDpq7RwJH1iVGdMxmhTXD0AaT9hq9T7ygMI22KCYz4lxSaCik%2BMsreWFAu5Vt%2BmGerwdI6sHkVzTDRqPOb0O%2BMHHGVOTPP0nRwaWtXjEXz1CPwhN4pI4grLegUKg%2B5OeFPGLg0g03Uk%2BZQl1VD7rRm4ioluRp1BO%2FDAKaCLXfcSBv7lprGwwoorGzQY6sAE35GeSXAkVNmzHWfk3ph5d02LHTacHOqswrkY3g0Vq4LpVZDFtn7%2FGuE0fwaGwD2m9yY1rlNFM1iMVggrybIC%2BHtkOjLdE6TcBLUKqmtScmGc5j3qh%2BOcofqlyKUZcuXIuCErTVENQDNjOMjGmdy7K8e87flyy3AgOyHpSq6PAJaRw91Vih0vUuL3nv5DM%2Bubh6hhJE0ijl6%2BYW7uECwXJt%2FBS1bTcj1gzpcSCaXsMhA%3D%3D&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=133c2e739e0f289fe897aff9351a303710a960bcad078351887c473e5d4d013c' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/variants/lj3omk5q0p3lnvwkv06m8gob96dy/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c?response-content-disposition=inline%3B%20filename%3D%22Vodacom%20Icon%20RGB%20Red.png%22%3B%20filename%2A%3DUTF-8%27%27Vodacom%2520Icon%2520RGB%2520Red.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=ASIAQGK6FURQ4HTJBYES%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20260312T003651Z&amp;X-Amz-Expires=3600&amp;X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJ%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCegxtkizK24AS9QpKDp3vi90sq2sSrCuvkLT5f7xCmfwIhALIA0%2Bfy4PC4OrFp85BXHkY3pqnLzL5bsB6QAcQpO%2F%2F7KrEFCGgQAxoMMDEzNjE5Mjc0ODQ5IgxCe%2FP4mnkWENipgLsqjgWdtlyLqYYMOoPhFChZsHUJt6XdYGQtuBhc0rVLoHM7hacUdxBU4SFrUUK8Vyy0tB7z5xE16dq7AOxRjs7jlt451GUEJgOaOhC44zF9GU7xcnrzMbG%2F9lHMP1eykjqQuu20DyBmbLRqe6GEXZxCG%2FZdOKuBKgHG4qJBOgGl7%2B%2F51uASf6xyq0ctK6d9JzyNdmBf9zaw9xhLwzILPCgX6pl%2BNuvlvWzTOZvYaJ8LDopRmUzekB0vHBPAyU1fbJFdtZee%2FDWQ1uex%2FWSxr9RohsuMCtgylkI7lMGu%2BFW68CUe40KaqbTQfHKcHEIKtJf9M8Z3cmS%2BwF1j2jgZzlBoYT%2B7qn5iVHuBB45IB1fvqF2GsaprJJ6gbu2%2BWt0oVjDeyMJIqebqRtKFPhH5C2pt491ftq4t5uTdEfa2Ucs6zuBQk%2BbRPwcek6CS1Sf9q9l2IXZG89ameh29LNPVHeuGL2w%2FeBkFMm3G4oFjkGJ8H3CI2H0tgFHe5HtH5bF7fAoH6rggsbIFfLz%2Fun2MoB8bYZsMNtzgBrtIQlay2DE78BlY53szZ2WwVxqmKO8Ov%2FZqOvDgSXi6EL0ttDHTbo7gGRaIlyuFEAiebEkoytd6Cx1RvHtJ68d8ngp9ViHo%2BCDadAq%2F0dNbqJ5WR0gijC%2BRPWNMFqhX9fYJqp5PVZzQ6PevAC%2F4C2OuwbHz2gQBGHN%2FfZ1HIAVjbbNgepE2WosgI6dAfU4tvqivgfrpDMdJSedT8vI2yqCxeUdB4Ml7ipvJaL07bxyEVPwnW%2BHs6pURJ6nbSo6j3WfSwm%2Fhppgev9dPlWL6ph3hoLhJgSE1bpirzjiQqelkiTZK7%2B7IX7W9P23zQVRWuAiVb3Rr8P%2F5om4wkevHzQY6sAGeWY6uigjxffT%2Fq3dmeFt6k%2FboGK4WwVzNr1Mj3TmynWDW5AVinP%2FaJ1BAhQToX011IQg%2F5dkTBpWdfWVOIBIwuEGlC6RqUnH18uqsRb47nOltfbHICAJ%2FqE4ED2LdLC48pF6MUQe0hMx%2Fyyuc66fAgo8DklzXHxDMuC9q9mwNPC2hJxsm71mRrh9P7fEdw1j4ZVCePrY5eHQaa35UWIHjzDu4fWexGXwYdC2tILdh5Q%3D%3D&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=f25c3fd74e89a799377e3a9e9e21be760a2dd220113de1a171637edf0eb7dc6c' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[Immunefi] RootstockLabs</title>
@@ -412,21 +412,21 @@
     <title>[BugCrowd] Sky DACH Vulnerability Disclosure Program</title>
     <link href="https://bugcrowd.com/engagements/sky-plc-mbb-og2"/>
     <id>https://bugcrowd.com/engagements/sky-plc-mbb-og2</id>
-    <updated>2025-12-31T00:00:00+00:00</updated>
+    <updated>2026-01-01T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://logos.bugcrowdusercontent.com/logos/b253/5718/657f80d9/165106f96a9871c5b193a2db838a4462_sky.jpeg' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; BugCrowd&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $1000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[BugCrowd] Sky Italy Vulnerability Disclosure Program</title>
     <link href="https://bugcrowd.com/engagements/sky-plc-mbb-og1"/>
     <id>https://bugcrowd.com/engagements/sky-plc-mbb-og1</id>
-    <updated>2025-12-31T00:00:00+00:00</updated>
+    <updated>2026-01-01T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://logos.bugcrowdusercontent.com/logos/b253/5718/657f80d9/165106f96a9871c5b193a2db838a4462_sky.jpeg' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; BugCrowd&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $1000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[BugCrowd] Sky UK/ROI Vulnerability Disclosure Program</title>
     <link href="https://bugcrowd.com/engagements/sky-plc-mbb-og"/>
     <id>https://bugcrowd.com/engagements/sky-plc-mbb-og</id>
-    <updated>2025-12-31T00:00:00+00:00</updated>
+    <updated>2026-01-01T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://logos.bugcrowdusercontent.com/logos/b253/5718/657f80d9/165106f96a9871c5b193a2db838a4462_sky.jpeg' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; BugCrowd&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $1000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
