@@ -1,7 +1,21 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-03-16T12:27:33.855598+00:00</updated>
+  <updated>2026-03-16T18:28:25.263656+00:00</updated>
+  <entry>
+    <title>[Immunefi] Variational</title>
+    <link href="https://immunefi.com/bug-bounty/variational/information/"/>
+    <id>https://immunefi.com/bug-bounty/variational/information/</id>
+    <updated>2026-03-16T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/program-logos/phuongn%40immunefi.com-mbfwfHAlj7ZfZxAFQmzTK.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $1,000 - $100000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
+  <entry>
+    <title>[HackenProof] The Flipcash Reserve Contract Bug Bounty</title>
+    <link href="https://hackenproof.com/programs/the-flipcash-reserve-contract-bug-bounty"/>
+    <id>https://hackenproof.com/programs/the-flipcash-reserve-contract-bug-bounty</id>
+    <updated>2026-03-16T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/69a8998040041ce76d7a0156/logo.png?timestamp=1773670609' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $250000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
   <entry>
     <title>[HackenProof] Dexalot OmniVault DualDefense Audit</title>
     <link href="https://hackenproof.com/programs/dexalot-omnivault-dualdefense-audit"/>
@@ -50,13 +64,6 @@
     <id>https://hackenproof.com/programs/agent-x-app-dualdefense-audit</id>
     <updated>2026-03-09T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/69a826bd40041ce76d79fdea/logo.png?timestamp=1773065835' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $10000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[Sherlock] Current Finance</title>
-    <link href="https://app.sherlock.xyz/audits/contests/1256"/>
-    <id>https://app.sherlock.xyz/audits/contests/1256</id>
-    <updated>2026-03-06T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://sherlock-files.ams3.digitaloceanspaces.com/contests/@CurrentSUI.jpg' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Sherlock&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $41500&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[HackenProof] NEAR Intents: Bridges</title>
@@ -182,7 +189,7 @@
     <link href="https://hackerone.com/vodafone"/>
     <id>https://hackerone.com/vodafone</id>
     <updated>2026-02-10T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/variants/lj3omk5q0p3lnvwkv06m8gob96dy/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c?response-content-disposition=inline%3B%20filename%3D%22Vodacom%20Icon%20RGB%20Red.png%22%3B%20filename%2A%3DUTF-8%27%27Vodacom%2520Icon%2520RGB%2520Red.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=ASIAQGK6FURQR63RQYTE%2F20260316%2Fus-west-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20260316T121107Z&amp;X-Amz-Expires=3600&amp;X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAkaCXVzLXdlc3QtMiJIMEYCIQDqdKpiBJm5HlfaGLWgf7Ebv97f3TRrcD8s7XpCqK64cgIhAOYxl92sMPinpDs6SIcAo2k%2FhFMQAwm3f4CgJ0iKk7OUKrsFCNL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQAxoMMDEzNjE5Mjc0ODQ5IgxS1W%2FQ51uDbsws4x0qjwUTy%2F9OFGUWkaiwpA%2FQ%2Fpd0Etp9dqnugQXRUiwIZR42%2BlYQmXBYgzfqX%2BQrmVGmqJUHsQQf9JgoTgD92fTVFkRGDDvjghzmqm%2FJPVzfYb3jf%2BTq1R%2BOOhEJ5uRMr1CtZBZtvb%2FEAt1A%2B0TWHDsuuiKFw9sQLWsTSW6CW23PJhJ7maUythd3IRQl0Lvpe3AoGz4Zl6VuCL%2BdsTQBbpAcANFkggupKZ39KFFknhN1RT8SY7RE8sCH%2BXfAjItX0c%2Bshzt0nptVrnn2C0bN4nWIsptlPLmOwgQRJVrAjzN1uxQTTEMMzeIRL0pt%2FxM5vfVsx0%2BtPGWn%2FFU16JuTvrBB4A9gEdHM2qCV3KuL4jITGR5O%2BoZeVkXKnRg55DhHiZOcCYuHpyWJSx9Cl2JlzEiOM4jTpcR7rJaQUSQ2SpfEXsa4zQL%2F5yoxyMeMfJyLwm2YL7E5%2FNNN1oy06hK5rw0P1yUZ%2BHIClNjr9q1PGlE1GtzXFoMICu6Km%2FMRx8svpBy%2B7VySgneFWciaxP0Z%2F7X4O94YPyW3eJdMwL5Ck8NIGJqqLY3CJumIjphlg3b6g36YyfMZ%2Flvu84VzbD8bFAAZUOaGL4KpVYmQ4EsY2Ak7IGHU1M5ONc2fg8UYUrVMvKseelQGq17tzUUwz2vtL35y1p%2FeQDD5CsbfpBf%2FsoaKD%2F8NxzT8vCnMpMQdJuZrnvHaF3X0xmmNUigOh%2FguKKZCc%2FivBlUc2IMA3AJjZqcpz68zPB6QRs%2Fmj3nkxrCjrIrQ9JNnHTPL0K7Izraq%2BWTewD553vGdV81UWvVZrFaYrkpKfmdPe4kDONd0ThoKMJx5UgK4SIT%2FCcW6At6Ob58ipG3qYQJSmTBI50It1zEchKfgMIOC380GOrABfZ06wPGx3JxhxbzO8Gs6VqMeLBHDt2ZQ3RlzGuROBHSdDyFrr5bhGhppb2%2BXwfYwaEDOMMXkO64fPKZF8FNxiWwMbYXFjfI30GvHtCqbs%2BIGBMeYhPyOuvwVEWik3OlHe317JKiMnUuzx2NR5ZSmZ1Lb%2FqXYIZ3YFJdzqvAyqf4eX83TX7SL8%2FI0JteiBBAZrvQkgQRvlS8qVoc33Rxw6%2BIG2b6%2F0DVGv%2BwL%2BqjFpfc%3D&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=48507e7f2420737bb18e2cdc577beedbee6ed844259fdd9435806bb316b8ce59' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/variants/lj3omk5q0p3lnvwkv06m8gob96dy/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c?response-content-disposition=inline%3B%20filename%3D%22Vodacom%20Icon%20RGB%20Red.png%22%3B%20filename%2A%3DUTF-8%27%27Vodacom%2520Icon%2520RGB%2520Red.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=ASIAQGK6FURQVMK7KETR%2F20260316%2Fus-west-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20260316T182050Z&amp;X-Amz-Expires=3600&amp;X-Amz-Security-Token=IQoJb3JpZ2luX2VjEA8aCXVzLXdlc3QtMiJGMEQCIH%2Bf9ZebEBlIQKXNvT5DI816DCCeEUp%2FrXqEYACYVQ6wAiAeCO%2FtsT%2FlOlWtit1SXInsTca5iip3Ir77L0WD6Z0kxiq7BQjY%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAMaDDAxMzYxOTI3NDg0OSIMxdYxNu5crpJ8d4jhKo8FWvC%2FvGH8%2BH%2FtVgERvehBFKpt1lVP8imiQTsrIkjeLw4V9AlEBZQCtUkzD5naHy01H3hps3XA%2BY9jemrDUfJYPi67A6xAl%2B4pUUwWRX8SjwTi%2B8MQm%2Btg9TQXbAyL3%2FqGoNY9FolnqstzPfYZcwvHXaYsvWbGMVmMabLPvR2fJWJxdCrcrrbSkRbYJ8qOuj4LueXm4G%2FvtTZn%2BJX5IlS3CUrQ9SMuT%2Bpi4AgK%2BLIMOwZ%2FiS0jcnASIPQuv1fMnZCMbpZ9tDslNeANmTrjkNaRuo5jH9A0w%2FzmNXtvBdApw%2Bx9qH%2Bq%2BFCQjDxTdv1wJuxUCGoxPcYI6tw502YgiCkb95F8Mi53tmTlBY%2BimynM7vruoH9YIl5sQAdiu0vUS5YLqMpS9vpUJQYRnJQUOAtfHPJ3nkLhfDQLA2Sqa6MIwWpT%2F5%2BLL3J6MkcaWxo4rG0qkqzhtDLq45vwmg4vxlVKLY3udDOOEG3quEUk7edau8G701RPJkumFxtWSHnI47pMMkVw88TMzUXRTYLDDrMKMCJMCVZI7%2Fus1mwVtt0jVifVnyOcu8A5yX5SEjlDJgv1N8GrtvFRWY3lsOJbuCzixEk50aAGNELjy24VUFZfMROUAAQqywtMJVhAbBNvBzN8ljQCSrEKRExJarlj85x5Owlqc9leItD%2FfESzmMGihKQaoIc8CvbZv2t%2BIkItYSxOuLOcTBuMf8lchM27%2FaxTgMlgYvVS59pVZDNDPV%2FUlRvdDyhQEoDVYiJ8ybwyoEzuDV920vXw7JvgIeWw72n8FSPyQ5Dc8UiZRqkx0DamLlUMmjsDHNaDNBh3R8Bag5Zzi3171WUaLQNNGRXVQHuJbR9EABD0ljCMSB7MWRJ1vDD9pODNBjqyAYzcPk%2BhvWPBNw7rTy7CgIpBGVtOb52YI05Jt1hdBNeVJvT6px1bLKmHG%2FMy5LK8Mt7PiBYi8YIoIczZIuHf2BUG%2FrOB1eVcHPjRysrLFvV3eCL0PGdN3Fkq%2FJM1%2FZJU9tk7HNgj49%2FTZ%2FpjeelwNOrZJ1fndaTePckt%2FcalXEa6rJhmgh4Vgo2h3iUX9fXh1W7Ac8OShRuJZDLd4uvzjQPq%2BqVZto211YJrtqpOU5Qpe2w%3D&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=b359a622a6ec1555642fd9e5f0d431be6d3b17acb539a483b0d36c7e83f008f0' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[Immunefi] RootstockLabs</title>
@@ -554,12 +561,5 @@
     <id>https://bugbounty.standoff365.com/en-US/programs/mx_vm</id>
     <updated>2025-12-25T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://api.standoff365.com/images/200_200/768a4e15-fb10-4e8b-8dba-dacdafa615ea.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Standoff365&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $6000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[Standoff365] MaxPatrol O2</title>
-    <link href="https://bugbounty.standoff365.com/en-US/programs/mx_o2"/>
-    <id>https://bugbounty.standoff365.com/en-US/programs/mx_o2</id>
-    <updated>2025-12-25T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://api.standoff365.com/images/200_200/57ef1151-cfd3-4884-9ac2-74b81e5674ef.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Standoff365&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $6000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
 </feed>
