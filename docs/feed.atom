@@ -1,7 +1,14 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-03-27T06:35:25.809928+00:00</updated>
+  <updated>2026-03-27T12:23:35.248691+00:00</updated>
+  <entry>
+    <title>[HackenProof] Overlayer SC DualDefense Audit</title>
+    <link href="https://hackenproof.com/programs/overlayer-sc-dualdefense-audit"/>
+    <id>https://hackenproof.com/programs/overlayer-sc-dualdefense-audit</id>
+    <updated>2026-03-27T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/69bbd0c140041c000e8b5f90/logo.png?timestamp=1774610537' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $6000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
   <entry>
     <title>[Cantina] Reserve Protocol Bug Bounty</title>
     <link href="https://cantina.xyz/bounties/3709ca85-4050-407e-9b36-51f5d5ea9b00"/>
@@ -14,7 +21,7 @@
     <link href="https://hackenproof.com/programs/estorm-sc-dualdefense-audit"/>
     <id>https://hackenproof.com/programs/estorm-sc-dualdefense-audit</id>
     <updated>2026-03-25T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/69bc339240041c000f39a450/logo.png?timestamp=1774432750' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $2500&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/69bc339240041c000f39a450/logo.png?timestamp=1774610015' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $2500&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[HackerOne] Clear Street Disclosure Program</title>
@@ -287,7 +294,7 @@
     <link href="https://hackerone.com/vodafone"/>
     <id>https://hackerone.com/vodafone</id>
     <updated>2026-02-10T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/variants/lj3omk5q0p3lnvwkv06m8gob96dy/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c?response-content-disposition=inline%3B%20filename%3D%22Vodacom%20Icon%20RGB%20Red.png%22%3B%20filename%2A%3DUTF-8%27%27Vodacom%2520Icon%2520RGB%2520Red.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=ASIAQGK6FURQTFT73CKJ%2F20260327%2Fus-west-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20260327T062227Z&amp;X-Amz-Expires=3600&amp;X-Amz-Security-Token=IQoJb3JpZ2luX2VjEA4aCXVzLXdlc3QtMiJIMEYCIQCEohn9PKdmAWeIz58MAareCOjpamu8RxkBp97EZoFJAgIhAMW6uYMWUjIEuSON405egLBZsupyjDny1XLI1Qq6Ev%2FVKrsFCNf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQAxoMMDEzNjE5Mjc0ODQ5Igzpu488vRs067M9fy0qjwWWOoWMdxeWB0dIhkXI7N0F8x1QPyUJ0p%2BxUnJKox1mqGhniPb1iJpMQ3Q1FoKajZkawgvQeE0djUE8EKKrFlLDC5I%2BWycHptU3MqFEx%2Bf0XLMgzKSrH28LuH7GxUABYTLUpOj%2B%2BP1FlWV45hIaaOleKJnaxDCNSKQ7tHZZvDiI1YVQTCvPRUo36c2fBIC44%2BrxbUM4SSqFK4fPr69NMAtAng%2FSWw3YdP0Iwr9WfB8uh9JcCF4l5q7QQbhHz8EaODkDCzita4S%2Bx3gx5pAj33MDccxZQZDbpTVRJQBR7pOWwYlRrAHMkIMSPiyMvi4hZuDaFqOSPvsX1eeVPFHt5saNzd9yefphogOiIak8iGaD9k5ggQ1%2Bx8dGkU1WmZ%2BgtiROHGge0YB8vVP92B3XGo9iRWMkHP9EXeilJ84ucDijkeHI%2FWfr35pzujmHgEkl1Bd4uDoLdVN9RsJPcaN91Zokk7ZWabBXxuapQpkVAT1lbx%2BP6z2iXXP%2FFtl4eZBbR9to1%2FbsRbtoQuLQP109NI7GmsrAE%2BDoqGwpFu52N7IHIrhO0b%2FFkHziU9vtA6oJli0GAiTkz1kKScyzw526Xzd8GaX0FUf5hROZLKI2KBvPDUG7sM%2FDo3jM4CqlUlqyJvIWBeB%2BpF2n1JDbwjd4DvadRsVtLm41945ERF927ZG1ZFVd9eRZQAdkh8K6sYn%2BzLwx0dDGSYk9nIK9nkqQQZdqLUTQtFyRokwLEBeuxmsr60CKmBqxXBbHl3%2BbI4lel02JB99lXvR8rkR8aS5IT4SZub5i65TD1ALAl6HlJTZlgV1WXkuSiJc8cORIA4Ny%2BRthvtRxHA28xPX277SErPa9Dae17IafcokXH9c%2Bn6HiMK2ymM4GOrABzh9cwtlWzB4rGNHF7if7%2FjdyZHrv6jTmHCXopoaylNznrY6wsqZaoivqQ58AmYUlYGYUzzOCUioT%2BUMblozTSqZ%2F6sSB8cPQXNUeQ5BWmfuJbx4ldpCfWJ%2FGwK2kVNAe5Wo1eAm85EVVgBD73CS%2FBqX%2Bop3yYdU5Z6VJGTe6qO5Q9kWYzTwZXH8LtSQ3BOP16JJ2L6eiDr%2FC1HrfNLuaq4lKZQBSfDXqVNBTQ6TS9CA%3D&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=b891b40ade2c3b17ea407d8fd44ef936dbdf91202370f41e3dd267bfe684b588' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/variants/lj3omk5q0p3lnvwkv06m8gob96dy/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c?response-content-disposition=inline%3B%20filename%3D%22Vodacom%20Icon%20RGB%20Red.png%22%3B%20filename%2A%3DUTF-8%27%27Vodacom%2520Icon%2520RGB%2520Red.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=ASIAQGK6FURQ6E4QCHRY%2F20260327%2Fus-west-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20260327T122303Z&amp;X-Amz-Expires=3600&amp;X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBIaCXVzLXdlc3QtMiJGMEQCIB2NS2YcbgSBoFAqjSPFY1EtRsjLGOoqitQ4sQaNWIN1AiAiswzF0K%2FsN7rZwkodBIXJ4MGxDflN896FoJCus6%2FjKiq6BQjb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAMaDDAxMzYxOTI3NDg0OSIMPxA9%2BKHMeu3XibTJKo4FxQ9Xf5JBLFOJ0DMtIhJTeSIho69ZNe1bvaMEtSrSjoeFHPQ60TUpBFrOWjKrSeRhd7aU8GWulS8lfSqHX8AIDYdrqSmyXtNz3snsUrgrIG0iOnAJzkRoBpF357tK5Z%2Bi3aTXLcf06SUtSJl9pt%2BrwH1BoIud5VYTDmpYGjvLeAx1eiSH40otbO%2FW9zBFoJ7YA4daeEPUnxwl0Hj9c8KkBhAbaTSYfz2jJ95k8FsbX59R3qrKFAdS1fl8Lg1w3cGXz6DicWSUCNDfiQ441JcCkIWq%2B3fLtmbPGSlZ%2BUCGHQHT8WBTZ5aBPy0OkqXR%2F35hfaUrI9qkKVYdfMGYIuCCzbMHy%2BWi5ODnG%2F9rx6oAVLjLqwAUAAlHnWzh24lMgI0p5JVtAkr9l5y8Rz8qy1ASOjet4TwIKaA0ZkEEqsjX5Mx%2F8RKTfNEiH2O1eUXe549i8cJZlFFDNv8Gk%2FN3n7HV8m%2FJm2Vimz95P5WbfGA064iPqs4bsLC%2FIa9ruj9%2FrzBCZHAv7y0NU1IuI9ps4KCKYzd0edwu%2FZbwz8NntpKcCIUySGFyPqGORAlFk7HYvePeL72Fb8Iu2ZLMb3mc8OfXRDBZHkJk78BeshU2jyB9Kk6ueXJVGD06VJMxEzgsWHmB%2BF8Lln6zGGBGLQEhCfhGmB7XbbvFq5QPJ27VlNx%2FpobEpiqya7cJwUJz9GUXeLycGFBMdxFmeEQSPfGyoKkgF%2FDj4D4QkUHMOqjJVZ%2Bw2Nc8G0cgD1Zo%2FO%2Bu1goYyAeFr1VwQwfEML2XHgDXFU5h%2BFK1M6H7OSsxnWN6TNILamqo5YR8BZsk3jqgCo59YFupz5dEFI2hIQ63PHBh53E2vH9nZf%2B4bEtSVYyHe2IIMPysmc4GOrIBqwck%2BxLnyqO6mo5n40WDvlylFLOmmEFJDFY6ebZ6JxX0rLXVLRx7hb1lXcVelL0Zyzhp0L%2F7fkyVB1bg%2FPuDSMGfNwgRael126hBjS%2BJ5586ODcHIodkQbmwSc4Nxh84LS%2BafubIY7Vx2acx4aoEbYZc8%2BZe9Lfu0KDURnPwLiW0FgV41PyaAPjyg3ElzMGCFcFzqTK1Th5e1JSSKOWfUbr2OmrBRS8%2Bk7R0qcYp%2B92z4A%3D%3D&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=7379357141cc8fc225800917d2144d3b8c0365f30e3c8ed68f57290f2b2b89ee' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[Immunefi] RootstockLabs</title>
@@ -561,12 +568,5 @@
     <id>https://hackenproof.com/programs/whitechain-bridge</id>
     <updated>2025-12-29T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/695248ea40041c000f7815a2/logo.png?timestamp=1773906871' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $10000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[HackenProof] Solv Web &amp; Infrastructure </title>
-    <link href="https://hackenproof.com/programs/solv-web-and-infrastructure"/>
-    <id>https://hackenproof.com/programs/solv-web-and-infrastructure</id>
-    <updated>2025-12-29T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/6949167440041c4ba46bd5f5/logo.png?timestamp=1773993873' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $100 - $20000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
 </feed>
