@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-04-01T00:53:31.822907+00:00</updated>
+  <updated>2026-04-01T06:44:55.893118+00:00</updated>
   <entry>
     <title>[HackenProof] DeepFi Trade</title>
     <link href="https://hackenproof.com/programs/deepfi-trade"/>
@@ -148,13 +148,6 @@
     <id>https://immunefi.com/bug-bounty/variational/information/</id>
     <updated>2026-03-16T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/program-logos/phuongn%40immunefi.com-mbfwfHAlj7ZfZxAFQmzTK.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $1,000 - $100000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[HackenProof] The Flipcash Reserve Contract Bug Bounty</title>
-    <link href="https://hackenproof.com/programs/the-flipcash-reserve-contract-bug-bounty"/>
-    <id>https://hackenproof.com/programs/the-flipcash-reserve-contract-bug-bounty</id>
-    <updated>2026-03-16T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/69a8998040041ce76d7a0156/logo.png?timestamp=1773912989' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $250000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[HackenProof] Dexalot OmniVault DualDefense Audit</title>
@@ -322,7 +315,7 @@
     <link href="https://hackerone.com/vodafone"/>
     <id>https://hackerone.com/vodafone</id>
     <updated>2026-02-10T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/variants/lj3omk5q0p3lnvwkv06m8gob96dy/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c?response-content-disposition=inline%3B%20filename%3D%22Vodacom%20Icon%20RGB%20Red.png%22%3B%20filename%2A%3DUTF-8%27%27Vodacom%2520Icon%2520RGB%2520Red.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=ASIAQGK6FURQU2AZPSTI%2F20260401%2Fus-west-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20260401T004207Z&amp;X-Amz-Expires=3600&amp;X-Amz-Security-Token=IQoJb3JpZ2luX2VjEH8aCXVzLXdlc3QtMiJHMEUCIQCeeZDdCOtUEEtKdPu4u7BqNbRZvAcZmG6J4gbXmwetyAIgAfURUSpMntbJ%2FFmyk%2BQgxu9lwKRAYB7a7R3IlXgIuyIqsQUISBADGgwwMTM2MTkyNzQ4NDkiDNIQHArav8eeX6H2uCqOBVUsaMjXsehKBniDy%2FwOophlt69K5InHUV%2BRTFc%2BVtwbzoFEJU3fSfTD4CW4wmxbB%2FqzOo6AtdBif3M7iS9nDUXP97usBtSw440Fk%2BaJCdVYnHnDJpyegjiF08dCREIOIOMe6Zgn27Qs2m%2Bd2C6xNJleCrsIXFNPMfudQAiDs2U0pECNd5J8Yn1IVnEl5Ib7WIYWoxoX6EGQKqiKdMDc9zdA7z2jGRtiJjcPJCU7gusJ124KxkqEedEjrDBe67I25FBetdIE430MMfM3pYoihNEhI3PyVkBHGM94h3TO2A93ROn31BeTzBHx6vemdc6JS2ZvDpXwiWx3PhT9wwxTUWSHGt4U4y17kMs2hCuNBgx%2FPi1fO4DgRbiv9BHtBDIV7cwjDfprPxxTTRlNW6o%2FmYTi2NsKX%2FALo%2BbCw0jTf7yKg1e6HEWlQG%2Fqs6OwQIhXvND5JXR53jdQaT0CtDhiOO3huDVzlgkZSzTJevRE4L5%2FYROSEr5JCq1w%2BaJiy0kOvjwTt4pySOONhBknJQRE68lHQysMIdQ%2BLzdHRLQoF7La8fBSVFVziN7G%2FZRYwR8eELJDCS43zyqoCx9Nllo8L95dsQ2ybgrSjHQTuvwHGEJcYyJc894xY28pUe8jA0Ipa5uUMDOtotT5aNJr65jAjBShbSutmuqDDVh3YJYwJFQT1SIp%2B%2B8eh0Rr6PweZ62XcChT12l%2B19lPK3DSL4rwtDT8D6Yf5V%2B8z57KC4l%2BfdZw2fjXIsFvbj42O7HJ1DVp8vroo6g7mfniUGQJ7Ygh8xZN2qqKbHZFi1TYLX2z%2FJWZbVHDdilc%2FTwhAL6GS6qaxZMEuKX8DMlXSGC%2FNRN%2FspuGWXGN9elDvj8xIznwnjDkqLHOBjqxASoLP5zEV7bNDmPYy99tckMTB825bWsz4%2FrWlDMHeWXEYqyVkZTu%2BKWmT015vYf371Xt%2BkG%2FsbC35YtixHYFWmSgXqx5dIAbz%2FKlyx%2FwOYD%2BfP4pwE5UQQOCzhTbBsTHpwTNhYlcs0H44zAW6kQ0Or7e%2Fy68hVnSb6XtsqyPfjdjSiwPR2PmACKJ8b6b%2Fah4noTuqlDD2g3XwjDS3UWBpSrrUKe45zCB7fcCOh7I6Okd5g%3D%3D&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=580f09cee235f303c0467a023d69b813dc3bd4443402f50161a6d8d69c47e69e' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/variants/lj3omk5q0p3lnvwkv06m8gob96dy/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c?response-content-disposition=inline%3B%20filename%3D%22Vodacom%20Icon%20RGB%20Red.png%22%3B%20filename%2A%3DUTF-8%27%27Vodacom%2520Icon%2520RGB%2520Red.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=ASIAQGK6FURQVDVZTJRM%2F20260401%2Fus-west-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20260401T064342Z&amp;X-Amz-Expires=3600&amp;X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDuKK79ge1vR89t%2FQmu%2F2dEyL25qTc5JdKw2uqCvlXMXgIhAK5dTwAQDA7laRKu2ZsoAhKLHcfePam1eHyOIadJzJrNKrIFCE8QAxoMMDEzNjE5Mjc0ODQ5IgwjZHyZ8kSRq7dAQicqjwU62tDx79ZRJo0qexvRh%2F%2Benv9hduV6dl6PBeI%2BlhxtAqthmp4X%2FlWcY8HaA8QyqB3XDClKwvUrQtY8Vk5RJQH79Hs6V1vW9EPXFieT9KKXmWZfu8xi33NiPKBKQI6gbK3NusOi1n7Uo11fT5b9fpkCl26MxPRTatvk1xheLWPcNbPaCOiVcbCRFrpZu31s4cn9lczc6EpI035n%2Bc6dDE2Nys5IpZEUyOqHIpAEwvcVCukThqiFIa9VzsS63evzi4s9mVU4L1cJ6WimurRlecky8V5H0ZDz6GlyhZgfhZmFkhyilWujTdq2Xy9RTHb5bqtwEn2l%2BQUPvArKl2OYuFkRF68NHeN8bl4xNJzpS9qez3RxetBXSvVpSESJm4sGJi3zrKpNDXkyVuwYxaSYL1N2xV76YEVRE3uDaqR8hjDEje5cRFgMjswUFp%2FiwvHAtw9mvNfirs6oaRhaxJPF2taK41KwkLhfAZ8aePnJg2rMyDbKRG18m9BE3k4L4Z3hJrEGu9043G1i9eNsvvRPfaM2dR1EmbGfuQ9J%2FPVLtXlxDFKSyLwEr8OLLf0S4uiEo08QRbaPLR%2FXXNenKMyzLugKsE4%2BxUfFlK65l6lQpWjdBMIlfXXPeemse3bjHo1cilYSrmj9ApQL30EHqkA2ao6DyxDQYtTRjsqYFMIYVtVbWE4E83Lwr6SJu7RFsgkl1H8%2FbbcMKgRy3lGLMffPWAl6CDZiywT1KTqrbdTwU18Q9Fc5ZijmGSALSRIozrtvadgh2C7worulCeWu2SwfXMEfZnZhgD07PlgtCgIPCAFE236cBeG16BLrFyqjswCgD1Oot5uW5cqT0XmZuSzneayrrW5S28CggTKA9nWAwCPQMM7jss4GOrABzNxRzziA1mYNVsvD1g6q9nZMSPfHow2do6eLcEzctCknOvgEusPfTKSJcU4WkqrBBK40ZykiBq%2FoQwWQxI7MeVc%2Ffh3PHuU4c5yaRU1w1gLcdR%2BC215QafMlDvdsTfE0nIERAvkZ3qQmdk2c2WVjPpOJUHoSUYgEPGz9THhh05FIli2bziF1GPdZ0RCC07BpDWPt8IfhQ9o2rHua7OKlBJ%2BYgRD4PHimF0FisaKywsM%3D&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=06219036e2c1c3de1839c3cd202ca4a51c58ff00ecf3c8746832161f6f966076' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[Immunefi] RootstockLabs</title>
@@ -575,5 +568,12 @@
     <id>https://hackerone.com/mufg-vdp</id>
     <updated>2026-01-06T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/zhtpm9mkcnuvb50jwvasq67e4hcp/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
+  <entry>
+    <title>[BugCrowd] Sky DACH Vulnerability Disclosure Program</title>
+    <link href="https://bugcrowd.com/engagements/sky-plc-mbb-og2"/>
+    <id>https://bugcrowd.com/engagements/sky-plc-mbb-og2</id>
+    <updated>2025-12-31T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://logos.bugcrowdusercontent.com/logos/b253/5718/657f80d9/165106f96a9871c5b193a2db838a4462_sky.jpeg' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; BugCrowd&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $1000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
 </feed>
