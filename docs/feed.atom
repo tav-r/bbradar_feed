@@ -1,13 +1,13 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-04-20T18:29:44.231646+00:00</updated>
+  <updated>2026-04-21T00:54:23.402006+00:00</updated>
   <entry>
     <title>[Immunefi] KAST</title>
     <link href="https://immunefi.com/bug-bounty/KAST/information/"/>
     <id>https://immunefi.com/bug-bounty/KAST/information/</id>
     <updated>2026-04-20T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/program-logos/phuongn%40immunefi.com-UVXxK0PdibnbErA3g3VQn.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $50000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/program-logos/phuongn%40immunefi.com-UVXxK0PdibnbErA3g3VQn.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $1,000 - $50000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[Compass Security] CH Media</title>
@@ -70,7 +70,7 @@
     <link href="https://immunefi.com/bug-bounty/edgex/information/"/>
     <id>https://immunefi.com/bug-bounty/edgex/information/</id>
     <updated>2026-04-07T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/program-logos/phuongn%40immunefi.com-RO0-XrelZ1HeX_pqfcnUx.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $10000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/program-logos/phuongn%40immunefi.com-RO0-XrelZ1HeX_pqfcnUx.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $1,000 - $10000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[Cantina] Perena Bug Bounty</title>
@@ -203,7 +203,7 @@
     <link href="https://immunefi.com/bug-bounty/variational/information/"/>
     <id>https://immunefi.com/bug-bounty/variational/information/</id>
     <updated>2026-03-16T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/program-logos/phuongn%40immunefi.com-mbfwfHAlj7ZfZxAFQmzTK.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $100000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/program-logos/phuongn%40immunefi.com-mbfwfHAlj7ZfZxAFQmzTK.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $1,000 - $100000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[BugCrowd] Recorded Future Public Managed Bug Bounty Engagement</title>
@@ -259,7 +259,7 @@
     <link href="https://immunefi.com/bug-bounty/ern/information/"/>
     <id>https://immunefi.com/bug-bounty/ern/information/</id>
     <updated>2026-03-03T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/program-logos/sebastian%40immunefi.com-nuTzf1b4woGBcUgNulLMA.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $50000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/program-logos/sebastian%40immunefi.com-nuTzf1b4woGBcUgNulLMA.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $1,000 - $50000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[BugCrowd] eToro Managed Bug Bounty Engagement</title>
@@ -294,7 +294,7 @@
     <link href="https://immunefi.com/bug-bounty/alchemix-1/information/"/>
     <id>https://immunefi.com/bug-bounty/alchemix-1/information/</id>
     <updated>2026-02-26T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://images.ctfassets.net/t3wqy70tc3bv/1n32B4eQNgsTaCpybMEudK/57f8ae5777af97e0e7a91f4b2ec17517/alchemix.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $300000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://images.ctfassets.net/t3wqy70tc3bv/1n32B4eQNgsTaCpybMEudK/57f8ae5777af97e0e7a91f4b2ec17517/alchemix.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $1,000 - $300000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[HackenProof] Multipli Web</title>
@@ -322,14 +322,14 @@
     <link href="https://immunefi.com/bug-bounty/agni/information/"/>
     <id>https://immunefi.com/bug-bounty/agni/information/</id>
     <updated>2026-02-18T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/program-logos/sebastian%40immunefi.com-B5uBh4kgyZRIozvpWP9RK.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $10000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/program-logos/sebastian%40immunefi.com-B5uBh4kgyZRIozvpWP9RK.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $1,000 - $10000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[Immunefi] Royco</title>
     <link href="https://immunefi.com/bug-bounty/royco/information/"/>
     <id>https://immunefi.com/bug-bounty/royco/information/</id>
     <updated>2026-02-17T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://images.ctfassets.net/t3wqy70tc3bv/4Hh4QPr7P8sC92rhy3vTc9/ef9957de799e11eb119a3d25f4db6d00/Royco.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $250000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://images.ctfassets.net/t3wqy70tc3bv/4Hh4QPr7P8sC92rhy3vTc9/ef9957de799e11eb119a3d25f4db6d00/Royco.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $2,000 - $250000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[Standoff365] Логика Молока</title>
@@ -343,14 +343,14 @@
     <link href="https://immunefi.com/bug-bounty/kleidi/information/"/>
     <id>https://immunefi.com/bug-bounty/kleidi/information/</id>
     <updated>2026-02-13T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/program-logos/phuongn%40immunefi.com-8B83Ue-aQ-fSvpU2qSF8m.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $50000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/program-logos/phuongn%40immunefi.com-8B83Ue-aQ-fSvpU2qSF8m.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $5,000 - $50000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[Immunefi] Hermetica</title>
     <link href="https://immunefi.com/bug-bounty/hermetica/information/"/>
     <id>https://immunefi.com/bug-bounty/hermetica/information/</id>
     <updated>2026-02-12T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/program-logos/phuongn%40immunefi.com-tAU4WIInnssdEbEADCndS.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $100000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/program-logos/phuongn%40immunefi.com-tAU4WIInnssdEbEADCndS.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $1,000 - $100000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[HackerOne] Meesho</title>
@@ -371,21 +371,21 @@
     <link href="https://immunefi.com/bug-bounty/katana/information/"/>
     <id>https://immunefi.com/bug-bounty/katana/information/</id>
     <updated>2026-02-11T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/program-logos/phuongn%40immunefi.com-IIZaco2x4WFmJ9SSnn33a-UJclQl91ZY5ZpTKCtaGRU7vOEw1kn9.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $80000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/program-logos/phuongn%40immunefi.com-IIZaco2x4WFmJ9SSnn33a-UJclQl91ZY5ZpTKCtaGRU7vOEw1kn9.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $1,000 - $80000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[HackerOne] Vodafone</title>
     <link href="https://hackerone.com/vodafone"/>
     <id>https://hackerone.com/vodafone</id>
     <updated>2026-02-10T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/variants/lj3omk5q0p3lnvwkv06m8gob96dy/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c?response-content-disposition=inline%3B%20filename%3D%22Vodacom%20Icon%20RGB%20Red.png%22%3B%20filename%2A%3DUTF-8%27%27Vodacom%2520Icon%2520RGB%2520Red.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=ASIAQGK6FURQSX7L3LTF%2F20260420%2Fus-west-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20260420T182229Z&amp;X-Amz-Expires=3600&amp;X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFgaCXVzLXdlc3QtMiJHMEUCIQCkfVEyNX8SNpnOYvVTB2D1nRMryzkl3pAc6wLnQki0%2FwIgaoDrztkY629t2Sw9Zj3%2BkKcL5WvI5NC6sbKLG%2FiaDFUqsgUIIRADGgwwMTM2MTkyNzQ4NDkiDObesnSgj%2BXwMkGpXiqPBTBDm2S5zoEw6mwLZ2oAFz5ttW%2BV32z%2Bedazcs83DmuvxKN%2FQS5r9t4BmS0ztWjvmrVXnJaCONArnq3d7VB87t5ctGIEd6o1i1p0LxBNcZirfj91aREzqMx7ddoW7VEEAaKU92V5PX1Oeap3Ap53z%2FrLhSo0RSBN%2B9jYjNutg2az8mibtq8sZkgZXUpy2ZmyxTeoABVuDuWxJ54MzkF7iLnkZRozyVyADSsqWYkCy0evr0gJq1vu0mxZU84ZimUrm8qHENbSDAGPLhdsZb8i8o7ig%2Fa3XH3GceTzzakF96uV2owSwW5Sz3hTxZ9ymk%2BStutJMtpsnliCihZItPDV8AVnTJPGXL%2BIZ%2Fe8pPGSpoVRTu9UJv9M81ziKvbGNFwta%2BrME58BvshYp5VDDVEXnjX6%2BYZmhU1AC%2B0T4O1tnPH5x23CyRFUYL%2BUt5AGDqb%2BkL8UhFLrwiNK3bJJED0yjLE5Ceq79rtyiwX%2F6qtcGyihfIqAwdzmuU06Y8KDyliPBiWZjGzTgkacTh%2BtRJzWesLD4tcYkOol%2FxMbDTPxkX4Ah%2BWfJPLbxYtWZZ05Q2s6CpovhE91MCcPx4iYxjxPj6Ky2h4kTUIHFtQYC%2Fi5GzYs11G3dyFuPLr%2BuSisP6WyIXjKuO77ycOIR9Ep9iqqQZleidSEj1PRwWpEAHsKhJ3PAFp%2FGMw8M820M3Pa8a%2FBCmA%2FOUqgzr6aZlfF59xz%2FlV4IJ5BLuDhMffZsrN0Opxrbo9zvHYOzFtIzjN80BujF4AyPhmFdKbGxmd9HZc6FJQvZlwne%2B1GHQIBqeexESNbu1JAO4ZSA00yS9XjibbN7UQSX6YZxV4XDWvw16OfIyjuzuLR2g3XrxLzFS71fYYwipKZzwY6sQHH7g7kCz%2BMxJbNH5tLCLNQ2MjAaaaMTY4BAl3RxEZLeC3qsAfxD5K8RAGwQXsjegibktM8F6%2B%2FS%2By7mdYaYTrDI%2B5DWHYl9uB7WzIz70fs%2Bc5Ov5ESdQQdEU7o8wWF6zxhympKkmiWo%2F1tRvz6iAelLDdWJTKh9WdzuzCylgg%2FY6kBeaXgvvB7Jo0eKP9b4PwXGr%2BHeDxbztZhjILrpmoUOd3%2BRR6r0QR2AamwCLRTkoY%3D&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=b5d28ab0df8591c77c024933853d94c413e61c156da287fdfd6251b446499386' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/variants/lj3omk5q0p3lnvwkv06m8gob96dy/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c?response-content-disposition=inline%3B%20filename%3D%22Vodacom%20Icon%20RGB%20Red.png%22%3B%20filename%2A%3DUTF-8%27%27Vodacom%2520Icon%2520RGB%2520Red.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=ASIAQGK6FURQ6KWUVENL%2F20260421%2Fus-west-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20260421T003801Z&amp;X-Amz-Expires=3600&amp;X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGAaCXVzLXdlc3QtMiJHMEUCIQCbkPriQzCwH2FNGP9Mk8BxLyyjIujw5ewjrsmOnCyGswIgMilMQlD9PF7iMHJbXihtk59rZQxDeaWFhAkvFEv9IS0qsQUIKRADGgwwMTM2MTkyNzQ4NDkiDMRMm9uH8f7HE%2BIzQSqOBW7bugyecr4RMragAviotYKuRS0q0G2ALxEhkQUkyfQUjwu2otqbo0K6HZZQxSyXFRhonoUkLVhuD7ihWw9o6FLs7R8aBoor1ncaHEa0mA03zIg%2BK7sLcSrR3j2mzRMqAbdu1JFNOf%2FZ2dCawnySbkap%2BMTKhsUWMGC6y492kHgCMJaaRGe8%2FUWxAgdO6jPPiyoqrgKMff44EvuEmqMinScICzrH12%2BLr9YUi2ZeCagz3Xw8cuS%2FBb7aDaSSxtdllasLjHsNdGjzV2pWmcUY1F3kGlyzfmUSQTXesg4OUPbHkmvSzZ5cdhgqcKkFrc1lwx%2Fl%2B%2FNPVrvB1C6eqxIHPeGdMpOi3yDF%2B5TgeicXphNnHXu7SNm93e2tS9i3kXgQ4pRS5zZ%2FirmmLeqN1Ik%2BDNNJLRxzQf1yUFHTt3m6o5jK9GTLiD0o7JNwJyQi2CNpL5JQy%2FoSKPTvzxnwee%2BxJ3WpZTz2kYyGaeSchZnJnC76zvA%2BOT10BIWGSIWlxUwMnanw%2BDfKh2E09G4NussJhP9m9CLH2sSQbBKnx1md49vSwRth0YdLVkrMm5vlu%2B%2Breq%2Frm7MSojleXpTE0LRXV6MtEYfgucG2wXdY7oqAbSmpcGcu2Z8%2BRxqPahyabKkUqHlU5U12Pdn3bviViQOcRfdGqzLrLu5IGt6ghYbwL1v8xiHcjuv87NduwMBivgmGqwQe0xhKsc7FH62nFRHoR6SoCQhqhg6Uzf0LIx663etwQvH03q0KV1KDK2gE2OqGEgAViXR3Q5DmNb1z2JV1xbBA66ql%2BiBpfw97fIAF62XsZsV9Sfv6LlWseLJ5a78%2B6KkXF8lnDXJGBOLUip6gh684a0ylo2fiABo2r3aY0jDf7ZrPBjqxAQiow2w392B9oCOSjXopWIf3zljXGAlAn9oMEMpbxAYOcefsg5tLTpRuwvTNbUeUYC1S8d1x4rEnvb%2FFQkxdLpodlfwaQUNI1rnfJIbaLwtlPdlJUCGP%2Fiyb4aKN8aEQiYLRf%2FfJo1Dt81YrZoTUJPpwq5t4OGMdJXSA1IMMuXkxzyOyJGyFFpfUEZYd0R5te4Wyv1wdtUyNgUfxGmJC43lMVk5Cg1r6RAAyBkQtfR66FA%3D%3D&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=c0118ec1b820ae68109500973517ef1bfe4eb46c7adcdfd90697ac146351707d' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[Immunefi] RootstockLabs</title>
     <link href="https://immunefi.com/bug-bounty/rootstocklabs/information/"/>
     <id>https://immunefi.com/bug-bounty/rootstocklabs/information/</id>
     <updated>2026-02-10T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/program-logos/phuongn%40immunefi.com-HRRlntLm0wgUL3yHO1ooa-mhtM4syqoqcMMRp6oHThrtRpWBVMt4.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $200000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/program-logos/phuongn%40immunefi.com-HRRlntLm0wgUL3yHO1ooa-mhtM4syqoqcMMRp6oHThrtRpWBVMt4.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $1,000 - $200000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[HackenProof] NEAR Intents: SDK</title>
