@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-04-28T12:47:44.517007+00:00</updated>
+  <updated>2026-04-28T18:41:36.028592+00:00</updated>
   <entry>
     <title>[IssueHunt] エコナビスタ株式会社</title>
     <link href="https://issuehunt.io/programs/938e2130-1df6-46e6-ba68-214c6afdc088"/>
@@ -294,7 +294,7 @@
     <link href="https://immunefi.com/bug-bounty/alchemix-1/information/"/>
     <id>https://immunefi.com/bug-bounty/alchemix-1/information/</id>
     <updated>2026-02-26T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://images.ctfassets.net/t3wqy70tc3bv/1n32B4eQNgsTaCpybMEudK/57f8ae5777af97e0e7a91f4b2ec17517/alchemix.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $1,000 - $300000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://images.ctfassets.net/t3wqy70tc3bv/1n32B4eQNgsTaCpybMEudK/57f8ae5777af97e0e7a91f4b2ec17517/alchemix.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $300000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[HackerOne] MOD Supply Chain VDP</title>
@@ -343,7 +343,7 @@
     <link href="https://immunefi.com/bug-bounty/hermetica/information/"/>
     <id>https://immunefi.com/bug-bounty/hermetica/information/</id>
     <updated>2026-02-12T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/program-logos/phuongn%40immunefi.com-tAU4WIInnssdEbEADCndS.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $100000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/program-logos/phuongn%40immunefi.com-tAU4WIInnssdEbEADCndS.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $1,000 - $100000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[Immunefi] Katana</title>
@@ -371,7 +371,7 @@
     <link href="https://hackerone.com/vodafone"/>
     <id>https://hackerone.com/vodafone</id>
     <updated>2026-02-10T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/variants/lj3omk5q0p3lnvwkv06m8gob96dy/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c?response-content-disposition=inline%3B%20filename%3D%22Vodacom%20Icon%20RGB%20Red.png%22%3B%20filename%2A%3DUTF-8%27%27Vodacom%2520Icon%2520RGB%2520Red.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=ASIAQGK6FURQVGPW4ZRE%2F20260428%2Fus-west-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20260428T123104Z&amp;X-Amz-Expires=3600&amp;X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBQaCXVzLXdlc3QtMiJHMEUCIAzaLWAF2ZFRO7WUolkuzuivVVbVmn3tvHZGTJ%2BbM4E5AiEA6qzGC1SkmFBqyMBNeJ%2BvDWRGN8QMaLwG9zg5jG0y36IquwUI3f%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARADGgwwMTM2MTkyNzQ4NDkiDAefr2ltBi2sC6UooyqPBRhE5g6%2FRAtz5PDrKoQyHKWHMiLkp76oIpARhN0etO8Bqe2Lp%2BZjPLw0pzzgDjLsaiJbMd6UyW9J%2BENRKEn7426ncOTdm%2BgyOiqOhWbuAft%2BLJEnlQjs9dOP7dV%2BjKvuDlkRkuXPnRyqU9XXmRIf41u0ZyfCM7nlXDLVJHo2c4l00Rs1ul01kGmarkz%2FiPpZmsqoYYnE7ZY%2Bpu6L7bXYViFSDZpMOZdwmEaU%2BxHHGHLTCuxy%2BNp9biOurwZGnX4xBWkic29uOeOg2nE3pZ%2BSIybpTsJDEoRq1HYlzqvsk3iMIIQnkK79KHUy47tY%2F563EYnAovy3%2FKKTlCOel5NY0qPq3Ol2aj7jasickS%2FcogIidMhcYhNjwvf1s%2BZPaqjCdpDRrBPsBKcHVIzRNWGMpkOudSmCqG8QIOtOtHa0DDpo6heHmtfcA%2Btquajw38tWUmVkz9SicUoyRysyzBnmGui9UvNnrbC3E1Smc3BYMCLkCf%2BEGnpf4AHAHkQ8UNQrQm3l3%2BhH1YyvHilcN2CTL%2FnWa0%2BVSu5Eq3zqElIlRgWcZEe2t73%2F81a6UHy1UdCVYxt6KTvNnAbr2DAMurQGKGpggwRqmXXo%2BV%2FZnUN4kiGnQL6Q0GdjfoUtD5ZUk%2Fz9oWRG5ima41Pbup3gD8U7xM8I%2FfpjmYbCnLABs%2BTZfkFR5CnAIYVxl6w44GbnvacNpgelGhnuNQSituP85g1ZTz8viUqmNf5O8HqSvKmYL%2Bkm1%2F8BLu0uMHxeUWIHwptW1ufWuwCrXWdXV%2BOJwUm1vHSWsHedGwvxzLUw7ippcQknhNv0xmebq52QyFhWEz41lELKN8B1fGAwQrr52Wv6n%2Fp9M%2B2Wpcn9ytC6YxBidWww38XCzwY6sQGCYwNXJddgWKFyg71Tq4sgjv6aaVwxcvjVX8FwMJ%2F%2BygivN1J9d4yvxWm6zXhLSSj7avL9U%2FIGGBd1Sb91XmB4tas50z%2FPRalhmmwrIGRMZLnVUyIkEH2UmLUkCpkarYx%2Ba95pFYbfy8V%2B02mKcW0fIz1OHXxW%2FVJ6zi5l%2BLd%2FoEnJLcyyN6j8acsnUoe0Fckv7jHUaeddz3dOzk8AeUVBJsZDw4KoQQ4AzgoUcSALeUo%3D&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=2c8e49ad51d72452b3a70788ff1b2d480c8490f232916f7743990bd6dafe95a7' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/variants/lj3omk5q0p3lnvwkv06m8gob96dy/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c?response-content-disposition=inline%3B%20filename%3D%22Vodacom%20Icon%20RGB%20Red.png%22%3B%20filename%2A%3DUTF-8%27%27Vodacom%2520Icon%2520RGB%2520Red.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=ASIAQGK6FURQ7CO4JF5S%2F20260428%2Fus-west-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20260428T182817Z&amp;X-Amz-Expires=3600&amp;X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBYaCXVzLXdlc3QtMiJHMEUCIQCM4GiLKbhZrzb5YRLj99XN7SRQqwXmQr8Q%2BS5Ig44WsAIgWsb2FnQEg7Uec8FpqSr1NTsOO58oU0EKLcjTc%2FSX0NkqugUI3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARADGgwwMTM2MTkyNzQ4NDkiDJqfaANl34VSQ79CvCqOBRLf1LuU29P6IVNRYIW5gnygaHFT57LFGtmDqmfim71nKrMti%2BkcTRAsaYkxp%2FEwYUm68hpyY3JgZt7ZaOAQ8CWttHlaQBqjh7kEXDm%2Bdwqe3Vd3jPNGzFI6QeTnzKwMYBWZ1iCovkltRTCJpT5QM28C9ARoBFIyyDK%2BB7hssg5uYg6hiL7%2FyEE8K%2BV%2BROIeymksvqY9mpZ8LuMpD7G3eZVGi5WLcQ6buV0lLKhPNRkRI8F%2ByGRzsYLOkZ4Fw2TpM2gxyHTCFmL0pSHxJQSktB7Zi0P7tIGeDvO2SH017Jczfu77nBtQdpTzAepZltIxcto%2FFQXtgZK%2B6CNlMdmoDdFcjkK%2ByuY9Oo3aVwQceJP8E%2FipyCRa%2Bz7My9oHN7n35lopsqCrlDujWu5C%2FfoCFX7dUSY825Eb6C1JIMuSwE1BRsk1lUg0MWAOJTVHitlTr2mkGlJggGs4JJWKxG%2FkXHHAe2b2ePN3D%2Bmfr2fq1qdjctl%2FtfI8gkJ4h774eBRZkgbslz5P7XJUZny30fYkOJLLkLMFu1dID6j6qRWf8p8FIQQFwFvRAM8Tvp%2FCySdNGbvLf0ofapbIxS5u8rNs%2F8zsWjor1YixqpYiMALcI7D3UcZra0Bni9MxGe50MgAq1Fsye1bnUac5egEr933Cq3cX%2BjmMGtDuP2cAU%2BMxAIApPNrXv2BkoF354ekKF9w%2Bm6hzvB3nIsjq0GtYjNY5wXzwipg1F9lwykZnY%2BkXAspe8N6xsai7VS1xj48E2S81RC6IOmOYUFvOLgQ1tEOm1cYLGcKDhx0fxC27kiGQIllHqKh4BjmR0PL5IMwf5HtljiFZIXq72s37M8Dj7kx9m9PwJbzrbrUxFpLV8BaDmDCT%2BMLPBjqxAcnoDChzDzfSetjQSIXWuiv%2FHwo4gFsrIbBO6HsMHgAl9oOhjkxT4EZQWO2jPytM6vSL1X%2BOSnMvSzx8Do2Au7kTcLxhNSmy49VZtQR9i8eFwbBHjSrwaXzvoMFsqc5Peaqy3eZS%2BPIZ6q0Yy9jKY0457OGzL6eoDQU%2F2LTzCBpBbHGfdSwlEysk3jCqKSH2Hy0Ezi8szO5JYVjk8Frp%2BvvOONBWhdi3%2FxKP62vt1fawvg%3D%3D&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=1a63f713b7d964f585801c6a24678b867931959f570d5149889cc19e1c9fe24a' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[HackerOne] MSCI</title>
@@ -637,7 +637,7 @@
     <link href="https://immunefi.com/bug-bounty/exodus/information/"/>
     <id>https://immunefi.com/bug-bounty/exodus/information/</id>
     <updated>2025-12-30T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://images.ctfassets.net/t3wqy70tc3bv/6jSWqO85JxgkH0iBYbbZjy/9d0e1d65deee581154270c5856e55a99/Exodus.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $18000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://images.ctfassets.net/t3wqy70tc3bv/6jSWqO85JxgkH0iBYbbZjy/9d0e1d65deee581154270c5856e55a99/Exodus.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $500 - $18000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[HackenProof] Whitechain Bridge</title>
