@@ -1,7 +1,14 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-05-05T18:40:53.169321+00:00</updated>
+  <updated>2026-05-06T00:55:42.456695+00:00</updated>
+  <entry>
+    <title>[HackerOne] Coupang Taiwan</title>
+    <link href="https://hackerone.com/coupang_tw"/>
+    <id>https://hackerone.com/coupang_tw</id>
+    <updated>2026-05-06T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/ohz78auk3cauxip3saglty9bqrff/d9695107bfcd68eeb1c9e0912b109cdae9a6c00c0bda6fd4cbd6d9bdb828840a' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $4000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
   <entry>
     <title>[Cantina] Aztec Network Bug Bounty</title>
     <link href="https://cantina.xyz/bounties/80e74370-10d8-4e52-8e4b-7294deb7c9ee"/>
@@ -43,13 +50,6 @@
     <id>https://issuehunt.io/programs/938e2130-1df6-46e6-ba68-214c6afdc088</id>
     <updated>2026-04-27T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://api.issuehunt.io/organizations/9c2cd8e0-f40e-4e58-8423-4badb7acca32/avatar' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; IssueHunt&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $34 - $2040&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[Code4rena] Monetrix</title>
-    <link href="https://code4rena.com/audits/2026-04-monetrix"/>
-    <id>https://code4rena.com/audits/2026-04-monetrix</id>
-    <updated>2026-04-24T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://code4-api-v0-public-storage.s3.us-east-1.amazonaws.com/upload-WSEWifnSqQw' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Code4rena&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $22000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[Immunefi] KAST</title>
@@ -252,7 +252,7 @@
     <link href="https://immunefi.com/bug-bounty/variational/information/"/>
     <id>https://immunefi.com/bug-bounty/variational/information/</id>
     <updated>2026-03-16T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/program-logos/phuongn%40immunefi.com-mbfwfHAlj7ZfZxAFQmzTK.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $100000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/program-logos/phuongn%40immunefi.com-mbfwfHAlj7ZfZxAFQmzTK.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $1,000 - $100000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[BugCrowd] Recorded Future Public Managed Bug Bounty Engagement</title>
@@ -420,7 +420,7 @@
     <link href="https://hackerone.com/vodafone"/>
     <id>https://hackerone.com/vodafone</id>
     <updated>2026-02-10T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/variants/lj3omk5q0p3lnvwkv06m8gob96dy/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c?response-content-disposition=inline%3B%20filename%3D%22Vodacom%20Icon%20RGB%20Red.png%22%3B%20filename%2A%3DUTF-8%27%27Vodacom%2520Icon%2520RGB%2520Red.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=ASIAQGK6FURQVXPVHD6G%2F20260505%2Fus-west-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20260505T183551Z&amp;X-Amz-Expires=3600&amp;X-Amz-Security-Token=IQoJb3JpZ2luX2VjEL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIEyb7jlIGg%2FZWxe%2FgmYkPoy5h8tDfA4SN4zIy2XpsvloAiEAs3qRO6KYqEkv3uCDxP2XcKOvBybGd0Y2T0d8wSa0aJAqugUIiP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARADGgwwMTM2MTkyNzQ4NDkiDD0Lgewk2PCy5ipxYiqOBfZyYs90S%2FEcvTNdvFnY9%2BGRtTGb20WJF3Ffp6TFMNyFjFxo9NvyhmWMM0ESm4qct14NlYd188mxQWMlL6851dMZhGYwE%2B1jpFCWrtiAAFRlA5iYXVkbunAnPSh1pLxiIAfhFHZ4aczFo%2FJKp2J8E4p5y82x2kD8wGy01KwJ6abtPFDisARnlFOLipfn9DJgoiR7dYOKnnsMCnX9vxDMJfAeEGKOXBwAWlA9K3pw18pkn%2FwAa%2FuTpqHoVYsItR4vtpE%2F8Txd3AFb2SX0lWJZk1Q7RF1W%2Bl8tDSQncCiVGv0FrMRYBuks2Lka3Uinv%2BlKGUzU5ARuuJL4znppqObgkC1mnPkd2JGsqWU329A8J3q8Mv9PfdEa8vfoqAaQa3l4FTOhsFerj%2B1rj5gErg1Px9uR535J2PhoOVW4tJ35HdD9pu7XHXj2IiiWOFIaUeH0B3O4pMBzTxaqm9Emfkv0ApFWcg%2F7qfrixcq0%2BDWI6PYiYyXfiPSU4J8Xa0Qm%2F2fz9h2Ipm5S8NfXxaxrsGj8kns1KE582fMgmylR89WozD6HD%2Bc9lOvK25%2BKMUnaD3w%2B3cbbseXKmudowmqBlPIdTpEj%2FhKTBVdyWfmNWN0qRe%2Fwm9CnSumnVXTA8d5rCZEyjVo%2FBzOy58z4VmIpMboqnR2qzmQtMry%2FxCzeJiCqGtYd9HJLUjw8YHKOXgWtZ9ebkDiyfO3URJmt%2BvCTZ5dpJ2SHpD21aE6PUwB%2FtvN1VOfYQGpp6Rf5uj5RiAx1nzrQFAQrPa0cOTkFj5SgLKIxvjCLv1twjBpXw18TAKHvAlw0W%2BDmGn8LCIHqi03pL6L2CfIT%2BDGVdjcMV4beIkHb%2BG1raJtDJdHqHUySeBNDSzDphOjPBjqxAUfJsFXZUfyxkgBNG3N3zOdwyYQzWl21FjH%2FRWDxqspSXnrsvm%2B1FQ5NEDZYW0O6MgrTsmfPpea8SQG%2Bm6UPvA5hcIuzRpwZnpG0A0Zf06XL9rZP2pPCuwDolwOwoL%2BaFIH%2FnPaeiM1nRBboLmDa%2Ffu485B6MuVAxBa4pnLhyPAOcr5JPHfTrU7oNSuYslyR3BMVfCFkyDLEKf0zFwyaA2WKr%2Bj%2Ffnwee1N9Uxn%2FvFqS6w%3D%3D&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=3cb1613439ad8f90d0d550f539baafb5794bf625f76991c4445e676618038f4b' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/variants/lj3omk5q0p3lnvwkv06m8gob96dy/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c?response-content-disposition=inline%3B%20filename%3D%22Vodacom%20Icon%20RGB%20Red.png%22%3B%20filename%2A%3DUTF-8%27%27Vodacom%2520Icon%2520RGB%2520Red.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=ASIAQGK6FURQY5HEFP25%2F20260506%2Fus-west-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20260506T005142Z&amp;X-Amz-Expires=3600&amp;X-Amz-Security-Token=IQoJb3JpZ2luX2VjEMT%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIBSB35gCtqyNz2Qpors8BfTp0KkiV%2F%2B6IVwHisM3zo9KAiEAm%2FJVxrVWcKq71c8vWK2tnjkSCPZKfXPOrUlVmaZtsz0quwUIjf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARADGgwwMTM2MTkyNzQ4NDkiDHuhiJBVTSsiId1LbyqPBVqSdKVWryHAngQM%2FNZnZC653FXv2lWCC6ql1iZNEivwGzWol6BPtyh8xOy3KSC9C1fgmEPB7y0e039GY1U5zAFb%2FTYkP669OC0fI321Ky6uj9aN11me7wSyBQz0wHBeD6J6JCjER0fVP47%2FBTW%2FFadk7PMgnE%2FguyUG%2BmLDFMb8Pj5WcivsjiVLxPdONCQAM3Xj9zZ%2BGh87Z3fO%2BrtLtYC0HNapA1DtNAqQkmtDEDl5%2FinEcuiVgDd%2BjfP%2Byw0qUi3FyYQE%2BHT8jpiWzsFvOSHcTHp01WG4cSWzIQr2f4EvbCQn09fQlRbTekyyHPEqpMT4jaZe8ghhk1xYO4dz8%2FmtkuvOZIL%2Ba8wnnjpEcXFw5ZHsZ%2BI1jpxpsZHfhnaGLQs2vUP25aqZQISVhXejca1l7wGDZfI4JB3JI5bbJrXLsM%2BWEosTIn%2BQhtAqPFsZ50EEw%2F6eMuhEYwts0gKxTfCsPiKuLFe2HZfbXGXjC0TXjyautYbLMFX2X%2Fd1QthLYguavcEcFVj97OkxG6OAvKX7gPqiV6M%2Bbd6t%2BkWcZ0twV3PgRdSc23GFI%2FbVlHy1UfSOe8mAPOllwmvfgOnWjHyI53yptMOo7GXlAEII25vqh08OY3k%2BlUFV5na2F12eEfiwlZOWtjMIPzRcUtls9zRA1yzV9n6pIAS%2FXkr9%2BIncgyJlCk97PGhKc8PDtjaY8Qgy1%2B3LsWtY0N7zNJ6uXckHCl%2FN%2F4al5UnWYjmjsn0SZ3njgBsdNZdtBQdHa%2BamAzflzPoUQh8Ke%2Fz%2BweQpGlzWPdC%2FTZiplu2qmDXBaKrV8sCn%2FY3kFJR2LqgDeNX5jkUvkFsWX35Vk8FxCyr%2F0kYnT76il4OAqAftENlZKKAw%2F5zpzwY6sQGkbdaoz2ndLJcWqbsv0h21U%2Fy4GOOzpVSBoXclTHPj%2BVMWu3NHn7OWgI7cOfNsvr%2B7Sroav139%2BCsFry0i3%2BdSEEoSHH0LiSxOlTZ7HAVNY2dxLivmMmtlAjTgvpJUDQ7afhQVzbgJ2drBXJ4MujdoI6IJl2x8i%2Fho0Oy6viZWZhda%2BeHuNMRcf9YYO%2FRiWIAlNh4dNEs1cHLBNADComTMeQfW2ZGP2m9Wr0I%2BMj0rn68%3D&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=2eab50197698680501520e6e9fe24af590abe03caf01035f861015edfa2fe16b' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[HackerOne] MSCI</title>
