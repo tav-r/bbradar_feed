@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-06-23T01:06:09.931641+00:00</updated>
+  <updated>2026-06-23T07:27:27.382894+00:00</updated>
   <entry>
     <title>[HackerOne] Agoda Public</title>
     <link href="https://hackerone.com/agoda-public"/>
@@ -50,13 +50,6 @@
     <id>https://hackenproof.com/programs/tokenize-dot-it-token-sc-dualdefense-audit</id>
     <updated>2026-06-09T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/6a1ee31640041cf5a6e61846/logo.png?timestamp=1781010533' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $5000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[Intigriti] Challenge 0626</title>
-    <link href="https://app.intigriti.com/programs/intigriti/challenge0626/detail"/>
-    <id>https://app.intigriti.com/programs/intigriti/challenge0626/detail</id>
-    <updated>2026-06-09T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://app.intigriti.com/api/file/api/file/public_bucket_400f8fa3-e84f-4f73-a7a5-29fcc9a93788-30441a7c-1a2e-4c63-a4ed-5c637e57d056' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Intigriti&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[HackenProof] TipRun Smart Contract Audit Contest</title>
@@ -665,7 +658,7 @@
     <link href="https://hackerone.com/vodafone"/>
     <id>https://hackerone.com/vodafone</id>
     <updated>2026-02-10T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/variants/lj3omk5q0p3lnvwkv06m8gob96dy/89f037b490baf3dcca1b84283f4c85141b64c213252a9c79b56c62bf903ab542?response-content-disposition=inline%3B%20filename%3D%22Vodacom%20Icon%20RGB%20Red.png%22%3B%20filename%2A%3DUTF-8%27%27Vodacom%2520Icon%2520RGB%2520Red.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=ASIAQGK6FURQZDGXSW2G%2F20260623%2Fus-west-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20260623T010118Z&amp;X-Amz-Expires=3600&amp;X-Amz-Security-Token=IQoJb3JpZ2luX2VjEEUaCXVzLXdlc3QtMiJHMEUCIQCDQfq9kMjDmPxLXyRgrlXAF6TJUL2YEc5%2BuvTzwWVXAgIgT7Sxh5G5ebgUlEFqE%2Fkv8nVSXa2ul%2FC%2Bkqtkmd9hRZcqsgUIDhADGgwwMTM2MTkyNzQ4NDkiDKCk157YhKmjiTOXIiqPBexxg24GsHTyewIurSqq9SibfrlUiQsfKod6t%2BS79Oz5ePeX6XF6XG9ilvqf3Hwm8h3jplz25RWtutijPjKAdo%2FNrn9mCcvt%2F8FhgNVp74Lq4bjJVxuBz663aoxHjfYda0URZzBKuLJQ9QtI%2Fm0XP5JAvadmgqEhOiMuvsSdWCfj4Fko1GssDktLlDe8EAhSbWNfXm%2BHrkbW7GuZ54wer0WJV03rmFGDERpTuJYVdbkZNKoXdGb0Nj2pW3G2GdV7rj6X0LegVkx%2BMAd0uofYQYUY1yvsOc1%2Fj%2Bz%2BJs7bdXioXoPV49xfjODj%2Fj7zkPKngsPFnLtbcgBuefdFP01oRFJTlFtjvTCD9efDaX3aTF8PK0JUD1VzVGR%2B3U463vaZOvAkXBUDAY1q42teUbDvy8xiqtpfe8uBhvIvAFKp5CSzaNhlTQIWoNv5yMD1M9yE9dHQjpS8AWjpmeXjU1DGI6t9FSiu8hv%2BQ7RBtaBqKxFqQSgm31lvVG3pg%2BiduBKKd%2BfY78EPlSkXBpL6Epyvbas%2BUhXTR43BQAd41oLA%2FDaCcnC4V1wpFkiA6saiEUPBUwRF2VplZCR25eOdVNBEu6nPaywGvOSYtrAgU0i7UTPRVqWDyyliS2A9ABp83q4g8BUDxkLZx9iT%2B5MR66%2BLIIKUtcdbPem9o8kv4cd3sFEkBrrYHYx4TY2TsFuUarEThvALd6kJpK84WqzpKdUNB4TCUr1W6agAJ1m0xe7K%2BGt4J6Myj9aNOKHrznF%2FmKk14THaNnvYV%2B3y4plQCfzOL3wp52seJXDAWSZRxgrqHFygBqTiuWe4pyBp1SZHWE%2B6A%2BeFBQkE4LswND4MXXLizOMvCQ3XFgpWpUJzshUhfJow%2B8Pm0QY6sQHywwqAtFWICxXcm%2Fgf5%2FgcBCVugdjvIDGg4t%2BwpdOCEiJrMIGPI7F%2BjKhiUTf63dC1kZEc6Uemoj2HZcZRYDZD8fsEjlXHEDErINjrEkqolkcz7BxG7ZyWCeQFBoz%2F6hjSDkb3toXWuijjvSr7b7flRjbwzE5rG0pGxn6kKh1hTIOGVr0RjtzMqq79KbH%2FRhsVwWX3RKVjDvCSOdO0UR3bpolK%2FLT%2BgMSaSFC3KXu9yoc%3D&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=9be65cef3278cb8b57a93feab24995d4257c9444302ad1175c6da444c76667e0' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/variants/lj3omk5q0p3lnvwkv06m8gob96dy/89f037b490baf3dcca1b84283f4c85141b64c213252a9c79b56c62bf903ab542?response-content-disposition=inline%3B%20filename%3D%22Vodacom%20Icon%20RGB%20Red.png%22%3B%20filename%2A%3DUTF-8%27%27Vodacom%2520Icon%2520RGB%2520Red.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=ASIAQGK6FURQVEWPB3ZP%2F20260623%2Fus-west-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20260623T071236Z&amp;X-Amz-Expires=3600&amp;X-Amz-Security-Token=IQoJb3JpZ2luX2VjEE4aCXVzLXdlc3QtMiJHMEUCIG%2BwLkVgumBSWbD%2FFO7ViYNaISYU4XbQP7b0nyrOcmqSAiEAppH5wxjU%2FIRbcg5RdQB5SrUZB9PJmXXRGuVW9ANQqBgqsQUIFxADGgwwMTM2MTkyNzQ4NDkiDMyRMo08DbdMoS33xyqOBRKpCf%2F%2FO5KzO%2BnAdtwBqIJoJ7KyTIpd19u3nwjYkRAXrcGAjBJnGGU6OuECkteo2m30taK3KaN97Ij3rp3wL4FlyliKf8JK8Z%2BidMntei5LC1jmOlw1%2BUrp8CDw3LMfn6kLq12Mv2YGwBQxDIatPt9lecH%2BqRUndb6s1OYFnpBb%2F1eES%2Bwa0M7DWyuU3cFbwry5x%2FQeHLQ%2FXHegn4FJm2%2FU1YC4hV5gusLO5%2B2e9oRZuIJln%2BvpqQ7zhVvvSf3ud30ttrFjDxQZOXsdifB0uoGSq5aC6kKpEB8g9B1aGSuFxsvyGuyNWrZeuF15tDsGFIEyZk%2BLdJxSLYffMmEKLl0opHT%2BPfO1LdDuNjnFWnoS8p6phfIOoRrz52YED14VzKKMMPEfFK7hJLh2XJSKlt7Oct%2FI3oOglHufNIpNhfHMkRVl6axDh6BQ3A%2FWQid1UxYAINdVnsvUxGd%2BCJ%2BQiGFQgWZRRnvVwYM5ukIti7iTalGPsOwZp4eSmHD%2FBHgu1SUkvDbTBQKTNRRieDGbIATpWYo5mNNRfBnRQSDrhy7Iqo%2FZOdjjfXZYOvjfgokj0DYgaeplcI1r2VMe5Pk5HPFZyrruobL3MYl4GgMU6%2F%2Bfh4TA%2Bq4qC7smrS6GXcHt%2FkMX%2Fd7o6%2FmPeQwBnnIBWcWp9Fx%2BljdMZ9MHjJ2zExC0sucqqBgxfpAeTC2Rkl9kMyGeBFQ%2B4jcgOxUJUsPmr0zqy7fPxE9W3QABlb7lZeI5j5hQC2ViqPX2aDz%2BBA%2BNJZ%2BM50N8UdcBvqbFyEoEOgxUO6bl2H5oAZMRY0NR%2BcKnL496F5HPe3ePR9WH8VX1px7J4DhJosHlcDcLlI6B2gsrVLk6ViJtLkpcZkDLWjD2wujRBjqxAfx5Lk7%2Bj0RbaAOpW%2FUABWqv3Uy%2FsPf4TffUeC1jaB8bMifWUvoXrKrvo7bfAZlIab4zgZVhzZEyK5APfn%2FSenbQQseuxHdnWwU0ptf1tYXuJUXfZkABE5DZ8xPslE1RGnNiW7ZA0K3HBYfJ20Rdugg3JS3dxBnFPKBFoCCvic7Mu4dbctpZ6zKl%2B%2F9M0NRxNcJwmKWkUcC4WVw4OS07hR9cj2pXOa9gwDMejZxQhbQJKg%3D%3D&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=57e8829d839892c9baef46c0c45d5f9c0b61fa0320df8b0a8d2fd0b2b069228c' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[HackerOne] MSCI</title>
@@ -701,5 +694,12 @@
     <id>https://hackerone.com/bose_vdp</id>
     <updated>2026-02-04T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/i1mw9hr3se9482hm82w8h9tt9qat/89f037b490baf3dcca1b84283f4c85141b64c213252a9c79b56c62bf903ab542' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
+  <entry>
+    <title>[Bug Bounty Switzerland] EWB VDP</title>
+    <link href="https://app.bugbounty.ch/hacker/engagement/details/60614891-2c06-4dca-9aa5-b2309136b8ac"/>
+    <id>https://app.bugbounty.ch/hacker/engagement/details/60614891-2c06-4dca-9aa5-b2309136b8ac</id>
+    <updated>2026-02-04T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Bug Bounty Switzerland&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
 </feed>
