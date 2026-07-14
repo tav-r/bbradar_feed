@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-07-14T08:18:23.290697+00:00</updated>
+  <updated>2026-07-14T13:58:12.487888+00:00</updated>
   <entry>
     <title>[HackenProof] ADI Predictstreet Smart Contracts</title>
     <link href="https://hackenproof.com/programs/adi-predictstreet-smart-contracts"/>
@@ -28,7 +28,7 @@
     <link href="https://www.codehawks.com/contests/2026-07-battlechain-confidence-pools"/>
     <id>https://www.codehawks.com/contests/2026-07-battlechain-confidence-pools</id>
     <updated>2026-07-09T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://res.cloudinary.com/droqoz7lg/image/upload/q_90/dpr_2.0/c_fill,g_auto,h_320,w_320/f_auto/v1/company/eproz7rugsccsiosltpu' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; CodeHawks&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $2,225 - $10679&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://res.cloudinary.com/droqoz7lg/image/upload/q_90/dpr_2.0/c_fill,g_auto,h_320,w_320/f_auto/v1/company/eproz7rugsccsiosltpu' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; CodeHawks&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $2,336 - $11210&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[Cantina] Ammalgam Bug Bounty</title>
