@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-07-13T19:36:46.061801+00:00</updated>
+  <updated>2026-07-14T02:55:46.393821+00:00</updated>
   <entry>
     <title>[HackenProof] ADI Predictstreet Smart Contracts</title>
     <link href="https://hackenproof.com/programs/adi-predictstreet-smart-contracts"/>
@@ -28,7 +28,7 @@
     <link href="https://www.codehawks.com/contests/2026-07-battlechain-confidence-pools"/>
     <id>https://www.codehawks.com/contests/2026-07-battlechain-confidence-pools</id>
     <updated>2026-07-09T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://res.cloudinary.com/droqoz7lg/image/upload/q_90/dpr_2.0/c_fill,g_auto,h_320,w_320/f_auto/v1/company/eproz7rugsccsiosltpu' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; CodeHawks&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $2,207 - $10590&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://res.cloudinary.com/droqoz7lg/image/upload/q_90/dpr_2.0/c_fill,g_auto,h_320,w_320/f_auto/v1/company/eproz7rugsccsiosltpu' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; CodeHawks&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $2,229 - $10697&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[Cantina] Ammalgam Bug Bounty</title>
@@ -64,6 +64,13 @@
     <id>https://bugbounty.standoff365.com/en-US/programs/epgu</id>
     <updated>2026-07-07T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://api.standoff365.com/images/200_200/2fc2b3e2-6a80-47c9-92d0-cd78280609f3.jpeg' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Standoff365&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $6000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
+  <entry>
+    <title>[Intigriti] Ivo: AI VDP</title>
+    <link href="https://app.intigriti.com/programs/ivoai/ivovulnerabilitydisclosureprogram/detail"/>
+    <id>https://app.intigriti.com/programs/ivoai/ivovulnerabilitydisclosureprogram/detail</id>
+    <updated>2026-07-07T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://app.intigriti.com/api/file/api/file/public_bucket_1c4cd263-a7e3-4819-8000-f045fdf24440-6ba3a014-b09b-40b9-bc33-cc1ba08257ff' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Intigriti&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[Sherlock] Metric</title>
@@ -694,12 +701,5 @@
     <id>https://bugbounty.standoff365.com/en-US/programs/logika_moloka</id>
     <updated>2026-02-16T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://api.standoff365.com/images/200_200/b7c179ee-2264-4257-b717-07b0d332a896.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Standoff365&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $59,520 - $178800&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[Immunefi] Kleidi</title>
-    <link href="https://immunefi.com/bug-bounty/kleidi/information/"/>
-    <id>https://immunefi.com/bug-bounty/kleidi/information/</id>
-    <updated>2026-02-13T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/program-logos/phuongn%40immunefi.com-8B83Ue-aQ-fSvpU2qSF8m.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $5,000 - $50000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
 </feed>
