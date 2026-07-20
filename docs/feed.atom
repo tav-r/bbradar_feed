@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-07-20T14:20:37.617438+00:00</updated>
+  <updated>2026-07-20T19:49:17.711308+00:00</updated>
   <entry>
     <title>[Sherlock] Tare</title>
     <link href="https://app.sherlock.xyz/audits/contests/1234"/>
@@ -21,21 +21,28 @@
     <link href="https://hackenproof.com/audit-programs/push-chain-core-contracts-sc-dualdefense-audit"/>
     <id>https://hackenproof.com/audit-programs/push-chain-core-contracts-sc-dualdefense-audit</id>
     <updated>2026-07-20T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://hackenproof.com/uploads/bounty_program/logo/6a44008e40041c000d014efb/logo.png?timestamp=1784556391' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $10000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://hackenproof.com/uploads/bounty_program/logo/6a44008e40041c000d014efb/logo.png?timestamp=1784558188' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $10000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[HackenProof] Push Chain EVM Gateway SC DualDefense Audit</title>
     <link href="https://hackenproof.com/audit-programs/push-chain-evm-gateway-sc-dualdefense-audit"/>
     <id>https://hackenproof.com/audit-programs/push-chain-evm-gateway-sc-dualdefense-audit</id>
     <updated>2026-07-20T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://hackenproof.com/uploads/bounty_program/logo/6a4401c640041c0022014ef7/logo.png?timestamp=1784556494' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $10000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://hackenproof.com/uploads/bounty_program/logo/6a4401c640041c0022014ef7/logo.png?timestamp=1784558131' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $10000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[HackenProof] Push Chain SVM Gateway SC DualDefense Audit</title>
     <link href="https://hackenproof.com/audit-programs/push-chain-svm-gateway-sc-dualdefense-audit"/>
     <id>https://hackenproof.com/audit-programs/push-chain-svm-gateway-sc-dualdefense-audit</id>
     <updated>2026-07-20T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://hackenproof.com/uploads/bounty_program/logo/6a43fe9e40041c0011014f5d/logo.png?timestamp=1784556575' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $10000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://hackenproof.com/uploads/bounty_program/logo/6a43fe9e40041c0011014f5d/logo.png?timestamp=1784558203' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $10000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
+  <entry>
+    <title>[Sherlock] Kite AI</title>
+    <link href="https://audits.sherlock.xyz/bug-bounties/359"/>
+    <id>https://audits.sherlock.xyz/bug-bounties/359</id>
+    <updated>2026-07-20T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://sherlock-files.ams3.digitaloceanspaces.com/contests/Kite AI.jpg' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Sherlock&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $10000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[Sherlock] Moonwell</title>
@@ -694,12 +701,5 @@
     <id>https://hackerone.com/clear_street_vdp</id>
     <updated>2026-03-25T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/ka9xzrxo7385bcdaggwk2zywhlys/89f037b490baf3dcca1b84283f4c85141b64c213252a9c79b56c62bf903ab542' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[Intigriti] Tekion VDP</title>
-    <link href="https://app.intigriti.com/programs/tekion/tekionvdp/detail"/>
-    <id>https://app.intigriti.com/programs/tekion/tekionvdp/detail</id>
-    <updated>2026-03-25T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://app.intigriti.com/api/file/api/file/public_bucket_a350aeac-3685-4a9d-bdc7-09d484df8b0c-a67acf0b-f7d1-47b1-ad9c-0ade2172b0d2' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Intigriti&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
 </feed>
