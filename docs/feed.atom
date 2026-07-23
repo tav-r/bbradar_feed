@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-07-22T19:34:50.977694+00:00</updated>
+  <updated>2026-07-23T03:27:11.744428+00:00</updated>
   <entry>
     <title>[HackerOne] Abercrombie &amp; Fitch Bug Bounty</title>
     <link href="https://hackerone.com/abercrombie_fitch_bbp"/>
