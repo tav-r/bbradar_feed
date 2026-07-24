@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-07-24T08:34:25.186390+00:00</updated>
+  <updated>2026-07-24T13:56:57.999705+00:00</updated>
   <entry>
     <title>[HackerOne] Abercrombie &amp; Fitch Bug Bounty</title>
     <link href="https://hackerone.com/abercrombie_fitch_bbp"/>
@@ -147,7 +147,7 @@
     <link href="https://hackenproof.com/programs/zynk-protocol"/>
     <id>https://hackenproof.com/programs/zynk-protocol</id>
     <updated>2026-07-06T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/6a315bcc40041c3901e66b33/logo.png?timestamp=1784131425' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $5000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/6a315bcc40041c3901e66b33/logo.png?timestamp=1784889436' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $5000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[Intigriti] Dashlane Vulnerability Disclosure Program</title>
