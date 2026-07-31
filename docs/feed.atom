@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-07-31T03:32:13.766722+00:00</updated>
+  <updated>2026-07-31T09:09:12.952499+00:00</updated>
   <entry>
     <title>[Huntr] New Agents on the Board</title>
     <link href="https://huntr.com/challenges/1iLLwK4j2BNkIHMtHuAVvY/v1/rules"/>
@@ -80,7 +80,7 @@
     <content type="html">&lt;div&gt;&lt;img src='https://app.intigriti.com/api/file/api/file/public_bucket_4a9183d2-6b19-42a2-bdba-ca189c2c8cf3-7524e932-f18b-463c-92d2-28c8e9c12ed9' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Intigriti&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
-    <title>[Standoff365] Сетка</title>
+    <title>[Standoff365] Setka</title>
     <link href="https://bugbounty.standoff365.com/en-US/programs/hh_setka"/>
     <id>https://bugbounty.standoff365.com/en-US/programs/hh_setka</id>
     <updated>2026-07-22T00:00:00+00:00</updated>
@@ -234,6 +234,13 @@
     <content type="html">&lt;div&gt;&lt;img src='https://sherlock-files.ams3.digitaloceanspaces.com/contests/Pinto.jpg' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Sherlock&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $5000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
+    <title>[BugCrowd] Demo-EU-admin-PublicMBB-1</title>
+    <link href="https://eu.bugcrowd.net/engagements/eu-public-1"/>
+    <id>https://eu.bugcrowd.net/engagements/eu-public-1</id>
+    <updated>2026-07-06T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://bc-eu-static.s3.eu-central-1.amazonaws.com/logos/aa5e/4fd0/a2c4b7ad/3c8f99cbe86efc34325dddcd8d6139e8_Screenshot_2026-07-31_at_12.00.16_PM.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; BugCrowd&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $175 - $4500&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
+  <entry>
     <title>[Immunefi] sBTC</title>
     <link href="https://immunefi.com/bug-bounty/sbtc/information/"/>
     <id>https://immunefi.com/bug-bounty/sbtc/information/</id>
@@ -329,7 +336,7 @@
     <link href="https://immunefi.com/bug-bounty/1inch-web/information/"/>
     <id>https://immunefi.com/bug-bounty/1inch-web/information/</id>
     <updated>2026-06-11T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/program-logos/phuongn%40immunefi.com-H18TSSw2dXg4KqUiel4QJ.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $50000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/program-logos/phuongn%40immunefi.com-H18TSSw2dXg4KqUiel4QJ.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $100 - $50000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[Immunefi] 1inch - Wallet</title>
@@ -364,14 +371,14 @@
     <link href="https://immunefi.com/bug-bounty/1inch-aqua-improvement/information/"/>
     <id>https://immunefi.com/bug-bounty/1inch-aqua-improvement/information/</id>
     <updated>2026-06-11T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/program-logos/sebastian%40immunefi.com-PGBK0afR1r0wiqKO0ATOa.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $25000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/program-logos/sebastian%40immunefi.com-PGBK0afR1r0wiqKO0ATOa.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $100 - $25000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[Immunefi] 1inch - Aqua</title>
     <link href="https://immunefi.com/bug-bounty/1inch-aqua/information/"/>
     <id>https://immunefi.com/bug-bounty/1inch-aqua/information/</id>
     <updated>2026-06-11T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/program-logos/sebastian%40immunefi.com-9KuIMXdORw2kDGjEQXDL0.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $100000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/program-logos/sebastian%40immunefi.com-9KuIMXdORw2kDGjEQXDL0.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $100 - $100000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[HackenProof] Arcadia Finance Smart Contracts</title>
@@ -694,12 +701,5 @@
     <id>https://issuehunt.io/programs/0b2da017-af6e-4c1d-a58f-e0ecc8c70478</id>
     <updated>2026-04-10T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://api.issuehunt.io/organizations/8137b057-f10a-415b-999d-1479c78d0898/avatar' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; IssueHunt&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $31 - $30548&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[Sherlock] Fira Protocol</title>
-    <link href="https://audits.sherlock.xyz/bug-bounties/298"/>
-    <id>https://audits.sherlock.xyz/bug-bounties/298</id>
-    <updated>2026-04-09T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://sherlock-files.ams3.digitaloceanspaces.com/protocols/steady-labs_1774607915.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Sherlock&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $500000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
 </feed>
