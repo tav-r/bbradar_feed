@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-09-07T21:22:44.995640+00:00</updated>
+  <updated>2026-09-08T04:04:07.199191+00:00</updated>
   <entry>
     <title>[HackenProof] Bullbit QA Testing</title>
     <link href="https://hackenproof.com/programs/bullbit-qa-testing"/>
@@ -22,13 +22,6 @@
     <id>https://hackerone.com/semtech</id>
     <updated>2026-09-02T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/k7xylo9mig7vfpxmrxdz8e6kgva4/89f037b490baf3dcca1b84283f4c85141b64c213252a9c79b56c62bf903ab542' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[HackenProof] Alberich Token SC DualDefense Audit</title>
-    <link href="https://hackenproof.com/audit-programs/alberich-token-sc-dualdefense-audit"/>
-    <id>https://hackenproof.com/audit-programs/alberich-token-sc-dualdefense-audit</id>
-    <updated>2026-09-01T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://hackenproof.com/uploads/bounty_program/logo/6a915ea640041c00100b1ac2/logo.png?timestamp=1788279451' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $3000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[Bug Bounty Switzerland] Sensirion - VDP</title>
@@ -701,5 +694,12 @@
     <id>https://audits.sherlock.xyz/bug-bounties/122</id>
     <updated>2026-05-19T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://sherlock-files.ams3.digitaloceanspaces.com/protocols/midas_1774265971.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Sherlock&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $500000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
+  <entry>
+    <title>[Immunefi] NUVA</title>
+    <link href="https://immunefi.com/bug-bounty/nuva/information/"/>
+    <id>https://immunefi.com/bug-bounty/nuva/information/</id>
+    <updated>2026-05-18T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/program-logos/phuongn%40immunefi.com-LPbeLhpz6LJ0woMrWUCOZ.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $1,000 - $40000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
 </feed>
