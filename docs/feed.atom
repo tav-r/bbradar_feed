@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-09-09T11:04:32.274329+00:00</updated>
+  <updated>2026-09-09T16:21:08.665858+00:00</updated>
   <entry>
     <title>[Cantina] Robinhood</title>
     <link href="https://cantina.xyz/bounties/2acbecd1-3a5e-44fb-a324-a524c156d690"/>
@@ -14,7 +14,7 @@
     <link href="https://hackenproof.com/programs/bullbit-qa-testing"/>
     <id>https://hackenproof.com/programs/bullbit-qa-testing</id>
     <updated>2026-09-04T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/6a9024c740041c001e0b147f/logo.png?timestamp=1788534015' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $10 - $50&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/6a9024c740041c001e0b147f/logo.png?timestamp=1788953367' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $10 - $50&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[HackenProof] Hinkal Bug Bounty</title>
