@@ -1,13 +1,20 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-09-10T11:00:49.171107+00:00</updated>
+  <updated>2026-09-10T16:11:39.545048+00:00</updated>
   <entry>
     <title>[HackenProof] Europeum API DualDefense Audit</title>
     <link href="https://hackenproof.com/audit-programs/europeum-api-dualdefense-audit"/>
     <id>https://hackenproof.com/audit-programs/europeum-api-dualdefense-audit</id>
     <updated>2026-09-10T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://hackenproof.com/uploads/bounty_program/logo/6aa1303e40041c00100b5544/logo.png?timestamp=1789029665' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $5000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://hackenproof.com/uploads/bounty_program/logo/6aa1303e40041c00100b5544/logo.png?timestamp=1789049104' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $5000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
+  <entry>
+    <title>[YesWeHack] Kiteworks Public Bug Bounty Program</title>
+    <link href="https://yeswehack.com/programs/kiteworks-public-bug-bounty-program-1"/>
+    <id>https://yeswehack.com/programs/kiteworks-public-bug-bounty-program-1</id>
+    <updated>2026-09-10T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://cdn-yeswehack.com/program/thumbnail/9fe00523-8a6c-436a-bf8e-ee9661d0afa0' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; YesWeHack&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $50000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[Cantina] Robinhood</title>
@@ -694,12 +701,5 @@
     <id>https://audits.sherlock.xyz/bug-bounties/287</id>
     <updated>2026-05-19T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://sherlock-files.ams3.digitaloceanspaces.com/contests/inverse-finance.jpg' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Sherlock&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $20000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[Sherlock] Midas </title>
-    <link href="https://audits.sherlock.xyz/bug-bounties/122"/>
-    <id>https://audits.sherlock.xyz/bug-bounties/122</id>
-    <updated>2026-05-19T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://sherlock-files.ams3.digitaloceanspaces.com/protocols/midas_1774265971.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Sherlock&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $500000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
 </feed>
