@@ -1,7 +1,14 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-09-11T10:59:21.732811+00:00</updated>
+  <updated>2026-09-11T16:15:07.553010+00:00</updated>
+  <entry>
+    <title>[Cantina] Tenbin Bug Bounty</title>
+    <link href="https://cantina.xyz/bounties/0420bc1a-9177-4e4e-8da7-826d273e3d3e"/>
+    <id>https://cantina.xyz/bounties/0420bc1a-9177-4e4e-8da7-826d273e3d3e</id>
+    <updated>2026-09-11T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/09901460-b4a1-4a7c-e3bb-3ace7d604e00/public' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Cantina&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $500 - $40000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
   <entry>
     <title>[HackenProof] Europeum API DualDefense Audit</title>
     <link href="https://hackenproof.com/audit-programs/europeum-api-dualdefense-audit"/>
@@ -694,12 +701,5 @@
     <id>https://bugcrowd.com/engagements/launchdarkly-mbb-og</id>
     <updated>2026-05-19T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://logos.bugcrowdusercontent.com/logos/e720/19af/d74562be/68b4e5e9d7381f76a0e8279426261aec_launchdarkly_logo.jpeg' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; BugCrowd&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $150 - $7500&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[Sherlock] Monolith Stablecoin Factory</title>
-    <link href="https://audits.sherlock.xyz/bug-bounties/287"/>
-    <id>https://audits.sherlock.xyz/bug-bounties/287</id>
-    <updated>2026-05-19T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://sherlock-files.ams3.digitaloceanspaces.com/contests/inverse-finance.jpg' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Sherlock&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $20000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
 </feed>
