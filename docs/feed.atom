@@ -1,13 +1,20 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-09-14T12:24:03.068391+00:00</updated>
+  <updated>2026-09-14T21:41:57.378591+00:00</updated>
   <entry>
     <title>[HackenProof] Hotcoin Web &amp; Mobile</title>
     <link href="https://hackenproof.com/programs/hotcoin-web-and-mobile"/>
     <id>https://hackenproof.com/programs/hotcoin-web-and-mobile</id>
     <updated>2026-09-14T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/6a955c8c40041c001e0b22a6/logo.png?timestamp=1789376955' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $1000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
+  <entry>
+    <title>[HackenProof] RAIN-USDR Smart Contract Audit Contest (Sept 2026)</title>
+    <link href="https://hackenproof.com/audit-programs/rain-usdr-smart-contract-audit-contest-sept-2026"/>
+    <id>https://hackenproof.com/audit-programs/rain-usdr-smart-contract-audit-contest-sept-2026</id>
+    <updated>2026-09-14T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://hackenproof.com/uploads/bounty_program/logo/6a9aca8940041c00100b3a36/logo.png?timestamp=1789398742' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $14000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[Cantina] Tenbin Bug Bounty</title>
@@ -204,13 +211,6 @@
     <id>https://hackerone.com/box_private</id>
     <updated>2026-08-04T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/000/042/006/19b447bf4aa76e096e280c44655b589468b548fe_original./89f037b490baf3dcca1b84283f4c85141b64c213252a9c79b56c62bf903ab542' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $150 - $5000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[Huntr] Inside Job - Three Agents, Three Secrets</title>
-    <link href="https://huntr.com/challenges/3AjanuyEaXoNr6ySHpyo6L/v1/rules"/>
-    <id>https://huntr.com/challenges/3AjanuyEaXoNr6ySHpyo6L/v1/rules</id>
-    <updated>2026-07-31T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://huntr.com/assets/challenges/card-1.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Huntr&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $15000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[Immunefi] Leather</title>
