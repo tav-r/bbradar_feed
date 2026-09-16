@@ -1,13 +1,20 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-09-16T04:21:20.735558+00:00</updated>
+  <updated>2026-09-16T11:15:21.226905+00:00</updated>
   <entry>
     <title>[HackerOne] Arc BBP</title>
     <link href="https://hackerone.com/arc-bbp"/>
     <id>https://hackerone.com/arc-bbp</id>
     <updated>2026-09-16T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/jj8tp30ps1qu32rsz18bywhyxc3r/89f037b490baf3dcca1b84283f4c85141b64c213252a9c79b56c62bf903ab542' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $200000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
+  <entry>
+    <title>[HackerOne] d-you App &amp; German EUDI Wallet Ecosystem</title>
+    <link href="https://hackerone.com/common_codes"/>
+    <id>https://hackerone.com/common_codes</id>
+    <updated>2026-09-16T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/4yt030d544xdnq3qazrp89ppl6kf/1d3351b56b27c9bb56ce22821a57514a7210186a77aefb760cd2113272723c1f' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $100 - $15000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[Huntr] Blind Trust: Turn Their Trust Against Them</title>
@@ -420,7 +427,7 @@
     <link href="https://immunefi.com/bug-bounty/gmtrade/information/"/>
     <id>https://immunefi.com/bug-bounty/gmtrade/information/</id>
     <updated>2026-07-06T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/109982-JkUubvelMtdWlXGDV-SYa.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $2,500 - $100000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/109982-JkUubvelMtdWlXGDV-SYa.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $1,000 - $100000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[Sherlock] Pinto</title>
@@ -694,12 +701,5 @@
     <id>https://hackenproof.com/programs/superearn-web-and-smart-contracts</id>
     <updated>2026-05-27T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/694189ec40041c000e6bff12/logo.png?timestamp=1784711715' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $100 - $30000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[HackerOne] Gogo VDP</title>
-    <link href="https://hackerone.com/gogo_vdp"/>
-    <id>https://hackerone.com/gogo_vdp</id>
-    <updated>2026-05-27T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/hdnoq1vu2cf8uuv32xaz9ci7dsvh/8f5393bb06e000811ac3ac31f77f5ce1d049785766c3d25a25cec97adaa9cc12' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
 </feed>
