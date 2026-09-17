@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-09-17T04:27:38.178980+00:00</updated>
+  <updated>2026-09-17T11:23:44.055871+00:00</updated>
   <entry>
     <title>[HackerOne] Arc</title>
     <link href="https://hackerone.com/arc-bbp"/>
@@ -84,7 +84,7 @@
     <link href="https://hackenproof.com/programs/hinkal-bug-bounty"/>
     <id>https://hackenproof.com/programs/hinkal-bug-bounty</id>
     <updated>2026-09-03T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/6a871fc140041c000d584e4e/logo.png?timestamp=1789580404' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $10000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/6a871fc140041c000d584e4e/logo.png?timestamp=1789622540' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $10000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[HackerOne] Semtech</title>
