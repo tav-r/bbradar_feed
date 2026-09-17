@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-09-17T11:23:44.055871+00:00</updated>
+  <updated>2026-09-17T16:41:41.258808+00:00</updated>
   <entry>
     <title>[HackerOne] Arc</title>
     <link href="https://hackerone.com/arc-bbp"/>
@@ -532,7 +532,7 @@
     <link href="https://immunefi.com/bug-bounty/cosmos/information/"/>
     <id>https://immunefi.com/bug-bounty/cosmos/information/</id>
     <updated>2026-06-22T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/program-logos/sebastian%40immunefi.com-G80dK2NYJcfl_hXexN5rn.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $1,000 - $50000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/program-logos/sebastian%40immunefi.com-G80dK2NYJcfl_hXexN5rn.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $500 - $50000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[Intigriti] TrueLayer VDP</title>
