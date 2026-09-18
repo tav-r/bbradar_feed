@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-09-17T21:10:29.368647+00:00</updated>
+  <updated>2026-09-18T04:11:49.827830+00:00</updated>
   <entry>
     <title>[HackerOne] Arc</title>
     <link href="https://hackerone.com/arc-bbp"/>
