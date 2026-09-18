@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-09-18T10:57:46.250260+00:00</updated>
+  <updated>2026-09-18T16:11:47.923744+00:00</updated>
   <entry>
     <title>[HackerOne] Arc</title>
     <link href="https://hackerone.com/arc-bbp"/>
@@ -364,7 +364,7 @@
     <link href="https://hackenproof.com/programs/adi-predictstreet-smart-contracts"/>
     <id>https://hackenproof.com/programs/adi-predictstreet-smart-contracts</id>
     <updated>2026-07-13T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/6a3bd06940041c001b1a63b8/logo.png?timestamp=1783940620' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $10000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/6a3bd06940041c001b1a63b8/logo.png?timestamp=1789739954' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $10000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[Sherlock] Rujira</title>
