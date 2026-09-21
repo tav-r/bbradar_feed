@@ -1,7 +1,21 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-09-21T12:30:50.949918+00:00</updated>
+  <updated>2026-09-21T21:52:31.396737+00:00</updated>
+  <entry>
+    <title>[HackerOne] Vercel</title>
+    <link href="https://hackerone.com/vercel"/>
+    <id>https://hackerone.com/vercel</id>
+    <updated>2026-09-21T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/qpx8n5k0r3n1vjii47uao70jjzjt/89f037b490baf3dcca1b84283f4c85141b64c213252a9c79b56c62bf903ab542' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $10000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
+  <entry>
+    <title>[Sherlock] Babylon</title>
+    <link href="https://audits.sherlock.xyz/bug-bounties/400"/>
+    <id>https://audits.sherlock.xyz/bug-bounties/400</id>
+    <updated>2026-09-21T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://sherlock-files.ams3.digitaloceanspaces.com/contests/babylon_logo.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Sherlock&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $500000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
   <entry>
     <title>[Intigriti] Challenge 0926</title>
     <link href="https://app.intigriti.com/programs/intigriti/challenge0926/detail"/>
@@ -687,19 +701,5 @@
     <id>https://cantina.xyz/bounties/d558609e-d378-446b-a69d-2a577533f333</id>
     <updated>2026-06-02T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/f7c4fc9e-fa88-403f-b919-385074a40f00/public' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Cantina&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $2,500 - $250000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[Cantina] Ondo Perps</title>
-    <link href="https://cantina.xyz/bounties/5ffa2a58-2121-4986-b318-43f8ba9a559e"/>
-    <id>https://cantina.xyz/bounties/5ffa2a58-2121-4986-b318-43f8ba9a559e</id>
-    <updated>2026-06-02T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/e6dee25f-7bbe-466d-69df-5cf213fbde00/public' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Cantina&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $1,000 - $1500000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[Sherlock] Sport.Fun</title>
-    <link href="https://audits.sherlock.xyz/bug-bounties/100"/>
-    <id>https://audits.sherlock.xyz/bug-bounties/100</id>
-    <updated>2026-06-02T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://sherlock-files.ams3.digitaloceanspaces.com/contests/Football.Fun.jpg' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Sherlock&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $250000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
 </feed>
