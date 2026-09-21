@@ -1,7 +1,14 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-09-21T04:25:42.476540+00:00</updated>
+  <updated>2026-09-21T12:30:50.949918+00:00</updated>
+  <entry>
+    <title>[Intigriti] Challenge 0926</title>
+    <link href="https://app.intigriti.com/programs/intigriti/challenge0926/detail"/>
+    <id>https://app.intigriti.com/programs/intigriti/challenge0926/detail</id>
+    <updated>2026-09-17T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://app.intigriti.com/api/file/api/file/public_bucket_4a9183d2-6b19-42a2-bdba-ca189c2c8cf3-7524e932-f18b-463c-92d2-28c8e9c12ed9' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Intigriti&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
   <entry>
     <title>[HackerOne] Arc</title>
     <link href="https://hackerone.com/arc-bbp"/>
@@ -694,12 +701,5 @@
     <id>https://audits.sherlock.xyz/bug-bounties/100</id>
     <updated>2026-06-02T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://sherlock-files.ams3.digitaloceanspaces.com/contests/Football.Fun.jpg' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Sherlock&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $250000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[Intigriti] NVIDIA Public Bug Bounty</title>
-    <link href="https://app.intigriti.com/programs/nvidia/nvidiapublicbugbounty/detail"/>
-    <id>https://app.intigriti.com/programs/nvidia/nvidiapublicbugbounty/detail</id>
-    <updated>2026-05-28T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://app.intigriti.com/api/file/api/file/public_bucket_d637c581-50b0-4fbb-b228-4411189e0d0f-0eb2b012-a3a9-4134-a826-43726ffc0110' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Intigriti&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $150 - $15000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
 </feed>
