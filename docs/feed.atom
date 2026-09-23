@@ -1,7 +1,14 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-09-23T11:13:58.804382+00:00</updated>
+  <updated>2026-09-23T16:35:50.508629+00:00</updated>
+  <entry>
+    <title>[HackerOne] Nebius AI Vulnerability Disclosure</title>
+    <link href="https://hackerone.com/nebius_ai_vdp"/>
+    <id>https://hackerone.com/nebius_ai_vdp</id>
+    <updated>2026-09-23T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/sci1iamtvt2loa9edocdvt33nlx5/8f5393bb06e000811ac3ac31f77f5ce1d049785766c3d25a25cec97adaa9cc12' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
   <entry>
     <title>[HackerOne] Vercel</title>
     <link href="https://hackerone.com/vercel"/>
@@ -694,12 +701,5 @@
     <id>https://cantina.xyz/bounties/79042c5c-2331-4100-9bc7-249a540cd013</id>
     <updated>2026-06-03T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/91b00f2f-c2ce-468a-f6b1-13298dd51200/public' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Cantina&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $1,000 - $500000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[HackenProof] Zeko Protocol</title>
-    <link href="https://hackenproof.com/programs/zeko-protocol"/>
-    <id>https://hackenproof.com/programs/zeko-protocol</id>
-    <updated>2026-06-02T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/699c1a9940041c000f7a20fb/logo.png?timestamp=1783583437' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $300 - $3000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
 </feed>
