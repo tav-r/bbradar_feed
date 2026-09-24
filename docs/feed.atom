@@ -1,7 +1,21 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-09-24T11:29:04.541895+00:00</updated>
+  <updated>2026-09-24T16:55:12.055042+00:00</updated>
+  <entry>
+    <title>[HackerOne] Kaltura</title>
+    <link href="https://hackerone.com/kaltura"/>
+    <id>https://hackerone.com/kaltura</id>
+    <updated>2026-09-24T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/05t3ms9in1q34tyy5u55o091n7dw/89f037b490baf3dcca1b84283f4c85141b64c213252a9c79b56c62bf903ab542' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $1500&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
+  <entry>
+    <title>[HackerOne] CoinDCX Vulnerability Disclosure</title>
+    <link href="https://hackerone.com/coindcx_vdp"/>
+    <id>https://hackerone.com/coindcx_vdp</id>
+    <updated>2026-09-24T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/rse2rnyu10o1ezkmhkmcgjgpjlf6/89f037b490baf3dcca1b84283f4c85141b64c213252a9c79b56c62bf903ab542' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
   <entry>
     <title>[HackerOne] Nebius AI Vulnerability Disclosure</title>
     <link href="https://hackerone.com/nebius_ai_vdp"/>
@@ -687,19 +701,5 @@
     <id>https://app.intigriti.com/programs/saltosystems/saltovulnerabilitydisclosure/detail</id>
     <updated>2026-06-10T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://app.intigriti.com/api/file/api/file/public_bucket_f366112b-8940-43b2-85dc-9947b444bd67-628a273a-42ba-4b0f-8ac5-17a9e3723a83' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Intigriti&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[Sherlock] Paradex</title>
-    <link href="https://audits.sherlock.xyz/bug-bounties/344"/>
-    <id>https://audits.sherlock.xyz/bug-bounties/344</id>
-    <updated>2026-06-08T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://sherlock-files.ams3.digitaloceanspaces.com/contests/Paradex.jpg' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Sherlock&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $500000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[HackerOne] PhonePe</title>
-    <link href="https://hackerone.com/phonepe_vdp"/>
-    <id>https://hackerone.com/phonepe_vdp</id>
-    <updated>2026-06-04T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/t9tr283zw9oqtuh0nwxnys1v3k5p/89f037b490baf3dcca1b84283f4c85141b64c213252a9c79b56c62bf903ab542' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
 </feed>
