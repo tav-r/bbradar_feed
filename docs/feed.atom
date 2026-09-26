@@ -1,14 +1,7 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-09-26T16:10:08.673056+00:00</updated>
-  <entry>
-    <title>[HackerOne] Kaltura</title>
-    <link href="https://hackerone.com/kaltura"/>
-    <id>https://hackerone.com/kaltura</id>
-    <updated>2026-09-24T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/05t3ms9in1q34tyy5u55o091n7dw/89f037b490baf3dcca1b84283f4c85141b64c213252a9c79b56c62bf903ab542' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $1 - $500&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
+  <updated>2026-09-26T20:54:22.896803+00:00</updated>
   <entry>
     <title>[HackerOne] CoinDCX Vulnerability Disclosure</title>
     <link href="https://hackerone.com/coindcx_vdp"/>
@@ -701,5 +694,12 @@
     <id>https://hackerone.com/epicgames-vdp</id>
     <updated>2026-06-10T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/axhfyt9oe3e8o1zc30qwxxop9xka/89f037b490baf3dcca1b84283f4c85141b64c213252a9c79b56c62bf903ab542' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
+  <entry>
+    <title>[Intigriti] Salto Vulnerability Disclosure </title>
+    <link href="https://app.intigriti.com/programs/saltosystems/saltovulnerabilitydisclosure/detail"/>
+    <id>https://app.intigriti.com/programs/saltosystems/saltovulnerabilitydisclosure/detail</id>
+    <updated>2026-06-10T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://app.intigriti.com/api/file/api/file/public_bucket_f366112b-8940-43b2-85dc-9947b444bd67-628a273a-42ba-4b0f-8ac5-17a9e3723a83' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Intigriti&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
 </feed>
