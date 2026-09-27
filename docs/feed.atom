@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-09-27T16:46:01.880655+00:00</updated>
+  <updated>2026-09-27T21:11:04.171538+00:00</updated>
   <entry>
     <title>[HackerOne] CoinDCX Vulnerability Disclosure</title>
     <link href="https://hackerone.com/coindcx_vdp"/>
