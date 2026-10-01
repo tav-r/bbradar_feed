@@ -1,7 +1,21 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-10-01T05:19:07.046463+00:00</updated>
+  <updated>2026-10-01T12:52:43.330259+00:00</updated>
+  <entry>
+    <title>[Sherlock] Golem Network</title>
+    <link href="https://audits.sherlock.xyz/bug-bounties/412"/>
+    <id>https://audits.sherlock.xyz/bug-bounties/412</id>
+    <updated>2026-10-01T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://sherlock-files.ams3.digitaloceanspaces.com/contests/Golem Network.jpg' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Sherlock&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $10000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
+  <entry>
+    <title>[Compass Security] Graubündner Kantonalbank</title>
+    <link href="https://bugbounty.compass-security.com/service-details.html?id=27"/>
+    <id>https://bugbounty.compass-security.com/service-details.html?id=27</id>
+    <updated>2026-09-30T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://bugbounty.hacking-lab.com/api/pub/v1/program/27/image' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Compass Security&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $120 - $5995&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
   <entry>
     <title>[HackenProof] Ult: Trade Stocks &amp; Crypto</title>
     <link href="https://hackenproof.com/programs/ult-trade-stocks-and-crypto"/>
@@ -29,6 +43,13 @@
     <id>https://hackerone.com/live_nation</id>
     <updated>2026-09-24T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/y6plxooffttl78q6i4ljz93ss7j9/89f037b490baf3dcca1b84283f4c85141b64c213252a9c79b56c62bf903ab542' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $200 - $10000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
+  <entry>
+    <title>[Intigriti] NxtPort VDP</title>
+    <link href="https://app.intigriti.com/programs/portofantwerp/nxtportvdp/detail"/>
+    <id>https://app.intigriti.com/programs/portofantwerp/nxtportvdp/detail</id>
+    <updated>2026-09-24T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://app.intigriti.com/api/file/api/file/public_bucket_4d7c42e0-d34a-4fb1-9fd7-7bc129d3c3cb-4ec7dd66-ff83-4681-87bf-c9385f5622c9' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Intigriti&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[HackerOne] Nebius AI Vulnerability Disclosure</title>
@@ -504,7 +525,7 @@
     <link href="https://hackenproof.com/programs/zynk-protocol"/>
     <id>https://hackenproof.com/programs/zynk-protocol</id>
     <updated>2026-07-06T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/6a315bcc40041c3901e66b33/logo.png?timestamp=1786107067' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $5000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/6a315bcc40041c3901e66b33/logo.png?timestamp=1790858506' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $5000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[Intigriti] Dashlane Vulnerability Disclosure Program</title>
@@ -547,6 +568,13 @@
     <id>https://cantina.xyz/bounties/5314819f-b0b2-4d39-b953-d02ec74cac1a</id>
     <updated>2026-07-01T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/b6fd462c-4d69-4dda-1ec5-0ee1db626c00/public' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Cantina&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $500 - $100000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
+  <entry>
+    <title>[HackenProof] Starknet Blockchain/DLT</title>
+    <link href="https://hackenproof.com/programs/starknet-blockchain-slash-dlt"/>
+    <id>https://hackenproof.com/programs/starknet-blockchain-slash-dlt</id>
+    <updated>2026-07-01T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/69ba77ba40041c8363452d7b/logo.png?timestamp=1790838387' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $1,250 - $250000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[HackenProof] Starknet Web &amp; SC</title>
@@ -673,33 +701,5 @@
     <id>https://immunefi.com/bug-bounty/1inch-infrastructure/information/</id>
     <updated>2026-06-11T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/program-logos/sebastian%40immunefi.com-cXT4h-eUxcLXdNEz1pEey.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $100 - $20000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[Immunefi] 1inch - Business</title>
-    <link href="https://immunefi.com/bug-bounty/1inch-business/information/"/>
-    <id>https://immunefi.com/bug-bounty/1inch-business/information/</id>
-    <updated>2026-06-11T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/program-logos/sebastian%40immunefi.com-kBDb1SLqYrIF8ZZR1mjYm.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $100 - $100000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[Immunefi] 1inch - Aqua Improvement</title>
-    <link href="https://immunefi.com/bug-bounty/1inch-aqua-improvement/information/"/>
-    <id>https://immunefi.com/bug-bounty/1inch-aqua-improvement/information/</id>
-    <updated>2026-06-11T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/program-logos/sebastian%40immunefi.com-PGBK0afR1r0wiqKO0ATOa.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $100 - $25000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[Immunefi] 1inch - Aqua</title>
-    <link href="https://immunefi.com/bug-bounty/1inch-aqua/information/"/>
-    <id>https://immunefi.com/bug-bounty/1inch-aqua/information/</id>
-    <updated>2026-06-11T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/program-logos/sebastian%40immunefi.com-9KuIMXdORw2kDGjEQXDL0.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $100 - $100000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[HackenProof] Arcadia Finance Smart Contracts</title>
-    <link href="https://hackenproof.com/programs/arcadia-finance-company-smart-contracts"/>
-    <id>https://hackenproof.com/programs/arcadia-finance-company-smart-contracts</id>
-    <updated>2026-06-10T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/6a0de4df40041c0021c244a6/logo.png?timestamp=1790787928' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $25000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
 </feed>
