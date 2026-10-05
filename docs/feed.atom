@@ -1,7 +1,14 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-10-05T05:06:15.975717+00:00</updated>
+  <updated>2026-10-05T14:13:08.587767+00:00</updated>
+  <entry>
+    <title>[HackenProof] Digital Oro International SCA DualDefense Audit</title>
+    <link href="https://hackenproof.com/audit-programs/digital-oro-international-sca-dualdefense-audit"/>
+    <id>https://hackenproof.com/audit-programs/digital-oro-international-sca-dualdefense-audit</id>
+    <updated>2026-10-05T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/6a8c2aff40041c0011585cea/logo.png?timestamp=1791208799' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $3000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
   <entry>
     <title>[HackenProof] EverValue SCA DualDefense Audit</title>
     <link href="https://hackenproof.com/audit-programs/evervalue-sca-dualdefense-audit"/>
@@ -294,7 +301,7 @@
     <link href="https://app.intigriti.com/programs/adac/adacvulnerabilitydisclosureprogram/detail"/>
     <id>https://app.intigriti.com/programs/adac/adacvulnerabilitydisclosureprogram/detail</id>
     <updated>2026-08-24T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://app.intigriti.com/api/file/api/file/public_bucket_ef2ecfef-e19d-4f54-be72-d460a0a98c19-2cdb0efa-c539-4950-ad76-d9413699a58d' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Intigriti&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://app.intigriti.com/api/file/api/file/public_bucket_d6296c77-8c5f-4dc0-ad65-329065d8677e-381e4d0c-9592-4f4e-9336-d421bcf6cefe' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Intigriti&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[HackerOne] Vercel Sandbox</title>
@@ -694,12 +701,5 @@
     <id>https://immunefi.com/bug-bounty/1inch-web/information/</id>
     <updated>2026-06-11T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/program-logos/phuongn%40immunefi.com-H18TSSw2dXg4KqUiel4QJ.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $100 - $50000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[Immunefi] 1inch - Wallet</title>
-    <link href="https://immunefi.com/bug-bounty/1inch-wallet/information/"/>
-    <id>https://immunefi.com/bug-bounty/1inch-wallet/information/</id>
-    <updated>2026-06-11T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/program-logos/sebastian%40immunefi.com-0D7ORCa1eljegSHa4S61Q.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $100 - $100000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
 </feed>
