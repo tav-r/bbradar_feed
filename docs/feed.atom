@@ -1,13 +1,20 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-10-08T13:10:27.984221+00:00</updated>
+  <updated>2026-10-08T23:10:06.120861+00:00</updated>
   <entry>
     <title>[HackerOne] Aegean Airlines Vulnerability Disclosure</title>
     <link href="https://hackerone.com/aegean_airlines_vdp"/>
     <id>https://hackerone.com/aegean_airlines_vdp</id>
     <updated>2026-10-08T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/kuval1jycfna1jxoi78q2pczmxzs/89f037b490baf3dcca1b84283f4c85141b64c213252a9c79b56c62bf903ab542' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
+  <entry>
+    <title>[HackerOne] Verisk VDP</title>
+    <link href="https://hackerone.com/verisk_vdp"/>
+    <id>https://hackerone.com/verisk_vdp</id>
+    <updated>2026-10-08T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/65g077eoqz3u6v7x9cwqafnbd3s2/89f037b490baf3dcca1b84283f4c85141b64c213252a9c79b56c62bf903ab542' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[Cantina] Revert v4lend Competition</title>
@@ -35,7 +42,7 @@
     <link href="https://bugbounty.compass-security.com/service-details.html?id=27"/>
     <id>https://bugbounty.compass-security.com/service-details.html?id=27</id>
     <updated>2026-10-01T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://bugbounty.hacking-lab.com/api/pub/v1/program/27/image' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Compass Security&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $121 - $6010&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://bugbounty.hacking-lab.com/api/pub/v1/program/27/image' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Compass Security&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $121 - $6001&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[Sherlock] Golem Network</title>
@@ -63,7 +70,7 @@
     <link href="https://bugbounty.standoff365.com/en-US/programs/anyquery"/>
     <id>https://bugbounty.standoff365.com/en-US/programs/anyquery</id>
     <updated>2026-09-25T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://api.standoff365.com/api/bug-bounty/program/logo/b271c501-c3ef-4c42-895b-59ee6cb1a7ba.png?program_id=638' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Standoff365&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $1167&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://api.standoff365.com/api/bug-bounty/program/logo/b271c501-c3ef-4c42-895b-59ee6cb1a7ba.png?program_id=638' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Standoff365&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $1170&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[HackerOne] CoinDCX Vulnerability Disclosure</title>
@@ -119,7 +126,7 @@
     <link href="https://bugbounty.standoff365.com/en-US/programs/pik_mosobl"/>
     <id>https://bugbounty.standoff365.com/en-US/programs/pik_mosobl</id>
     <updated>2026-09-21T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://api.standoff365.com/api/bug-bounty/program/logo/ec769304-d35d-4dfd-b42d-4726a12a937f.png?program_id=629' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Standoff365&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $876&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://api.standoff365.com/api/bug-bounty/program/logo/ec769304-d35d-4dfd-b42d-4726a12a937f.png?program_id=629' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Standoff365&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $878&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[Intigriti] Challenge 0926</title>
@@ -392,14 +399,14 @@
     <link href="https://bugbounty.standoff365.com/en-US/programs/tbki"/>
     <id>https://bugbounty.standoff365.com/en-US/programs/tbki</id>
     <updated>2026-07-29T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://api.standoff365.com/api/bug-bounty/program/logo/9677b232-5e05-41e1-9202-d40d1a325da4.png?program_id=605' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Standoff365&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $1167&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://api.standoff365.com/api/bug-bounty/program/logo/9677b232-5e05-41e1-9202-d40d1a325da4.png?program_id=605' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Standoff365&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $1170&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[Standoff365] Центральный Университет</title>
     <link href="https://bugbounty.standoff365.com/en-US/programs/cu"/>
     <id>https://bugbounty.standoff365.com/en-US/programs/cu</id>
     <updated>2026-07-29T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://api.standoff365.com/api/bug-bounty/program/logo/7ebdaade-35bf-47de-9bed-0d47f4bcba3f.png?program_id=606' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Standoff365&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $1167&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://api.standoff365.com/api/bug-bounty/program/logo/7ebdaade-35bf-47de-9bed-0d47f4bcba3f.png?program_id=606' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Standoff365&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $1170&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[Sherlock] Vesu</title>
@@ -448,7 +455,7 @@
     <link href="https://bugbounty.standoff365.com/en-US/programs/hh_setka"/>
     <id>https://bugbounty.standoff365.com/en-US/programs/hh_setka</id>
     <updated>2026-07-22T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://api.standoff365.com/api/bug-bounty/program/logo/fa77107d-f122-427c-9efd-87dc59fb6445.jpeg?program_id=594' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Standoff365&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $5834&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://api.standoff365.com/api/bug-bounty/program/logo/fa77107d-f122-427c-9efd-87dc59fb6445.jpeg?program_id=594' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Standoff365&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $5850&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[HackerOne] Abercrombie &amp; Fitch Bug Bounty</title>
@@ -539,7 +546,7 @@
     <link href="https://bugbounty.standoff365.com/en-US/programs/epgu"/>
     <id>https://bugbounty.standoff365.com/en-US/programs/epgu</id>
     <updated>2026-07-07T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://api.standoff365.com/api/bug-bounty/program/logo/2fc2b3e2-6a80-47c9-92d0-cd78280609f3.jpeg?program_id=579' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Standoff365&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $5834&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://api.standoff365.com/api/bug-bounty/program/logo/2fc2b3e2-6a80-47c9-92d0-cd78280609f3.jpeg?program_id=579' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Standoff365&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $5850&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[Intigriti] Ivo: AI VDP</title>
@@ -686,7 +693,7 @@
     <link href="https://bugbounty.standoff365.com/en-US/programs/MyReviews"/>
     <id>https://bugbounty.standoff365.com/en-US/programs/MyReviews</id>
     <updated>2026-06-18T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://api.standoff365.com/api/bug-bounty/program/logo/074b4b96-512a-42c5-b423-b66caae8e5fc.jpeg?program_id=567' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Standoff365&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $584&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://api.standoff365.com/api/bug-bounty/program/logo/074b4b96-512a-42c5-b423-b66caae8e5fc.jpeg?program_id=567' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Standoff365&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $585&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[Sherlock] Flying Tulip</title>
@@ -694,12 +701,5 @@
     <id>https://audits.sherlock.xyz/bug-bounties/248</id>
     <updated>2026-06-18T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://sherlock-files.ams3.digitaloceanspaces.com/contests/Flying Tulip.jpg' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Sherlock&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $1000000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[Bug Bounty Switzerland] Stadler Rail AG - VDP</title>
-    <link href="https://app.signalfisher.com/hacker/engagement/details/815cf11b-5835-4f8c-94f7-1cfb11f9943f"/>
-    <id>https://app.signalfisher.com/hacker/engagement/details/815cf11b-5835-4f8c-94f7-1cfb11f9943f</id>
-    <updated>2026-06-11T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Bug Bounty Switzerland&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
 </feed>
