@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-10-09T22:29:14.204797+00:00</updated>
+  <updated>2026-10-10T05:22:12.033824+00:00</updated>
   <entry>
     <title>[HackerOne] Aegean Airlines Vulnerability Disclosure</title>
     <link href="https://hackerone.com/aegean_airlines_vdp"/>
