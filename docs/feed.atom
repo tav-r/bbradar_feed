@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-10-10T05:22:12.033824+00:00</updated>
+  <updated>2026-10-10T12:14:50.895645+00:00</updated>
   <entry>
     <title>[HackerOne] Aegean Airlines Vulnerability Disclosure</title>
     <link href="https://hackerone.com/aegean_airlines_vdp"/>
@@ -694,12 +694,5 @@
     <id>https://bugbounty.standoff365.com/en-US/programs/MyReviews</id>
     <updated>2026-06-18T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://api.standoff365.com/api/bug-bounty/program/logo/074b4b96-512a-42c5-b423-b66caae8e5fc.jpeg?program_id=567' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Standoff365&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $586&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[Sherlock] Flying Tulip</title>
-    <link href="https://audits.sherlock.xyz/bug-bounties/248"/>
-    <id>https://audits.sherlock.xyz/bug-bounties/248</id>
-    <updated>2026-06-18T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://sherlock-files.ams3.digitaloceanspaces.com/contests/Flying Tulip.jpg' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Sherlock&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $1000000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
 </feed>
