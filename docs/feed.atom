@@ -1,13 +1,20 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-10-12T05:27:04.258011+00:00</updated>
+  <updated>2026-10-12T15:01:59.940472+00:00</updated>
   <entry>
     <title>[Huntr] The Quiet Part: Govware Training Grounds 2026</title>
     <link href="https://huntr.com/challenges/1LibLSXGmidGqp1R48nNeQ/v1/rules"/>
     <id>https://huntr.com/challenges/1LibLSXGmidGqp1R48nNeQ/v1/rules</id>
     <updated>2026-10-12T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://huntr.com/assets/challenges/card-1.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Huntr&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
+  <entry>
+    <title>[HackenProof] DreamX Marketplace &amp; DEX SCA DualDefense Audit</title>
+    <link href="https://hackenproof.com/audit-programs/dreamx-marketplace-and-dex-sca-dualdefense-audit"/>
+    <id>https://hackenproof.com/audit-programs/dreamx-marketplace-and-dex-sca-dualdefense-audit</id>
+    <updated>2026-10-12T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/6abd0eee40041c00116ed612/logo.png?timestamp=1791803947' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $2500&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[HackerOne] Aegean Airlines Vulnerability Disclosure</title>
@@ -694,12 +701,5 @@
     <id>https://hackerone.com/agoda-public</id>
     <updated>2026-06-18T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/4v0qy97tca9o5prfc203i5t5rrx0/8f5393bb06e000811ac3ac31f77f5ce1d049785766c3d25a25cec97adaa9cc12' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $150 - $6000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[Standoff365] MyReviews</title>
-    <link href="https://bugbounty.standoff365.com/en-US/programs/MyReviews"/>
-    <id>https://bugbounty.standoff365.com/en-US/programs/MyReviews</id>
-    <updated>2026-06-18T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://api.standoff365.com/api/bug-bounty/program/logo/074b4b96-512a-42c5-b423-b66caae8e5fc.jpeg?program_id=567' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Standoff365&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $586&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
 </feed>
