@@ -1,7 +1,14 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-10-11T21:42:54.394114+00:00</updated>
+  <updated>2026-10-12T05:27:04.258011+00:00</updated>
+  <entry>
+    <title>[Huntr] The Quiet Part: Govware Training Grounds 2026</title>
+    <link href="https://huntr.com/challenges/1LibLSXGmidGqp1R48nNeQ/v1/rules"/>
+    <id>https://huntr.com/challenges/1LibLSXGmidGqp1R48nNeQ/v1/rules</id>
+    <updated>2026-10-12T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://huntr.com/assets/challenges/card-1.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Huntr&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
   <entry>
     <title>[HackerOne] Aegean Airlines Vulnerability Disclosure</title>
     <link href="https://hackerone.com/aegean_airlines_vdp"/>
