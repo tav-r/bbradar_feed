@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-10-12T15:01:59.940472+00:00</updated>
+  <updated>2026-10-13T00:26:32.995283+00:00</updated>
   <entry>
     <title>[Huntr] The Quiet Part: Govware Training Grounds 2026</title>
     <link href="https://huntr.com/challenges/1LibLSXGmidGqp1R48nNeQ/v1/rules"/>
@@ -15,6 +15,13 @@
     <id>https://hackenproof.com/audit-programs/dreamx-marketplace-and-dex-sca-dualdefense-audit</id>
     <updated>2026-10-12T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/6abd0eee40041c00116ed612/logo.png?timestamp=1791803947' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $2500&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
+  <entry>
+    <title>[Bugbase] VaultCord</title>
+    <link href="https://bugbase.ai/programs/vaultcord"/>
+    <id>https://bugbase.ai/programs/vaultcord</id>
+    <updated>2026-10-11T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://bugbase.s3.ap-south-1.amazonaws.com/programs/6acc0778b9d87f992c4a058b/profile/26621bf94f1bd8367ac57690dc32667ae1f34dce.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Bugbase&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[HackerOne] Aegean Airlines Vulnerability Disclosure</title>
@@ -694,12 +701,5 @@
     <id>https://app.intigriti.com/programs/truelayer/truelayervdp/detail</id>
     <updated>2026-06-19T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://app.intigriti.com/api/file/api/file/public_bucket_b882cf2c-dbac-47a1-82ea-95b6b465eedb-fe056359-8ca5-45db-840f-5e4afbab812e' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Intigriti&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[HackerOne] Agoda Public</title>
-    <link href="https://hackerone.com/agoda-public"/>
-    <id>https://hackerone.com/agoda-public</id>
-    <updated>2026-06-18T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://profile-photos.hackerone-user-content.com/variants/4v0qy97tca9o5prfc203i5t5rrx0/8f5393bb06e000811ac3ac31f77f5ce1d049785766c3d25a25cec97adaa9cc12' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackerOne&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $150 - $6000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
 </feed>
