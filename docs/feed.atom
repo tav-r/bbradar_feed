@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-10-14T21:28:42.838946+00:00</updated>
+  <updated>2026-10-15T04:08:24.968572+00:00</updated>
   <entry>
     <title>[HackenProof] ZMO Exchange</title>
     <link href="https://hackenproof.com/programs/zmo-exchange"/>
@@ -217,7 +217,7 @@
     <link href="https://hackenproof.com/programs/hotcoin-web-and-mobile"/>
     <id>https://hackenproof.com/programs/hotcoin-web-and-mobile</id>
     <updated>2026-09-14T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/6a955c8c40041c001e0b22a6/logo.png?timestamp=1789376955' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $1000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/6a955c8c40041c001e0b22a6/logo.png?timestamp=1792032358' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $50 - $2000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[Cantina] Tenbin Bug Bounty</title>
