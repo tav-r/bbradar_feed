@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-10-15T21:10:37.799105+00:00</updated>
+  <updated>2026-10-16T04:04:15.456732+00:00</updated>
   <entry>
     <title>[HackenProof] ZMO Exchange</title>
     <link href="https://hackenproof.com/programs/zmo-exchange"/>
@@ -64,13 +64,6 @@
     <id>https://hackenproof.com/audit-programs/digital-oro-international-sca-dualdefense-audit</id>
     <updated>2026-10-05T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/6a8c2aff40041c0011585cea/logo.png?timestamp=1791209549' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $3000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[HackenProof] EverValue SCA DualDefense Audit</title>
-    <link href="https://hackenproof.com/audit-programs/evervalue-sca-dualdefense-audit"/>
-    <id>https://hackenproof.com/audit-programs/evervalue-sca-dualdefense-audit</id>
-    <updated>2026-10-02T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/6aba3b7f40041c000d6ec6b1/logo.png?timestamp=1790940267' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $2500&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[Compass Security] Graubündner Kantonalbank</title>
@@ -701,5 +694,12 @@
     <id>https://app.intigriti.com/programs/spacelift/spaceliftvdp/detail</id>
     <updated>2026-06-24T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://app.intigriti.com/api/file/api/file/public_bucket_666c4ebb-48f6-4cae-a086-a9b46269c391-9456e63c-a393-4137-9c45-c4fccb49a635' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Intigriti&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
+  <entry>
+    <title>[Immunefi] Cosmos</title>
+    <link href="https://immunefi.com/bug-bounty/cosmos/information/"/>
+    <id>https://immunefi.com/bug-bounty/cosmos/information/</id>
+    <updated>2026-06-22T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/program-logos/sebastian%40immunefi.com-G80dK2NYJcfl_hXexN5rn.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $500 - $50000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
 </feed>
