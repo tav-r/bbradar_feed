@@ -1,7 +1,14 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-10-16T11:06:34.422908+00:00</updated>
+  <updated>2026-10-16T16:25:18.893730+00:00</updated>
+  <entry>
+    <title>[HackenProof] Europeum V2 API DualDefense Audit</title>
+    <link href="https://hackenproof.com/audit-programs/europeum-v2-api-dualdefense-audit"/>
+    <id>https://hackenproof.com/audit-programs/europeum-v2-api-dualdefense-audit</id>
+    <updated>2026-10-16T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/6ad20a8340041c003da77c26/logo.png?timestamp=1792159401' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $2000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
   <entry>
     <title>[HackenProof] ZMO Exchange</title>
     <link href="https://hackenproof.com/programs/zmo-exchange"/>
@@ -694,12 +701,5 @@
     <id>https://app.intigriti.com/programs/spacelift/spaceliftvdp/detail</id>
     <updated>2026-06-24T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://app.intigriti.com/api/file/api/file/public_bucket_666c4ebb-48f6-4cae-a086-a9b46269c391-9456e63c-a393-4137-9c45-c4fccb49a635' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Intigriti&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $0&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[Immunefi] Cosmos</title>
-    <link href="https://immunefi.com/bug-bounty/cosmos/information/"/>
-    <id>https://immunefi.com/bug-bounty/cosmos/information/</id>
-    <updated>2026-06-22T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/program-logos/sebastian%40immunefi.com-G80dK2NYJcfl_hXexN5rn.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Immunefi&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $500 - $50000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
 </feed>
