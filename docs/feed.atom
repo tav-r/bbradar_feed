@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-10-17T03:55:14.213335+00:00</updated>
+  <updated>2026-10-17T10:26:17.053140+00:00</updated>
   <entry>
     <title>[HackenProof] Europeum V2 API DualDefense Audit</title>
     <link href="https://hackenproof.com/audit-programs/europeum-v2-api-dualdefense-audit"/>
@@ -665,7 +665,7 @@
     <link href="https://hackenproof.com/programs/starknet-web-and-sc"/>
     <id>https://hackenproof.com/programs/starknet-web-and-sc</id>
     <updated>2026-07-01T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/69ba95fa40041c000f45488f/logo.png?timestamp=1782978394' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $1,250 - $250000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/69ba95fa40041c000f45488f/logo.png?timestamp=1792214518' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $1,250 - $250000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[HackenProof] Starknet Staking</title>
