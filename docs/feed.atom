@@ -1,13 +1,13 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-10-17T10:26:17.053140+00:00</updated>
+  <updated>2026-10-17T15:20:15.816837+00:00</updated>
   <entry>
     <title>[HackenProof] Europeum V2 API DualDefense Audit</title>
     <link href="https://hackenproof.com/audit-programs/europeum-v2-api-dualdefense-audit"/>
     <id>https://hackenproof.com/audit-programs/europeum-v2-api-dualdefense-audit</id>
     <updated>2026-10-16T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/6ad20a8340041c003da77c26/logo.png?timestamp=1792159401' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $2000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+    <content type="html">&lt;div&gt;&lt;img src='https://dashboard.hackenproof.com/uploads/bounty_program/logo/6ad20a8340041c003da77c26/logo.png?timestamp=1792242730' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; HackenProof&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $2000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[Sherlock] Kamino</title>
