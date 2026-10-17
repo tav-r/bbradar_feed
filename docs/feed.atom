@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BBRadar Feed</title>
-  <updated>2026-10-16T20:48:31.931007+00:00</updated>
+  <updated>2026-10-17T03:55:14.213335+00:00</updated>
   <entry>
     <title>[HackenProof] Europeum V2 API DualDefense Audit</title>
     <link href="https://hackenproof.com/audit-programs/europeum-v2-api-dualdefense-audit"/>
@@ -15,6 +15,13 @@
     <id>https://audits.sherlock.xyz/bug-bounties/433</id>
     <updated>2026-10-16T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://sherlock-files.ams3.digitaloceanspaces.com/protocols/kamino_1779983254.jpg' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Sherlock&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $1000000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
+  </entry>
+  <entry>
+    <title>[Cantina] Rain Bug Bounty</title>
+    <link href="https://cantina.xyz/bounties/3d61254a-dd89-49e0-9adb-45fdba139b2e"/>
+    <id>https://cantina.xyz/bounties/3d61254a-dd89-49e0-9adb-45fdba139b2e</id>
+    <updated>2026-10-16T00:00:00+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;img src='https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/f8b1e8f2-fd34-4940-1c9c-6193f337e900/public' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Cantina&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $10 - $25000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
   <entry>
     <title>[HackenProof] ZMO Exchange</title>
@@ -694,12 +701,5 @@
     <id>https://cantina.xyz/bounties/5a488487-a48e-41c6-be92-2e65b569b01c</id>
     <updated>2026-06-25T00:00:00+00:00</updated>
     <content type="html">&lt;div&gt;&lt;img src='https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/aa4dbb6d-4a3f-4472-b63e-a4c8f3341500/public' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; Cantina&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $1,000 - $25000&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
-  </entry>
-  <entry>
-    <title>[BugCrowd] Bugcrowd Bug Bounty</title>
-    <link href="https://gov.bugcrowd.net/engagements/bugcrowd-mbb-og"/>
-    <id>https://gov.bugcrowd.net/engagements/bugcrowd-mbb-og</id>
-    <updated>2026-06-24T00:00:00+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;img src='https://assets.gov.bugcrowd.net/assets/2014/icons/logo-empty-ca064fa6.png' width='50' style='float:left; margin-right:10px;' /&gt;&lt;b&gt;Platform:&lt;/b&gt; BugCrowd&lt;br/&gt;&lt;b&gt;Bounty:&lt;/b&gt; $0 - $20&lt;br/&gt;&lt;/div&gt;&lt;br clear='all'/&gt;</content>
   </entry>
 </feed>
